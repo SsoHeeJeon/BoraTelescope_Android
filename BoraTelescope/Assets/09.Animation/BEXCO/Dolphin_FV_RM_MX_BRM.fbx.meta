@@ -1,0 +1,2387 @@
+fileFormatVersion: 2
+guid: 2ebe50b9a3da31d4380491e0089768fd
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: DOLPHIN_SHP
+  - first:
+      1: 100004
+    second: Mososaurus_Head_JawEndSHJnt
+  - first:
+      1: 100006
+    second: Mososaurus_Head_JawSHJnt
+  - first:
+      1: 100008
+    second: Mososaurus_Head_TopSHJnt
+  - first:
+      1: 100010
+    second: Mososaurus_l_Eyes_01SHJnt
+  - first:
+      1: 100012
+    second: Mososaurus_l_Front_Fin_01_01SHJnt
+  - first:
+      1: 100014
+    second: Mososaurus_l_Front_Fin_01_02SHJnt
+  - first:
+      1: 100016
+    second: Mososaurus_l_Front_Fin_01_03SHJnt
+  - first:
+      1: 100018
+    second: Mososaurus_l_Front_Fin_01_04SHJnt
+  - first:
+      1: 100020
+    second: Mososaurus_Neck_01SHJnt
+  - first:
+      1: 100022
+    second: Mososaurus_Neck_02SHJnt
+  - first:
+      1: 100024
+    second: Mososaurus_Neck_TopSHJnt
+  - first:
+      1: 100026
+    second: Mososaurus_r_Eyes_01SHJnt
+  - first:
+      1: 100028
+    second: Mososaurus_r_Front_Fin_01_01SHJnt
+  - first:
+      1: 100030
+    second: Mososaurus_r_Front_Fin_01_02SHJnt
+  - first:
+      1: 100032
+    second: Mososaurus_r_Front_Fin_01_03SHJnt
+  - first:
+      1: 100034
+    second: Mososaurus_r_Front_Fin_01_04SHJnt
+  - first:
+      1: 100036
+    second: Mososaurus_ROOTSHJnt
+  - first:
+      1: 100038
+    second: Mososaurus_Tail_01_01SHJnt
+  - first:
+      1: 100040
+    second: Mososaurus_Tail_01_02SHJnt
+  - first:
+      1: 100042
+    second: Mososaurus_Tail_01_03SHJnt
+  - first:
+      1: 100044
+    second: Mososaurus_Tail_01_04SHJnt
+  - first:
+      1: 100046
+    second: Mososaurus_Tail_01_05SHJnt
+  - first:
+      1: 100048
+    second: Mososaurus_Tail_01_06SHJnt
+  - first:
+      1: 100050
+    second: Mososaurus_Tail_01_07SHJnt
+  - first:
+      1: 100052
+    second: Mososaurus_Tail_01_08SHJnt
+  - first:
+      1: 100054
+    second: Mososaurus_Tail_01_09SHJnt
+  - first:
+      1: 100056
+    second: Mososaurus_Tail_01_10SHJnt
+  - first:
+      1: 100058
+    second: Mososaurus_Tail_01_11SHJnt
+  - first:
+      1: 100060
+    second: Mososaurus_Tail_01_12SHJnt
+  - first:
+      1: 100062
+    second: Mososaurus_Tail_01_13SHJnt
+  - first:
+      1: 100064
+    second: Mososaurus_Tail_01_14SHJnt
+  - first:
+      1: 100066
+    second: Mososaurus_Tail_01_15SHJnt
+  - first:
+      1: 100068
+    second: RootMotion
+  - first:
+      1: 100070
+    second: DOLPHIN_SHP1
+  - first:
+      1: 100072
+    second: Delphin_Head_JawEndSHJnt
+  - first:
+      1: 100074
+    second: Delphin_Head_JawSHJnt
+  - first:
+      1: 100076
+    second: Delphin_Head_TopSHJnt
+  - first:
+      1: 100078
+    second: Delphin_l_Eyes_01SHJnt
+  - first:
+      1: 100080
+    second: Delphin_l_Front_Fin_01_01SHJnt
+  - first:
+      1: 100082
+    second: Delphin_l_Front_Fin_01_02SHJnt
+  - first:
+      1: 100084
+    second: Delphin_l_Front_Fin_01_03SHJnt
+  - first:
+      1: 100086
+    second: Delphin_l_Front_Fin_01_04SHJnt
+  - first:
+      1: 100088
+    second: Delphin_Neck_01SHJnt
+  - first:
+      1: 100090
+    second: Delphin_Neck_02SHJnt
+  - first:
+      1: 100092
+    second: Delphin_Neck_TopSHJnt
+  - first:
+      1: 100094
+    second: Delphin_r_Eyes_01SHJnt
+  - first:
+      1: 100096
+    second: Delphin_r_Front_Fin_01_01SHJnt
+  - first:
+      1: 100098
+    second: Delphin_r_Front_Fin_01_02SHJnt
+  - first:
+      1: 100100
+    second: Delphin_r_Front_Fin_01_03SHJnt
+  - first:
+      1: 100102
+    second: Delphin_r_Front_Fin_01_04SHJnt
+  - first:
+      1: 100104
+    second: Delphin_ROOTSHJnt
+  - first:
+      1: 100106
+    second: Delphin_Tail_01_01SHJnt
+  - first:
+      1: 100108
+    second: Delphin_Tail_01_02SHJnt
+  - first:
+      1: 100110
+    second: Delphin_Tail_01_03SHJnt
+  - first:
+      1: 100112
+    second: Delphin_Tail_01_04SHJnt
+  - first:
+      1: 100114
+    second: Delphin_Tail_01_05SHJnt
+  - first:
+      1: 100116
+    second: Delphin_Tail_01_06SHJnt
+  - first:
+      1: 100118
+    second: Delphin_Tail_01_07SHJnt
+  - first:
+      1: 100120
+    second: Delphin_Tail_01_08SHJnt
+  - first:
+      1: 100122
+    second: Delphin_Tail_01_09SHJnt
+  - first:
+      1: 100124
+    second: Delphin_Tail_01_10SHJnt
+  - first:
+      1: 100126
+    second: Delphin_Tail_01_11SHJnt
+  - first:
+      1: 100128
+    second: Delphin_Tail_01_12SHJnt
+  - first:
+      1: 100130
+    second: Delphin_Tail_01_13SHJnt
+  - first:
+      1: 100132
+    second: Delphin_Tail_01_14SHJnt
+  - first:
+      1: 100134
+    second: Delphin_Tail_01_15SHJnt
+  - first:
+      1: 100136
+    second: DOLPHIN_HP
+  - first:
+      1: 100138
+    second: DOLPHIN_LP
+  - first:
+      1: 100140
+    second: DOLPHIN_SLP
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: DOLPHIN_SHP
+  - first:
+      4: 400004
+    second: Mososaurus_Head_JawEndSHJnt
+  - first:
+      4: 400006
+    second: Mososaurus_Head_JawSHJnt
+  - first:
+      4: 400008
+    second: Mososaurus_Head_TopSHJnt
+  - first:
+      4: 400010
+    second: Mososaurus_l_Eyes_01SHJnt
+  - first:
+      4: 400012
+    second: Mososaurus_l_Front_Fin_01_01SHJnt
+  - first:
+      4: 400014
+    second: Mososaurus_l_Front_Fin_01_02SHJnt
+  - first:
+      4: 400016
+    second: Mososaurus_l_Front_Fin_01_03SHJnt
+  - first:
+      4: 400018
+    second: Mososaurus_l_Front_Fin_01_04SHJnt
+  - first:
+      4: 400020
+    second: Mososaurus_Neck_01SHJnt
+  - first:
+      4: 400022
+    second: Mososaurus_Neck_02SHJnt
+  - first:
+      4: 400024
+    second: Mososaurus_Neck_TopSHJnt
+  - first:
+      4: 400026
+    second: Mososaurus_r_Eyes_01SHJnt
+  - first:
+      4: 400028
+    second: Mososaurus_r_Front_Fin_01_01SHJnt
+  - first:
+      4: 400030
+    second: Mososaurus_r_Front_Fin_01_02SHJnt
+  - first:
+      4: 400032
+    second: Mososaurus_r_Front_Fin_01_03SHJnt
+  - first:
+      4: 400034
+    second: Mososaurus_r_Front_Fin_01_04SHJnt
+  - first:
+      4: 400036
+    second: Mososaurus_ROOTSHJnt
+  - first:
+      4: 400038
+    second: Mososaurus_Tail_01_01SHJnt
+  - first:
+      4: 400040
+    second: Mososaurus_Tail_01_02SHJnt
+  - first:
+      4: 400042
+    second: Mososaurus_Tail_01_03SHJnt
+  - first:
+      4: 400044
+    second: Mososaurus_Tail_01_04SHJnt
+  - first:
+      4: 400046
+    second: Mososaurus_Tail_01_05SHJnt
+  - first:
+      4: 400048
+    second: Mososaurus_Tail_01_06SHJnt
+  - first:
+      4: 400050
+    second: Mososaurus_Tail_01_07SHJnt
+  - first:
+      4: 400052
+    second: Mososaurus_Tail_01_08SHJnt
+  - first:
+      4: 400054
+    second: Mososaurus_Tail_01_09SHJnt
+  - first:
+      4: 400056
+    second: Mososaurus_Tail_01_10SHJnt
+  - first:
+      4: 400058
+    second: Mososaurus_Tail_01_11SHJnt
+  - first:
+      4: 400060
+    second: Mososaurus_Tail_01_12SHJnt
+  - first:
+      4: 400062
+    second: Mososaurus_Tail_01_13SHJnt
+  - first:
+      4: 400064
+    second: Mososaurus_Tail_01_14SHJnt
+  - first:
+      4: 400066
+    second: Mososaurus_Tail_01_15SHJnt
+  - first:
+      4: 400068
+    second: RootMotion
+  - first:
+      4: 400070
+    second: DOLPHIN_SHP1
+  - first:
+      4: 400072
+    second: Delphin_Head_JawEndSHJnt
+  - first:
+      4: 400074
+    second: Delphin_Head_JawSHJnt
+  - first:
+      4: 400076
+    second: Delphin_Head_TopSHJnt
+  - first:
+      4: 400078
+    second: Delphin_l_Eyes_01SHJnt
+  - first:
+      4: 400080
+    second: Delphin_l_Front_Fin_01_01SHJnt
+  - first:
+      4: 400082
+    second: Delphin_l_Front_Fin_01_02SHJnt
+  - first:
+      4: 400084
+    second: Delphin_l_Front_Fin_01_03SHJnt
+  - first:
+      4: 400086
+    second: Delphin_l_Front_Fin_01_04SHJnt
+  - first:
+      4: 400088
+    second: Delphin_Neck_01SHJnt
+  - first:
+      4: 400090
+    second: Delphin_Neck_02SHJnt
+  - first:
+      4: 400092
+    second: Delphin_Neck_TopSHJnt
+  - first:
+      4: 400094
+    second: Delphin_r_Eyes_01SHJnt
+  - first:
+      4: 400096
+    second: Delphin_r_Front_Fin_01_01SHJnt
+  - first:
+      4: 400098
+    second: Delphin_r_Front_Fin_01_02SHJnt
+  - first:
+      4: 400100
+    second: Delphin_r_Front_Fin_01_03SHJnt
+  - first:
+      4: 400102
+    second: Delphin_r_Front_Fin_01_04SHJnt
+  - first:
+      4: 400104
+    second: Delphin_ROOTSHJnt
+  - first:
+      4: 400106
+    second: Delphin_Tail_01_01SHJnt
+  - first:
+      4: 400108
+    second: Delphin_Tail_01_02SHJnt
+  - first:
+      4: 400110
+    second: Delphin_Tail_01_03SHJnt
+  - first:
+      4: 400112
+    second: Delphin_Tail_01_04SHJnt
+  - first:
+      4: 400114
+    second: Delphin_Tail_01_05SHJnt
+  - first:
+      4: 400116
+    second: Delphin_Tail_01_06SHJnt
+  - first:
+      4: 400118
+    second: Delphin_Tail_01_07SHJnt
+  - first:
+      4: 400120
+    second: Delphin_Tail_01_08SHJnt
+  - first:
+      4: 400122
+    second: Delphin_Tail_01_09SHJnt
+  - first:
+      4: 400124
+    second: Delphin_Tail_01_10SHJnt
+  - first:
+      4: 400126
+    second: Delphin_Tail_01_11SHJnt
+  - first:
+      4: 400128
+    second: Delphin_Tail_01_12SHJnt
+  - first:
+      4: 400130
+    second: Delphin_Tail_01_13SHJnt
+  - first:
+      4: 400132
+    second: Delphin_Tail_01_14SHJnt
+  - first:
+      4: 400134
+    second: Delphin_Tail_01_15SHJnt
+  - first:
+      4: 400136
+    second: DOLPHIN_HP
+  - first:
+      4: 400138
+    second: DOLPHIN_LP
+  - first:
+      4: 400140
+    second: DOLPHIN_SLP
+  - first:
+      43: 4300000
+    second: DOLPHIN_SHP
+  - first:
+      43: 4300002
+    second: DOLPHIN_SHP1
+  - first:
+      43: 4300004
+    second: DOLPHIN_HP
+  - first:
+      43: 4300006
+    second: DOLPHIN_LP
+  - first:
+      43: 4300008
+    second: DOLPHIN_SLP
+  - first:
+      74: 7400000
+    second: Bind Pose
+  - first:
+      74: 7400002
+    second: Swimming
+  - first:
+      74: 7400004
+    second: Swimming 01
+  - first:
+      74: 7400006
+    second: Swimming With Jumping
+  - first:
+      74: 7400008
+    second: Swimming Look
+  - first:
+      74: 7400010
+    second: Swimming On Back
+  - first:
+      74: 7400012
+    second: Swimming Down
+  - first:
+      74: 7400014
+    second: Swimming Up
+  - first:
+      74: 7400016
+    second: Jumping
+  - first:
+      74: 7400018
+    second: Jumping High
+  - first:
+      74: 7400020
+    second: Swimming Vertical
+  - first:
+      74: 7400022
+    second: Swimming Back Vertical
+  - first:
+      74: 7400024
+    second: Turn Right360 Vertical
+  - first:
+      74: 7400026
+    second: Turn Left360 Vertical
+  - first:
+      74: 7400028
+    second: Turn Right90 Vertical
+  - first:
+      74: 7400030
+    second: Turn Left90 Vertical
+  - first:
+      74: 7400032
+    second: Sault On The Front
+  - first:
+      74: 7400034
+    second: Sault On The Back
+  - first:
+      74: 7400036
+    second: Turn Left
+  - first:
+      74: 7400038
+    second: Turn Right
+  - first:
+      74: 7400040
+    second: Swimming Diving
+  - first:
+      74: 7400042
+    second: Swimming Rising
+  - first:
+      74: 7400044
+    second: Attack Front Head
+  - first:
+      74: 7400046
+    second: Attack Down
+  - first:
+      74: 7400048
+    second: Attack Left
+  - first:
+      74: 7400050
+    second: Attack Right
+  - first:
+      74: 7400052
+    second: Strafe Left
+  - first:
+      74: 7400054
+    second: Strafe Right
+  - first:
+      74: 7400056
+    second: Eating Vertical
+  - first:
+      74: 7400058
+    second: Fight Idle
+  - first:
+      74: 7400060
+    second: Hit Left
+  - first:
+      74: 7400062
+    second: Hit Right
+  - first:
+      74: 7400064
+    second: Hit Front
+  - first:
+      74: 7400066
+    second: Hit
+  - first:
+      74: 7400068
+    second: swimming turn left tightly
+  - first:
+      74: 7400070
+    second: swimming turn right tightly
+  - first:
+      74: 7400072
+    second: swimming turn left widely
+  - first:
+      74: 7400074
+    second: swimming turn right widely
+  - first:
+      74: 7400076
+    second: swimming slowly turn left
+  - first:
+      74: 7400078
+    second: swimming slowly turn right
+  - first:
+      74: 7400080
+    second: swimming looking turn left
+  - first:
+      74: 7400082
+    second: swimming looking turn right
+  - first:
+      74: 7400084
+    second: swimming jumping turn left
+  - first:
+      74: 7400086
+    second: swimming jumping turn right
+  - first:
+      74: 7400088
+    second: swimming with jumping turn left
+  - first:
+      74: 7400090
+    second: swimming with jumping turn right
+  - first:
+      74: 7400092
+    second: swimming vertical turn left tightly
+  - first:
+      74: 7400094
+    second: swimming vertical turn right tightly
+  - first:
+      74: 7400096
+    second: swimming vertical turn left widely
+  - first:
+      74: 7400098
+    second: swimming vertical turn right widely
+  - first:
+      74: 7400100
+    second: swimming vertical back turn left
+  - first:
+      74: 7400102
+    second: swimming vertical back turn right
+  - first:
+      74: 7400104
+    second: swimming vertical back turn left widely
+  - first:
+      74: 7400106
+    second: swimming vertical back turn right widely
+  - first:
+      74: 7400108
+    second: Death01
+  - first:
+      74: 7400110
+    second: Death Drifting
+  - first:
+      74: 7400112
+    second: Death
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: DOLPHIN_SHP
+  - first:
+      137: 13700002
+    second: DOLPHIN_SHP1
+  - first:
+      137: 13700004
+    second: DOLPHIN_HP
+  - first:
+      137: 13700006
+    second: DOLPHIN_LP
+  - first:
+      137: 13700008
+    second: DOLPHIN_SLP
+  - first:
+      74: 8502846775675945215
+    second: Hit Back
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delphin_Material
+    second: {fileID: 2100000, guid: ca9e0b942c7ffe14789e6cccb2a5f9fc, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bind Pose
+      takeName: 
+      internalID: 7400000
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming
+      takeName: 
+      internalID: 7400002
+      firstFrame: 2
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming 01
+      takeName: 
+      internalID: 7400004
+      firstFrame: 34
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming With Jumping
+      takeName: 
+      internalID: 7400006
+      firstFrame: 97
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming Look
+      takeName: 
+      internalID: 7400008
+      firstFrame: 148
+      lastFrame: 268
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming On Back
+      takeName: 
+      internalID: 7400010
+      firstFrame: 271
+      lastFrame: 309
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming Down
+      takeName: 
+      internalID: 7400012
+      firstFrame: 312
+      lastFrame: 341
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming Up
+      takeName: 
+      internalID: 7400014
+      firstFrame: 344
+      lastFrame: 373
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jumping
+      takeName: 
+      internalID: 7400016
+      firstFrame: 376
+      lastFrame: 406
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jumping High
+      takeName: 
+      internalID: 7400018
+      firstFrame: 409
+      lastFrame: 447
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming Vertical
+      takeName: 
+      internalID: 7400020
+      firstFrame: 450
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming Back Vertical
+      takeName: 
+      internalID: 7400022
+      firstFrame: 493
+      lastFrame: 533
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn Right360 Vertical
+      takeName: 
+      internalID: 7400024
+      firstFrame: 536
+      lastFrame: 576
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn Left360 Vertical
+      takeName: 
+      internalID: 7400026
+      firstFrame: 579
+      lastFrame: 619
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn Right90 Vertical
+      takeName: 
+      internalID: 7400028
+      firstFrame: 622
+      lastFrame: 651
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn Left90 Vertical
+      takeName: 
+      internalID: 7400030
+      firstFrame: 654
+      lastFrame: 683
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sault On The Front
+      takeName: 
+      internalID: 7400032
+      firstFrame: 686
+      lastFrame: 734
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sault On The Back
+      takeName: 
+      internalID: 7400034
+      firstFrame: 737
+      lastFrame: 785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn Left
+      takeName: 
+      internalID: 7400036
+      firstFrame: 788
+      lastFrame: 817
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn Right
+      takeName: 
+      internalID: 7400038
+      firstFrame: 820
+      lastFrame: 849
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming Diving
+      takeName: 
+      internalID: 7400040
+      firstFrame: 852
+      lastFrame: 881
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swimming Rising
+      takeName: 
+      internalID: 7400042
+      firstFrame: 884
+      lastFrame: 913
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack Front Head
+      takeName: 
+      internalID: 7400044
+      firstFrame: 916
+      lastFrame: 943
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack Down
+      takeName: 
+      internalID: 7400046
+      firstFrame: 946
+      lastFrame: 976
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack Left
+      takeName: 
+      internalID: 7400048
+      firstFrame: 979
+      lastFrame: 1008
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack Right
+      takeName: 
+      internalID: 7400050
+      firstFrame: 1011
+      lastFrame: 1040
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Strafe Left
+      takeName: 
+      internalID: 7400052
+      firstFrame: 1043
+      lastFrame: 1103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Strafe Right
+      takeName: 
+      internalID: 7400054
+      firstFrame: 1106
+      lastFrame: 1166
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eating Vertical
+      takeName: 
+      internalID: 7400056
+      firstFrame: 1169
+      lastFrame: 1218
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fight Idle
+      takeName: 
+      internalID: 7400058
+      firstFrame: 1221
+      lastFrame: 1339
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit Left
+      takeName: 
+      internalID: 7400060
+      firstFrame: 1342
+      lastFrame: 1361
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit Right
+      takeName: 
+      internalID: 7400062
+      firstFrame: 1362
+      lastFrame: 1381
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit Front
+      takeName: 
+      internalID: 7400064
+      firstFrame: 1382
+      lastFrame: 1402
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit Back
+      takeName: 
+      internalID: 8502846775675945215
+      firstFrame: 1403
+      lastFrame: 1423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming turn left tightly
+      takeName: 
+      internalID: 7400068
+      firstFrame: 1425
+      lastFrame: 1454
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming turn right tightly
+      takeName: 
+      internalID: 7400070
+      firstFrame: 1457
+      lastFrame: 1486
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming turn left widely
+      takeName: 
+      internalID: 7400072
+      firstFrame: 1489
+      lastFrame: 1518
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming turn right widely
+      takeName: 
+      internalID: 7400074
+      firstFrame: 1521
+      lastFrame: 1550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming slowly turn left
+      takeName: 
+      internalID: 7400076
+      firstFrame: 1553
+      lastFrame: 1613
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming slowly turn right
+      takeName: 
+      internalID: 7400078
+      firstFrame: 1616
+      lastFrame: 1676
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming looking turn left
+      takeName: 
+      internalID: 7400080
+      firstFrame: 1679
+      lastFrame: 1799
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming looking turn right
+      takeName: 
+      internalID: 7400082
+      firstFrame: 1802
+      lastFrame: 1922
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming jumping turn left
+      takeName: 
+      internalID: 7400084
+      firstFrame: 1925
+      lastFrame: 1955
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming jumping turn right
+      takeName: 
+      internalID: 7400086
+      firstFrame: 1958
+      lastFrame: 1988
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming with jumping turn left
+      takeName: 
+      internalID: 7400088
+      firstFrame: 1991
+      lastFrame: 2039
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming with jumping turn right
+      takeName: 
+      internalID: 7400090
+      firstFrame: 2042
+      lastFrame: 2090
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical turn left tightly
+      takeName: 
+      internalID: 7400092
+      firstFrame: 2093
+      lastFrame: 2133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical turn right tightly
+      takeName: 
+      internalID: 7400094
+      firstFrame: 2136
+      lastFrame: 2176
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical turn left widely
+      takeName: 
+      internalID: 7400096
+      firstFrame: 2179
+      lastFrame: 2219
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical turn right widely
+      takeName: 
+      internalID: 7400098
+      firstFrame: 2222
+      lastFrame: 2262
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical back turn left
+      takeName: 
+      internalID: 7400100
+      firstFrame: 2265
+      lastFrame: 2305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical back turn right
+      takeName: 
+      internalID: 7400102
+      firstFrame: 2308
+      lastFrame: 2348
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical back turn left widely
+      takeName: 
+      internalID: 7400104
+      firstFrame: 2351
+      lastFrame: 2391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swimming vertical back turn right widely
+      takeName: 
+      internalID: 7400106
+      firstFrame: 2394
+      lastFrame: 2434
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death01
+      takeName: 
+      internalID: 7400108
+      firstFrame: 2436
+      lastFrame: 2501
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death Drifting
+      takeName: 
+      internalID: 7400110
+      firstFrame: 2502
+      lastFrame: 2566
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: 
+      internalID: 7400112
+      firstFrame: 2568
+      lastFrame: 2750
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: RootMotion
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

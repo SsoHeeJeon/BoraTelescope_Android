@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 7d3d3a3a5b5211943be44680d364c280
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2565355049493546553
+    second: bora_VI_GMP_QMicon_15
+  - first:
+      213: -4897874097718513868
+    second: bora_VI_GMP_QMicon_17
+  - first:
+      213: 1333609487961900944
+    second: bora_VI_GMP_QMicon_34
+  - first:
+      213: 3501304070201034370
+    second: bora_VI_GMP_QMicon_42
+  - first:
+      213: -5851209256889395726
+    second: bora_VI_GMP_QMicon_52
+  - first:
+      213: 7562770987826081841
+    second: bora_VI_GMP_QMicon_79
+  - first:
+      213: -1432527127475378868
+    second: bora_VI_GMP_QMicon_80
+  - first:
+      213: 3701321029499981160
+    second: bora_VI_GMP_QMicon_81
+  - first:
+      213: 7659718438841344675
+    second: bora_VI_GMP_QMicon_82
+  - first:
+      213: 2259219561079228751
+    second: bora_VI_GMP_QMicon_83
+  - first:
+      213: 6881988400711585386
+    second: bora_VI_GMP_QMicon_84
+  - first:
+      213: -7882640072999953192
+    second: bora_VI_GMP_QMicon_85
+  - first:
+      213: -8506380762819411113
+    second: bora_VI_GMP_QMicon_86
+  - first:
+      213: -5171634761238784774
+    second: bora_VI_GMP_QMicon_87
+  - first:
+      213: -2925470409844346823
+    second: bora_VI_GMP_QMicon_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1795
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93641df53d8f99320800000000000000
+      internalID: 2565355049493546553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1651
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28646fa4081279030800000000000000
+      internalID: 3501304070201034370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1507
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f551a09e245ccea0800000000000000
+      internalID: -5851209256889395726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1363
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f007e42c54f860800000000000000
+      internalID: 7562770987826081841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1219
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4528bbda24ae1ce0800000000000000
+      internalID: -1432527127475378868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1075
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d870baddbbd5330800000000000000
+      internalID: 3701321029499981160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 931
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e5a25659cc4a60800000000000000
+      internalID: 7659718438841344675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 787
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49cdbf883c5a5f10800000000000000
+      internalID: 2259219561079228751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 643
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec5c4fcfbb18f50800000000000000
+      internalID: 6881988400711585386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 499
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc149c1e9c3b9290800000000000000
+      internalID: -7882640072999953192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 355
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753cee3d3c343f980800000000000000
+      internalID: -8506380762819411113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_87
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 211
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4dc4cc599aa38b0800000000000000
+      internalID: -5171634761238784774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bora_VI_GMP_QMicon_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 348
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930bf4c7924a667d0800000000000000
+      internalID: -2925470409844346823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7346c54d1f5cd4944ba7f0bcfd2731b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

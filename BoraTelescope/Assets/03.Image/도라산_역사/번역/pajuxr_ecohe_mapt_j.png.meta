@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: f1f0ccf5d7123d544abfcdc857d19012
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2989689500278733500
+    second: pajuxr_ecohe_mapt_j_0
+  - first:
+      213: -2501223715137216326
+    second: pajuxr_ecohe_mapt_j_1
+  - first:
+      213: 7965230660634474964
+    second: pajuxr_ecohe_mapt_j_2
+  - first:
+      213: -994160435847932583
+    second: pajuxr_ecohe_mapt_j_3
+  - first:
+      213: 6538074565639029322
+    second: pajuxr_ecohe_mapt_j_4
+  - first:
+      213: 3309902540857747636
+    second: pajuxr_ecohe_mapt_j_5
+  - first:
+      213: 283165606232945732
+    second: pajuxr_ecohe_mapt_j_6
+  - first:
+      213: -3699859272404250371
+    second: pajuxr_ecohe_mapt_j_7
+  - first:
+      213: -2611900028625968963
+    second: pajuxr_ecohe_mapt_j_8
+  - first:
+      213: -5097675196917908179
+    second: pajuxr_ecohe_mapt_j_9
+  - first:
+      213: -5151528825857570359
+    second: pajuxr_ecohe_mapt_j_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445cb235d3d7286d0800000000000000
+      internalID: -2989689500278733500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 356
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0a67b784ed94dd0800000000000000
+      internalID: -2501223715137216326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 356
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9fa21951f2a8e60800000000000000
+      internalID: 7965230660634474964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_3
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 356
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9555983d9580432f0800000000000000
+      internalID: -994160435847932583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a424eef5d28ebba50800000000000000
+      internalID: 6538074565639029322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 180
+        width: 207
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82df403d22fed20800000000000000
+      internalID: 3309902540857747636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 180
+        width: 207
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447f1c5e910ee300800000000000000
+      internalID: 283165606232945732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 180
+        width: 311
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0d86d289577acc0800000000000000
+      internalID: -3699859272404250371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0aaec23caa0cbd0800000000000000
+      internalID: -2611900028625968963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 33
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d7363ca6b6149b0800000000000000
+      internalID: -5097675196917908179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_ecohe_mapt_j_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 33
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9039ca3d71288b0800000000000000
+      internalID: -5151528825857570359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cfba06ce467b6549b70b27fd8dc5af9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
