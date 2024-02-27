@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: cc41ac417b2309548bc2883e1d658c57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1135365632174559371
+    second: pajuxr_cul_ui_labels_0
+  - first:
+      213: 4003641345495959030
+    second: pajuxr_cul_ui_labels_1
+  - first:
+      213: -3446659126901297442
+    second: pajuxr_cul_ui_labels_2
+  - first:
+      213: 8225398304677569460
+    second: pajuxr_cul_ui_labels_3
+  - first:
+      213: -2943911150564219095
+    second: pajuxr_cul_ui_labels_4
+  - first:
+      213: 4667994490207529714
+    second: pajuxr_cul_ui_labels_5
+  - first:
+      213: -5856018943626704239
+    second: pajuxr_cul_ui_labels_0
+  - first:
+      213: 1462502353065019624
+    second: pajuxr_cul_ui_labels_1
+  - first:
+      213: -5417701890005028380
+    second: pajuxr_cul_ui_labels_2
+  - first:
+      213: 3800921798855198324
+    second: pajuxr_cul_ui_labels_3
+  - first:
+      213: -87235200032588162
+    second: pajuxr_cul_ui_labels_4
+  - first:
+      213: 397827624780602975
+    second: pajuxr_cul_ui_labels_5
+  - first:
+      213: 5961083899241105558
+    second: pajuxr_cul_ui_labels_6
+  - first:
+      213: -4413077567537732094
+    second: pajuxr_cul_ui_labels_7
+  - first:
+      213: -8538328782733763230
+    second: pajuxr_cul_ui_labels_8
+  - first:
+      213: 4252123268633325113
+    second: pajuxr_cul_ui_labels_9
+  - first:
+      213: 1556937742370470725
+    second: pajuxr_cul_ui_labels_10
+  - first:
+      213: -2943918856449520580
+    second: pajuxr_cul_ui_labels_11
+  - first:
+      213: 67180919608947580
+    second: pajuxr_cul_ui_labels_12
+  - first:
+      213: 304387191356381450
+    second: pajuxr_cul_ui_labels_13
+  - first:
+      213: 3734422176962770397
+    second: pajuxr_cul_ui_labels_14
+  - first:
+      213: -3189115999031670965
+    second: pajuxr_cul_ui_labels_15
+  - first:
+      213: 6837174918482191337
+    second: pajuxr_cul_ui_labels_16
+  - first:
+      213: -2789220779520247879
+    second: pajuxr_cul_ui_labels_17
+  - first:
+      213: -433188262014247237
+    second: pajuxr_cul_ui_labels_18
+  - first:
+      213: -4896890597371319687
+    second: pajuxr_cul_ui_labels_6
+  - first:
+      213: -1573804070528969343
+    second: pajuxr_cul_ui_labels_7
+  - first:
+      213: -1946184261011738421
+    second: pajuxr_cul_ui_labels_8
+  - first:
+      213: 5490543767547092008
+    second: pajuxr_cul_ui_labels_9
+  - first:
+      213: -1231580513346166273
+    second: pajuxr_cul_ui_labels_10
+  - first:
+      213: 7754868258381819980
+    second: pajuxr_cul_ui_labels_11
+  - first:
+      213: 6003260848693855170
+    second: pajuxr_cul_ui_labels_12
+  - first:
+      213: 4948081901970231162
+    second: pajuxr_cul_ui_labels_13
+  - first:
+      213: -6925121225424709203
+    second: pajuxr_cul_ui_labels_14
+  - first:
+      213: -3287578871520963782
+    second: pajuxr_cul_ui_labels_15
+  - first:
+      213: 5583445294094780690
+    second: pajuxr_cul_ui_labels_16
+  - first:
+      213: -7941320264776527728
+    second: pajuxr_cul_ui_labels_17
+  - first:
+      213: -8481536443165743582
+    second: pajuxr_cul_ui_labels_18
+  - first:
+      213: 1817852184562668064
+    second: pajuxr_cul_ui_labels_19
+  - first:
+      213: 411393421170152516
+    second: pajuxr_cul_ui_labels_20
+  - first:
+      213: -4901672505104497444
+    second: pajuxr_cul_ui_labels_21
+  - first:
+      213: 1084195893347462641
+    second: pajuxr_cul_ui_labels_22
+  - first:
+      213: 5229993939507324751
+    second: pajuxr_cul_ui_labels_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_0
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 841
+        width: 268
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a0c2b1ccd3bbea0800000000000000
+      internalID: -5856018943626704239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 581
+        width: 265
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80d95342adb4410800000000000000
+      internalID: 1462502353065019624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_2
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 555
+        width: 267
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b943d5d470d4b0800000000000000
+      internalID: -5417701890005028380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_3
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 555
+        width: 267
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4768dc7ec369fb430800000000000000
+      internalID: 3800921798855198324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_4
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 555
+        width: 267
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb52a3c041acef0800000000000000
+      internalID: -87235200032588162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_5
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 555
+        width: 268
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e92e0fd1e558500800000000000000
+      internalID: 397827624780602975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_6
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 555
+        width: 268
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6bbf42ffba0cb0800000000000000
+      internalID: -4896890597371319687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_7
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 555
+        width: 268
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859e064989b82ae0800000000000000
+      internalID: -1573804070528969343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_8
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 582
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc070f6d9b3cdf4e0800000000000000
+      internalID: -1946184261011738421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 481
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c11686774523c40800000000000000
+      internalID: 5490543767547092008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 480
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff165bd5c0c88eee0800000000000000
+      internalID: -1231580513346166273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 529
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40fccc0893de9b60800000000000000
+      internalID: 7754868258381819980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 239
+        width: 6
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3486c6feddf4350800000000000000
+      internalID: 6003260848693855170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 239
+        width: 6
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8976164e1ba440800000000000000
+      internalID: 4948081901970231162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_14
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 250
+        width: 268
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9da04bfe605ef90800000000000000
+      internalID: -6925121225424709203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_15
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 219
+        width: 268
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d9e74f6c2062d0800000000000000
+      internalID: -3287578871520963782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_16
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 219
+        width: 267
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198851a9e16c7d40800000000000000
+      internalID: 5583445294094780690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_17
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 219
+        width: 267
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090526a4b43cac190800000000000000
+      internalID: -7941320264776527728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_18
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 321
+        width: 376
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266393ca878b4a80800000000000000
+      internalID: -8481536443165743582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_19
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 219
+        width: 268
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02296033eee4a3910800000000000000
+      internalID: 1817852184562668064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_20
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 218
+        width: 268
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44497cb032095b500800000000000000
+      internalID: 411393421170152516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_21
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 113
+        width: 390
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd482f7a3d2c9fbb0800000000000000
+      internalID: -4901672505104497444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_23
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 90
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a7cd37cba49840800000000000000
+      internalID: 5229993939507324751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_cul_ui_labels_22
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 319
+        width: 381
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda9e1bb66db0f00800000000000000
+      internalID: 1084195893347462641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

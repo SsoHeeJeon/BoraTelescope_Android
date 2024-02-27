@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 5b2c3d83b46a55b4285314f58996c4eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8067348136109967420
+    second: pajuxr_heritage_ex2_j_0
+  - first:
+      213: -7736988398731521404
+    second: pajuxr_heritage_ex2_j_1
+  - first:
+      213: 1775847398861205057
+    second: pajuxr_heritage_ex2_j_2
+  - first:
+      213: -2620282915991635199
+    second: pajuxr_heritage_ex2_j_3
+  - first:
+      213: 5828441242294890972
+    second: pajuxr_heritage_ex2_j_4
+  - first:
+      213: -8449421160172998503
+    second: pajuxr_heritage_ex2_j_5
+  - first:
+      213: -3185341994720135512
+    second: pajuxr_heritage_ex2_j_6
+  - first:
+      213: 6081938780557578352
+    second: pajuxr_heritage_ex2_j_7
+  - first:
+      213: -7997998461439765798
+    second: pajuxr_heritage_ex2_j_8
+  - first:
+      213: 7394000969088508251
+    second: pajuxr_heritage_ex2_j_9
+  - first:
+      213: -484154669055774988
+    second: pajuxr_heritage_ex2_j_10
+  - first:
+      213: 3615803870817324542
+    second: pajuxr_heritage_ex2_j_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 401
+        width: 570
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c388e3c136af4ff60800000000000000
+      internalID: 8067348136109967420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_1
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 401
+        width: 570
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4821a4e2b02b0a490800000000000000
+      internalID: -7736988398731521404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_2
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 401
+        width: 570
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6c68ecc315a810800000000000000
+      internalID: 1775847398861205057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_3
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 401
+        width: 570
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b3b4d1292e2abd0800000000000000
+      internalID: -2620282915991635199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_4
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 401
+        width: 570
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd13931fd68c2e050800000000000000
+      internalID: 5828441242294890972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_5
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 401
+        width: 570
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9903836c830adba80800000000000000
+      internalID: -8449421160172998503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 109
+        width: 491
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6729c15546bc3d0800000000000000
+      internalID: -3185341994720135512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 136
+        width: 491
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0709ec0f813676450800000000000000
+      internalID: 6081938780557578352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_8
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 58
+        width: 491
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad213c746c6610190800000000000000
+      internalID: -7997998461439765798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_9
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 54
+        width: 491
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512a6fc4b4cc9660800000000000000
+      internalID: 7394000969088508251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_10
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 54
+        width: 491
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe6596c4efe749f0800000000000000
+      internalID: -484154669055774988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajuxr_heritage_ex2_j_11
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 111
+        width: 491
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd8c81967aed2230800000000000000
+      internalID: 3615803870817324542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43885d5587cddfa489f1e9a578a8cb32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

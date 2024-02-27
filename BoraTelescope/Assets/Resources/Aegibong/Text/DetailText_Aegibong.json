@@ -1,0 +1,271 @@
+﻿{
+  "LabelName": "UIsland",
+  "LabelName_K": "유도",
+  "LabelName_E": "Yudo",
+  "LabelName_C": "柳岛",
+  "LabelName_J": "ユド",
+  "Korean": "유도라는 이름은 머무를 류(留)에 섬 도(島)를 사용한다. 먼 옛날에 엄청난 홍수로 섬이 떠내려오다가 이곳에 자리를 잡았다고 한다. 무인도지만, 6.25전쟁 직전까지만 해도 두 채의 농가가 있었다. 지금도 땅 주인이 있고 토지 거래도 가능하지만, 갈 수는 없다는 게 웃지 못할 현실이다.",
+  "English": "The name 'Yudo' comes from '留' (stay) and '島' (island). Legend says it settled after a huge flood. It was uninhabited, once had farms before June 25th War. Landowners remain, transactions possible, but visiting is prohibited.",
+  "Chinese": "“榆岛”这个名字源自于“留”和“岛”的汉字. 根据古老传说，这个岛在一场巨大的洪水中被带到了这里滞留了下来. 虽然无人居住，但在6.25战争前曾有两个农场. 地主仍然存在，交易是可能的，但不允许前往访问.",
+  "Japanese": "「ユド」という名前は、「留」と「島」の文字に由来します. 古代伝説によれば、巨大な洪水により定住したとされます. 6.25戦争前には無人島で2軒の農家がありました. 現在も地主がおり、土地取引も可能ですが、訪問はできないのが笑えない現実です."
+} {
+  "LabelName": "Spoonbill",
+  "LabelName_K": "저어새",
+  "LabelName_E": "Tristram's Woodpecker",
+  "LabelName_C": "长冠啄木鸟",
+  "LabelName_J": "ミヤマゴジュウカラ",
+  "Korean": "천연기념물 제205-1호\r\n멸종위기 야생생물 1급\r\n해양보호생물로 지정되어 있다. 지구상에 5천여 마리만 남은 물새이다. 최근까지 번식처가 잘 알려지지 않았는데, 경기만 지역의 무인도에서 발견되고 있다. 과거 유도에 100여 개 이상의 번식 둥지가 있기도 했으나, 현재는 거의 보이지 않는다.",
+  "English": "Natural Monument No.205-1\r\nEndangered Wildlife Class 1\r\nDesignated as a marine protected species, only about 5,000 individuals remain on Earth. Recently found on uninhabited islands in Gyeonggi Bay area. Previously, there were over 100 breeding nests on Yudo, but now they are hardly visible.",
+  "Chinese": "天然纪念物 第205-1号\r\n濒危野生生物一级\r\n被指定为海洋保护生物. 地球上仅剩下约5,000只. 直到最近，它们的繁殖地才被人发现在京畿湾地区的无人岛上. 过去，柳岛上曾有100多个繁殖巢，但现在几乎看不到了.",
+  "Japanese": "天然記念物第205-1号\r\n絶滅危惧生物1級\r\n海洋保護生物に指定されています. 地球上には約5千羽しか残っていません. 繁殖地は最近まであまり知られていませんでしたが、京畿湾地域の無人島で発見されました. かつて留島には100ヶ所以上の繁殖巣がありましたが、現在はほとんど発見されていません."
+} {
+  "LabelName": "Ganghwa",
+  "LabelName_K": "강화 평화전망대",
+  "LabelName_E": "Ganghwa Peace Observatory",
+  "LabelName_C": "江华 和平展望台",
+  "LabelName_J": "アプサン 日没展望台",
+  "Korean": "강화평화전망대 좌측으로는 황해도 연백평야가 있고 우측은 개풍군으로 북한주민의 생활모습과 선전용 위장마을 등을 조망할 수 있어서 북한의 문화생태를 가까이에서 느낄 수 있는 곳이다.",
+  "English": "On the left side of Ganghwa Peace Observatory, there is Yeonbaek Plain in Hwanghae-do, and on the right side, you can see the lives of North Koreans and the propaganda camouflage village, so you can feel the cultural ecology of North Korea closely.",
+  "Chinese": "江华和平展望台左侧是黄海道延白平原,右侧则是开丰郡,可以眺望朝鲜居民的生活面貌和宣传用伪装村等,可以近距离感受到朝鲜文化生态.",
+  "Japanese": "江華(カンファ)平和展望台の左側には黄海道の延白(ヨンベク)平野があり、右側の開豊郡(ケプングン)では、北朝鮮の住民たちの生活、及び宣伝のために作られた偽村などを眺めることができて、北朝鮮の文化生態を身近なところで見ることができます."
+} {
+  "LabelName": "JoR",
+  "LabelName_K": "조강",
+  "LabelName_E": "The Jogang River",
+  "LabelName_C": "祖江",
+  "LabelName_J": "祖江(チョガン)",
+  "Korean": "임진강과 한강이 만나 서해로 흘러가는 한강 하구를 이르는 옛말로 세종실록지리지에 기록되어 있다. 조선시대 물류 중심지였으나 일제 강점기와 6.25 한국전쟁을 거친 후 한강하구 공동이용 수역으로 지정되었다.",
+  "English": "The Jogang River recorded in the record of Sejong the Great  is the old term of the Hangang River Estuary where the Limjingang River and the Hangang River meet and flow across the West Sea. This river was the hub of physical resources in the Joseon Dynasty. After the Japanese colonization and the Korean War, this river was designated as the common water zone.",
+  "Chinese": "据世宗实录地理志上记载祖江是临津江和汉江交汇后流向西海的汉江河口的古语. 朝鲜时代曾是物流中心，但经过日本帝国主义强占时期和6.25韩国战争后被指定为汉江河口共同利用水域.",
+  "Japanese": "臨津江が漢江と合流して黄海へ流れる漢江の河口を意味する古言です. 朝鮮時代の重要な貿易地だったんですが、日帝強占期と６．２５戦争を経て、漢江河口を共同利用水域に指定しました."
+} {
+  "LabelName": "Ssangma",
+  "LabelName_K": "쌍마고지",
+  "LabelName_E": "Ssangma Highlands",
+  "LabelName_C": "双马高地",
+  "LabelName_J": "聖堂池",
+  "Korean": "말의 형상을 하고 있다고 하여 쌍마고지라고 이름이 붙여졌다.",
+  "English": "It was named Ssangma-goji because it was in the shape of a horse.",
+  "Chinese": "因为形状像马,所以被命名为双马高地.",
+  "Japanese": "馬の形をしていることから双馬高地と名付けられました."
+} {
+  "LabelName": "Saeseommae",
+  "LabelName_K": "새섬매자기",
+  "LabelName_E": "Saesommaejagi",
+  "LabelName_C": "赛岛梅贾基",
+  "LabelName_J": "セソムメジャギ",
+  "Korean": "북한명은 작은매자기이다. 간척지의 습한 곳과 기수 지역에 무리지어 분포하며, 바닷물이 들어오는 조간대의 상부에서도 자란다. 줄기는 삼각기둥이고 잎 2장은 두툼하여 줄기의 모서리에 맞춰 홈이 있다. 매자기와 비슷하나 열매가 달리는 모양이 다르다.",
+  "English": "Scirpus planiculmis\r\nIn North Korea, it's called 'Little Maejagi' Found in wetlands and reclaimed areas, it thrives near water. Its stem is triangular, with two thick leaves along the edges. It resembles Maejagi, but its fruits have a different shape.",
+  "Chinese": "在朝鲜，它被称为'小梅贾基'.它生长在湿地和垦殖地，靠近水域繁茂生长.它的茎呈三角形，两片厚叶沿着边缘排列.它与梅贾基相似，但其果实具有不同的形状.",
+  "Japanese": "北朝鮮で「ジャグンメジャギ」と呼ばれているセソムメジャギは湿地や埋め立て地の水辺で生息しています.　三角形の茎をして、茎の縁に沿って厚い葉が2枚あります. メジャキという植物と似ていますが、果実の形状が異なります."
+} {
+  "LabelName": "Mullet",
+  "LabelName_K": "숭어",
+  "LabelName_E": "Snakehead fish",
+  "LabelName_C": "鲻鱼",
+  "LabelName_J": "ボラ(鯔)",
+  "Korean": "북한명은 은숭어이다. 강의 하구와 바다 연안 호수지역에도 자주 나타나 조강 지역에서도 빠지지 않고 볼 수 있다. 정약전이 쓴 [자산어보]에서 '성질이 의심이 많아 화를 피할 때 민첩하며, 맛이 좋아 물고기 중에서 제일이다.' 라고 언급될 정도로 예로부터 친숙한 어류였다.",
+  "English": "In North Korea, it's called 'Eunsoong-eo.' It's found in river estuaries, coastal areas, lakes, and even in the Jogang region. Mentioned in the historic book 'Jasan Eobo' by Jeong Yakjeon, it's known for its cautious nature, agility in avoiding danger, and being the most delicious fish.",
+  "Chinese": "在北朝鲜，它被称为“Eunsoong-eo”. 它经常出现在河口、海岸、湖泊地区，祖江 地区也可见. 根据鄭若铨（Jeong Yakjeon）所著的《兹山漁譜》，它自古以来就是一种被熟知的鱼类，被描述为“多疑而机敏，逃避危险，是鱼类中最美味的一种”.",
+  "Japanese": "北朝鮮では「ウンスンオ」と呼ばれています。川の河口や海岸、湖の周辺にも頻繁に出現し、祖江(チョガン)地域でも見ることができます.「玆山漁譜」（チョン·ヤクジョン著)には、「疑念が多く、危険を上手に避けることができて、魚の中で最も美味しい」と述べられているほど、古くから親しまれてきた魚の一種です."
+} {
+  "LabelName": "Namunjae",
+  "LabelName_K": "나문재",
+  "LabelName_E": "Namunjae",
+  "LabelName_C": "纳文材",
+  "LabelName_J": "ナムンジェ",
+  "Korean": "바닷가의 모래땅에서 자라는 한해살이풀로 전체에 털이 없다. 줄기는 원기둥 모양이고 곧게 서며 가늘고 긴 가지가 갈라지며 높이가 1m정도이고 회백색을 띤 녹색이지만 가을에 밑 부분부터 붉은색으로 변한다. 잎은 다닥다닥 붙어 어긋나고 잎자루가 없다.",
+  "English": "Suaeda glauca\r\nIt is an annual plant that grows on sandy beaches. It is entirely hairless, and its stem is cylindrical, straight, and slender, branching into long, thin stems. Its height reaches about 1 meter, initially displaying green with a whitish tint, but turns red from the bottom in autumn. The leaves stick together and deviate, and there are no leaves.",
+  "Chinese": "它是一种生长在海滩沙地上的一年生草本植物，全身无毛.茎呈圆柱状，笔直地延伸，细长的分枝分叉，高约1米，浅灰白色的绿色，但在秋天从底部变成红色.叶子紧密粘连，呈现错落排列，没有叶柄.",
+  "Japanese": "海岸の砂地で育つ一年草で、毛がありません. 茎は円柱状で、まっすぐに伸び、細くて長い枝が分かれ、高さは約1メートルです. 薄い緑色をしていますが、秋になると下部から赤く変わります. 葉は密集しており、葉柄はありません."
+} {
+  "LabelName": "Pep",
+  "LabelName_K": "삵",
+  "LabelName_E": "Leopard Cat",
+  "LabelName_C": "豹猫",
+  "LabelName_J": "ツシマヤマネコ",
+  "Korean": "멸종위기 야생생물 2급\r\n쥐나 토끼 같은 작은 짐승을 잡아먹는데, 호랑이나 표범이 사라진 우리나라에서 최상위 포식동물이다.",
+  "English": "Endangered Wildlife Class II.\r\nMainly preys on small animals such as rats or rabbits. As tigers or leopards don't inhabit South Korea anymore, there are no predators of leopard cats in South Korea.",
+  "Chinese": "濒危野生生物 2级\r\n捕食老鼠或兔子等小动物，已无老虎或豹的韩国，豹猫是最顶级食肉动物.",
+  "Japanese": "絶滅危惧生物2級\r\nネズミやウサギのように小さい動物を主食としていて、虎やヒョウがいなくなった今の韓国では最上位捕食者です."
+} {
+  "LabelName": "SongakM",
+  "LabelName_K": "송악산",
+  "LabelName_E": "Songaksan Mountain",
+  "LabelName_C": "松岳山",
+  "LabelName_J": "松岳(ソンアク)山",
+  "Korean": "개성의 상징으로 여겨지는 산으로, 임신한 여인이 손을 모은 채 누워 있는 모습과 닮아있다. 포천 운악산, 파주 감악산, 과천 관악산, 가평 화악산과 함께' 경기5악' 중 하나로 아름다운 비경을 자랑한다.",
+  "English": "This mountain known as the symbol of Gaeseong, and resembles a pregnant woman lying with her hands together. This is counted as one of 'the Five Great Mountains in Gyeonggi,' with Wonaksan of Pocheon, Gamaksan of Paju, Gwanaksan of Gwacheon and Hwaksan of Gapyeong. One of the starkest merits of this mountain is its mysterious beauty.",
+  "Chinese": "是开城的象征, 仿佛怀孕的女人双手合十躺着的样子. 它与抱川云岳山、坡州绀岳山、果川冠岳山、加平华岳山一起被称为'京畿五岳'，景色怡人.",
+  "Japanese": "開城(ケソン)の象徴的な山で、妊婦の女性が手を合わせて横になっている姿に似ています。抱川(ポチョン)の雲岳(ウナク）山、坡州(パジュ)の冠岳(クァナク)山、果川(クァチョン)の紺岳(カマク)山、加平(カビョン)の華岳(ファアク)山と共に、京畿道(キョンギド)の素晴らしい秘境を代表する‘５つの山’の1つであります."
+} {
+  "LabelName": "Mouse",
+  "LabelName_K": "멧밭쥐",
+  "LabelName_E": "Metbatjwi",
+  "LabelName_C": "梅田鼠",
+  "LabelName_J": "マトバートねずみ",
+  "Korean": "우수리 맷밭쥐라고도 한다. 몸길이 5~6cm, 꼬리길이 5~9cm이다. 몸의 털은 부드럽고, 등쪽의 털 빛깔은 회색을 띤 갈색이며, 허리는 노란빛을 띤 오렌지색이다. 몸의 배면은 흰색이다. 긴 꼬리를 풀줄기에 감고 교묘하게 기어오른다. 겨울에는 땅속에 굴을 파고 산다.",
+  "English": "Micromys minutus\r\nIt's also called Usu-ri Metbatjwi. The length of the body is 5-6 cm, and the length of the tail is 5-9 cm long. The body's fur is soft, the back is grayish brown, and the waist is orange. The belly is white. Climb with a long tail wrapped in grass. In winter, they live in burrows on the ground.",
+  "Chinese": "体长5~6厘米，尾长5~9厘米. 体毛柔软，背毛灰褐色，腰部橘黄色. 肚子是白色的.把长尾绕在草绳上巧妙地爬上去. 冬天在地下挖洞生活.",
+  "Japanese": "カヤネズミの体長は5~6㎝で尻尾の長さは5~9㎝です. 体毛は柔らかく背中は灰色がかった茶色で、お腹部分は白色、腰部分は黄色に近いオレンジ色をしています. 長い尾を草に包んで登って冬は地中に穴を掘ってその中で過ごします."
+} {
+  "LabelName": "Wcrane",
+  "LabelName_K": "재두루미",
+  "LabelName_E": "White-naped Crane",
+  "LabelName_C": "白枕鹤",
+  "LabelName_J": "マナヅル",
+  "Korean": "천연기념물 제203호\r\n멸종위기 야생생물 2급\r\n파주 군내면 비무장지대에서 200마리 미만의 집단이 월동한다. 이동시기에는 한강 하구와 임진강 하류 쪽에서 한 달간 800마리가 머무르기도 한다.",
+  "English": "Natural Monument No.203\r\nEndangered Wildlife Class II\r\nA group with less than 200 cranes that pass the winter at DMZ, Gunnae-myeon, Paju, Korea. During the migra-tion period, about 800 cranes stop over at Han River Estuary and Limjingang River'sdownstream for a month.",
+  "Chinese": "天然纪念物 第203号\r\n濒危野生生物 2级\r\n坡州郡内面非武装地带大约会有200多只集体过冬.在移动时期，大约会有800多只滞留于汉江河口和临津江下流，停留期间大约为1个月左右.",
+  "Japanese": "天然記念物第203号\r\n絶滅危惧生物2級\r\n坡州（パジュ）郡内面の非武装地帯で200羽以下のマナヅルが集団越冬します. 移動する時期になると漢江河口や臨津江下流で約１ヶ月間800羽が滞在することもあります."
+} {
+  "LabelName": "Dragonfly",
+  "LabelName_K": "깃동잠자리",
+  "LabelName_E": "Gitdong dragonfly",
+  "LabelName_C": "吉斯顿蜻蜓",
+  "LabelName_J": "ギスドントンボ",
+  "Korean": "북한명은 밤색이마 고추잠자리이다. 수컷 앞뒤 날개 끝에 암갈색 깃동이 있고 다 자라면 짙은 갈색을 띤다. 가슴 옆면 2개의 검은 줄무늬는 앞의 것은 굵고 뒤의 것은 가늘다. 암컷은 노란색이며, 성숙하면 갈색 기운을 띤다. 우리나라 전역에 서식하며 일본, 중국에도 분포한다.",
+  "English": "Sympetrum infuscatum\r\nThe North Korean name is the red dragonfly with a chestnut forehead.The male front and rear wings have dark brown flagships, and when they grow up, they are dark brown.The two black stripes on one side of the chest are thick on the front and thin on the back.Females are yellow and brownish when mature. It lives throughout Korea and is also distributed in Japan and China.",
+  "Chinese": "北朝鲜名是栗色额头的红蜻蜓.雄性的前翼和后翼有深褐色的旗帜，长大后呈深褐色.胸部一侧有两条黑色条纹，正面较厚，背面较薄.雌性呈黄色，但成熟时呈褐色. 栖息在韩国全境，在日本和中国也流通.",
+  "Japanese": "北朝鮮では栗色額トンボと呼ばれています. オスは前羽と後羽の先端が茶色で、成長すると濃い茶色になります. 胸側面には2つの黒い縞模様があります. メスは黄色で、成長すると茶色になります. 韓国全域に生息し、日本と中国にも生息しています."
+} {
+  "LabelName": "HanteoM",
+  "LabelName_K": "한터산",
+  "LabelName_E": "Hanteo Mountain",
+  "LabelName_C": "汉特奥山",
+  "LabelName_J": "ハンター山",
+  "Korean": "북한군 GP시설이 있다.",
+  "English": "There is a North Korean Army GP facility.",
+  "Chinese": "这里设有朝鲜军队哨所.",
+  "Japanese": "北朝鮮軍のGP施設がある場所です."
+} {
+  "LabelName": "Mosaedal",
+  "LabelName_K": "모새달",
+  "LabelName_E": "Mosaedal",
+  "LabelName_C": "莫萨达尔",
+  "LabelName_J": "モセダル",
+  "Korean": "연안이나 하구의 기수역에서 자라는 염생식물로 산림청 지정 희귀 식물이다. 잎은 갈대 잎과 비슷하나 가운데 맥이 뚜렷하고 털이 없다. 꽃은 여름에 피며 꽃차례는 긴 이삭 모양으로 옥수수 꽃이삭과 비슷해 보인다.",
+  "English": "Phacelurus lalifolius\r\nIt is a salt plant that grows in the brackish water area of ​​the coast or estuary and is designated as a rare plant by the Korea Forest Service. The leaves are similar to reed leaves, but the veins in the middle are distinct and there are no hairs. Flowers bloom in summer, and the inflorescence is shaped like a long  an ear of rice, and looks similar to an ear of corn.",
+  "Chinese": "生长在海岸或河口的咸水地区,被山林厅指定为稀有植物. 叶子和芦苇叶相似,但中间的脉络明显,没有毛. 夏天开花,花序呈米穗状,与玉米穗相似.",
+  "Japanese": "海岸や河口の汽水域で育つ塩生植物で、山林庁から希少植物に指定されています. 葉は葦の葉と似ていますが、アイアシは真ん中の茎が真っ直ぐで、毛がありません. 夏には花が咲き、花序が稲穂のような形をして、トウモロコシの穂に似ています."
+} {
+  "LabelName": "SeoglyupoV",
+  "LabelName_K": "석류포마을",
+  "LabelName_E": "Seokryupo Village",
+  "LabelName_C": "石榴浦村",
+  "LabelName_J": "ソクリュポ村",
+  "Korean": "강 건너 좌측 한터산 옆으로 보이는 포구 형태의 마을이다.",
+  "English": "It is a port-shaped village seen next to Hanteosan Mountain on the left side of the river.",
+  "Chinese": "是河对岸左侧汉特山旁边浦口形态的村庄.",
+  "Japanese": "川の向こう、左側のハント山の横から見える浦の形をしている村です."
+} {
+  "LabelName": "Crab",
+  "LabelName_K": "농게",
+  "LabelName_E": "Red-clawed fiddler crab",
+  "LabelName_C": "弧边招潮蟹",
+  "LabelName_J": "イソガニ",
+  "Korean": "북한명은 붉은농게이다. 조간대 위쪽 진흙 갯벌에 수직으로 구멍을 파고 산다. 그 구멍 깊이가 약 80cm나 되는 경우도 있다. 한국에서는 서해와 남해 갯벌에 많이 서식하며 간척 사업으로 서식 장소가 줄어들면서 개체 수가 크게 줄고 있다.",
+  "English": "Tubuca arcuata\r\nIt lives by digging a hole vertically in the mudflats above the intertidal zone. In some cases, the depth of the hole is about 80 cm. In Korea, it lives in the tidal flats of the West and South Seas, and the number of individuals is greatly decreasing as the habitat is reduced due to reclamation projects.",
+  "Chinese": "它生活在潮间带以上的泥滩上垂直挖一个洞. 在某些情况下，洞的深度约为80厘米. 在韩国,栖息在西海和南海的滩涂上,因开垦事业栖息地减少,个体数量正在大幅减少.",
+  "Japanese": "潮間帯の干潟に穴を掘って生活しています. 場合によっては穴の深さが約80cmになることもあります. 韓国は西海と南海の干潟に生息しており、開発などで生息地が減り個体数が大幅に減っています."
+} {
+  "LabelName": "Chilmyeoncho",
+  "LabelName_K": "칠면초",
+  "LabelName_E": "East Asian seepweed",
+  "LabelName_C": "七面草",
+  "LabelName_J": "七面草",
+  "Korean": "바닷가 갯벌에서 무리지어 자란다. 줄기는 곧게 서고 높이가 15~50cm이며 딱딱하고 윗부분에서 가지가 많이 갈라지고 털이 없다. 잎은 어긋나고 곤봉 모양의 육질이며 길이가 5~35mm이고, 끝이 둔하며 처음에는 녹색이지만 점차 붉은 빛이 도는 자주색으로 변한다.",
+  "English": "Suaeda japonica Makino\r\nIt grows in groups in coastal tidal flats. The stem stands upright, 15-50 cm high, hard, branched a lot at the top, and has no hairs. Leaves are alternate, club-shaped, fleshy, 5-35mm long, dull at the end, green at first, but gradually change to reddish purple.",
+  "Chinese": "它们成群结队地生长在海滩泥滩上. 茎直立,高15~50厘米,坚硬,顶部树枝分叉较多,没有毛. 叶片排列不齐,呈球杆状,长5-35毫米,末端暗淡,初期呈绿色,但逐渐变成红色紫色.",
+  "Japanese": "海辺の干潟で群れをなして育ちます. 直立茎で高さは15~50㎝です. 硬くて枝が割れていて毛がありません. 互生葉序で長さ5~35㎜はです. 先端は鈍い形で緑色から紫色に変わります."
+} {
+  "LabelName": "Gijungdong",
+  "LabelName_K": "인공기, 기정동마을",
+  "LabelName_E": "The North Korean Flag in Gijeongdong Village",
+  "LabelName_C": "人工旗, 机井洞村",
+  "LabelName_J": "北朝鮮の国旗(インゴンキ)、キジョンドン村",
+  "Korean": "북한 내에서는 '평화촌', '판문점 협동농장 분계선 마을'이라고 불리며, 남한에서는 선전마을로 불린다. 2021년에는 건물들을 현대화했다.",
+  "English": "In North Korea, it is called 'Peace Village' and 'Panmunjeom Cooperative Farm Boundary Line Village,' and 'Propaganda Village' in South Korea.  The buildings were modernized in 2021.",
+  "Chinese": "在朝鲜被称为'和平村'、'板门店协同农场分界线村'，在韩国被称为'宣传村'. 直到2021年才将这些建筑现代化.",
+  "Japanese": "北朝鮮では‘平和(ピョンファ)村’、‘板門店共同農場の境界線村’、韓国では‘ソンジョン村’と呼びます. 2021年には建物を現代化しました."
+} {
+  "LabelName": "Daesungdong",
+  "LabelName_K": "태극기, 대성동마을",
+  "LabelName_E": "Taegeukgi, Daeseongdong Village",
+  "LabelName_C": "太极旗, 大成洞村",
+  "LabelName_J": "韓国の国旗(太極旗), テソンドン村",
+  "Korean": "공동경비구역 판문점과 인근에 위치한 대성동마을을 함께 볼 수 있다. 대성동마을 99.8m 높이의 철탑 국기게양대에 걸린 태극기는 가로18m, 세로12m의 크기다.",
+  "English": "Daeseongdong Village is located nearby the JSA (Joint Security Area) Panmunjeom. The Taegeukgi hung on the flagpole of the steel tower 99.8m high in Daeseong-dong Village is 18m wide and 12m long.",
+  "Chinese": "在这里可以看到共同警备区板门店和附近的大成洞村. 悬挂在大成洞村99.8米高的铁塔升旗台上的太极旗长为18米，宽为12米.",
+  "Japanese": "JSAの板門店のすぐ近くに位置するテソンドン村が全部見えます. ９９．８ｍという高さの鉄塔の国旗掲揚台に掲げた太極旗は、横１８ｍ、縦１２ｍの大きさであります."
+} {
+  "LabelName": "Gary",
+  "LabelName_K": "개리",
+  "LabelName_E": "Anser Cygnoides",
+  "LabelName_C": "鸿雁",
+  "LabelName_J": "サカツラガン",
+  "Korean": "천연기념물 제325-1호\r\n멸종위기 등급 : 취약, 멸종위기 야생생물 2급\r\n간척지, 습지 등에 서식하며 식물의 뿌리, 종자, 물고기, 무척추동물을 주로 먹는다.",
+  "English": "Natural Monument No.325-1\r\nIUCN Red List : VU Vulnerable, Endangered Wildlife Class II\r\nInhabits a reclaimed land or wetland. Mainly preys on plant root, seed, fish, and invertebrate.",
+  "Chinese": "天然纪念物 第325-1号\r\n濒危等级: 脆弱、濒危野生生物 2级\r\n栖息于围垦地、湿地等，以植物的根、种子、鱼、无脊椎动物为食.",
+  "Japanese": "天然記念物第325-1号\r\n絶滅危惧レベル : 脆弱、絶滅危惧生物2級\r\n干拓地、湿地などで生息し、主に植物の根、種、魚、無脊椎動物を食べます."
+} {
+  "LabelName": "Haehong",
+  "LabelName_K": "해홍나물",
+  "LabelName_E": "Haehong namul",
+  "LabelName_C": "海红草",
+  "LabelName_J": "大邱スタジアム",
+  "Korean": "바닷가에서 자라며, 나문재처럼 생겼으나 열매가 작고 잎겨드랑이에 꽃이 3~5개씩 달리는 것이 다르다. 곧게 자라서 높이 30~50cm에 달하고 가지가 많이 갈라진다. 잎은 가늘고 긴 선형이고 뭉쳐난다. 꽃은 7~8월에 피고 꽃대가 없다.",
+  "English": "Suaeda maritima\r\nIt grows on the seashore and looks like a Namunjae, but the fruit is small and the difference is that 3 to 5 flowers hang in the axils. It grows straight and reaches a height of 30~50cm, and branches are divided a lot. Leaves are thin and long, linear and clustered. Flowers bloom in July-August, and there is no peduncle.",
+  "Chinese": "生长在海边，长得很像纳文材，但果实较小，叶上挂着3~5朵不同的花. 直立生长，株高可达30~50厘米，分枝较多. 叶片细长，呈线性，成团生长。 7~8月开花，无花杆.",
+  "Japanese": "海辺で育つ植物でマツナに似ていますが、実が小さく3~5個の花がぶら下がるのがマツナとの違いです. 茎が30~50㎝までまっすぐ伸びて、枝が分かれます. 細くて長い線形の葉を持っていて花は7~8月に咲きます."
+} {
+  "LabelName": "Gaesgaemichwi",
+  "LabelName_K": "갯개미취",
+  "LabelName_E": "Seashore aster",
+  "LabelName_C": "碱菀",
+  "LabelName_J": "ウラギク",
+  "Korean": "갯가나 내륙의 염성지에서 자란다. 전체에 털이 없고 줄기는 굵고 곧게 선다. 높이는 25~100cm이다. 뿌리잎과 밑부분 잎은 꽃이 필 때 없어지고, 줄기잎은 어긋나게 창처럼 생겼고 톱니는 없다.",
+  "English": "Aster tripolium\r\nIt grows on streams or inland saltlands. There is no hair on the whole and the stem stands thick and straight. It is 25 to 100 centimeters high. Root leaves and bottom leaves disappear when flowers bloom, and stem leaves look like spears and have no sawtooth.",
+  "Chinese": "它生长在河流或内陆盐地上. 整体上没有毛，茎粗而直. 它高25到100厘米. 根叶和底叶在花开时消失,茎叶看起来像长矛,没有锯齿.",
+  "Japanese": "ウラギクは小川や内陸の塩性地で育つ植物です. 全体的に毛がなく、茎は太くまっすぐに立ちます.　高さは25~100cmで花が咲くと根葉と下部分の葉は消えます. 茎葉は槍のような形で鋸歯がありません."
+} {
+  "LabelName": "ImjinR",
+  "LabelName_K": "임진강",
+  "LabelName_E": "The Limjingang River",
+  "LabelName_C": "临津江",
+  "LabelName_J": "臨津江",
+  "Korean": "함경남도 덕원군 마식령에서 발원하여 황해북도 판문군과 경기도 파주시 사이로 유입되어 서해로 흘러드는 강이다. 남북이 대치하는 군사 분계선이 일부 지나는 한편 희귀 식물, 다양한 조류의 서식지로 귀중한 생태계의 보고이다.",
+  "English": "This river that originates from Masikryeong Pass, Deokwon-gun Country, Hamgyeongnam-do Province, flows between Panmun-gun, Hwanghae-buk-do  and Paju-si City, Gyeonggi-do, and flows into the West Sea. While some of the military demarcation lines where the two Koreas confront each other pass, it is a valuable treasure trove of ecosystems as a habitat for rare plants and various birds.",
+  "Chinese": "发源于咸镜南道德原郡马息岭，从黄海北道板门郡和京畿道坡州市之间流过, ，然后汇入西海. 一部分南北对峙的军事分界线经过此地，同时这里作为稀有植物、多种鸟类的栖息地,是宝贵的生态界的宝库.",
+  "Japanese": "北朝鮮の咸鏡南道(ハムギョンナムド)、德源(トグォン)郡、馬息(マシク)嶺から流れて、黄海北道の板門(パンムン)郡と、坡州（パジュ）市に流入され、西海まで流れる川です。南北が対峙する軍事境界線の一部を通じる一方で、希少種の植物や、色んな鳥類の生殖地として貴重な生態系を保っています."
+} {
+  "LabelName": "Dolgoji",
+  "LabelName_K": "돌곶이",
+  "LabelName_E": "Dolgoji",
+  "LabelName_C": "多尔戈吉",
+  "LabelName_J": "ドルゴジ",
+  "Korean": "평양시 용포마을 남쪽에 있는 마을이다. 대동강 쪽으로 쑥 내민 바위곶이가 있는데, 지난날 이 고장에 있던 돌곶방, 돌곶면의 이름도 여기서 유래하였다. 옛날에는 이 돌곶이가 대동강에 내밀고 있었으나 현재 거기에 제방까지 쌓아 강기슭에서 멀어졌다.",
+  "English": "It is a village in the south of Yongpo Village in Pyongyang. There is a rocky goji that extends toward the Daedonggang River, and the names of Dolgotbang and Dolgotmyeon, which were in this area in the past, are also derived from this. In the old days, this dolgogi was sticking out to the Daedonggang River, but now it is far from the river bank by building an embankment there.",
+  "Chinese": "它是平壤龙浦村南部的村庄. 有向大同江延伸的石窟,过去位于这一带的石窟房和石窟面的名字也由此而来. 以前这个石棺突出在大同江边,但现在在那里筑堤防,离江边很远.",
+  "Japanese": "平壌の龍浦村の南側にある村で大東江に向かってる岩があり、昔この地域にあったドルゴッバンとドルゴッ村の名前もこの岩に由来しました.　かつて、この岩は大同江に突き出ていましたが、今は堤防を築いて川岸から遠く離れることになりました."
+} {
+  "LabelName": "Butterfly",
+  "LabelName_K": "꼬리명주나비",
+  "LabelName_E": "Tailsilk butterfly",
+  "LabelName_C": "尾明州蝴蝶",
+  "LabelName_J": "尾明州蝶",
+  "Korean": "북한명은 꼬리범나비 이다. 조강 지역 뿐 아니라 한반도 전역에서 분포하며, 꼬리가 가늘고 길다. 수컷은 흰 바탕에 검은 띠무늬나 점이 있으나, 암컷은 흑갈색 바탕에 연노란색 띠무늬가 있다. 뒷날개의 뒤쪽에 붉은 띠와 2~3개의 푸른 점이 있으며, 뒷 날개엔 꼬리가 있다.",
+  "English": "Sericinus montela\r\nThe North Korean name is a tail tiger butterfly. It is distributed not only in the Jogang area but also throughout the Korean Peninsula, and has a thin and long tail. Males have black band patterns or dots on a white background, but females have light yellow band patterns on a dark brown background. There are red bands and two to three blue dots on the back of the hindwings, and the hindwings have tails.",
+  "Chinese": "北朝鲜名字是尾虎蝶. 不仅分布在曹江地区,还分布在整个韩半岛,尾巴又细又长. 雄性在白色背景上有黑色带状图案或圆点，而雌性在深棕色背景上有淡黄色的带状图案. 后翅背面有红色条纹和2~3个蓝色圆点,后翅有尾巴.",
+  "Japanese": "北朝鮮では尾虎蝶と呼ばれています. 祖江地域だけでなく韓半島全域に生息し、細くて長い尻尾を持っています. オスは白い羽に黒い点や縞がありますが、メスは濃い茶色の羽に薄い黄色の帯があります. 後翅には尻尾があって裏面には赤い帯と2~3個の青い点があります."
+} {
+  "LabelName": "Odusan",
+  "LabelName_K": "오두산 통일전망대",
+  "LabelName_E": "Odusan Unification Observatory",
+  "LabelName_C": "乌头山(鳥頭山)统一瞭望台",
+  "LabelName_J": "オドゥサン(烏頭山)統一展望台",
+  "Korean": "1992년 9월 8일 개관하였다. 한강과 임진강이 만나는 오두산은 예로부터 서울과 개성을 지키는 군사적 요충지였다. 지상5층, 지하1층의 석조건물로서 해발 140m의 높이에 자리잡은 원형 전망실에서는 북한 주민들이 농사짓는 모습도 볼 수 있다.",
+  "English": "It opened on September 8, 1992. Odusan Mountain, where the Han River and the Imjin River meet, has long been a military center that protects Seoul and Kaesong, and is a stone building with five stories above ground and one basement floor. You can see North Koreans farming in the circular observation room located 140m above sea level.",
+  "Chinese": "1992年9月8日开馆. 汉江和临津江交汇的乌头山自古以来就是守护首尔和开城的军事要地. 是地上5层、地下1层的石造建筑，在海拔140米高的圆形瞭望室可以看到朝鲜居民种地的情景.",
+  "Japanese": "漢江と臨津江が合流する烏頭山は、昔からソウルと開城を守る軍事的中心地でした. 1992年9月8日開館した烏頭（オドゥ）山統一展望台は地上5階、地下1階の石造建物で、標高140mの高さに位置する円形展望室からは北朝鮮住民が農業を営んでいる姿も見られます."
+}

@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: c16611f998057e243bc1982180b483e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7086013046068867993
+    second: MapLabel_00
+  - first:
+      213: -3102131189529233232
+    second: MapLabel_1
+  - first:
+      213: 5196852488834644760
+    second: MapLabel_2
+  - first:
+      213: 8949796880820529477
+    second: MapLabel_3
+  - first:
+      213: -5462494990595528304
+    second: MapLabel_4
+  - first:
+      213: 2936587171870270479
+    second: MapLabel_5
+  - first:
+      213: 3527778655917147728
+    second: MapLabel_6
+  - first:
+      213: -7572314111515832094
+    second: MapLabel_01
+  - first:
+      213: 5292833506388998029
+    second: MapLabel_8
+  - first:
+      213: 8467259429681972283
+    second: MapLabel_9
+  - first:
+      213: 9095268244150380874
+    second: MapLabel_10
+  - first:
+      213: 6972292741274287988
+    second: MapLabel_02
+  - first:
+      213: 238814763653549043
+    second: MapLabel_12
+  - first:
+      213: 1759493008326529468
+    second: MapLabel_13
+  - first:
+      213: 7443896217842592653
+    second: MapLabel_14
+  - first:
+      213: 7583624239833310961
+    second: MapLabel_15
+  - first:
+      213: 3894412638837428450
+    second: MapLabel_16
+  - first:
+      213: -8114694006009811542
+    second: MapLabel_17
+  - first:
+      213: 916993342292897075
+    second: MapLabel_18
+  - first:
+      213: 857394215429661723
+    second: MapLabel_03
+  - first:
+      213: 3688606503122504254
+    second: MapLabel_20
+  - first:
+      213: -6246013487047012243
+    second: MapLabel_21
+  - first:
+      213: -640939810646686434
+    second: MapLabel_04
+  - first:
+      213: -5831940761158439114
+    second: MapLabel_23
+  - first:
+      213: 3581699873403496424
+    second: MapLabel_05
+  - first:
+      213: -2362232139578904647
+    second: MapLabel_06
+  - first:
+      213: 6057344245177642507
+    second: MapLabel_07
+  - first:
+      213: -8725900133037670482
+    second: MapLabel_08
+  - first:
+      213: 6721229736373288143
+    second: MapLabel_09
+  - first:
+      213: -5407719801310891569
+    second: MapLabel_10
+  - first:
+      213: -8293530615834719090
+    second: MapLabel_11
+  - first:
+      213: -6650494928257699457
+    second: MapLabel_12
+  - first:
+      213: 2293708773299200927
+    second: MapLabel_13
+  - first:
+      213: 8858726161847537029
+    second: MapLabel_14
+  - first:
+      213: -3079411231583364667
+    second: MapLabel_15
+  - first:
+      213: 7687693990139133672
+    second: MapLabel_16
+  - first:
+      213: -2234143941955640872
+    second: MapLabel_17
+  - first:
+      213: 2897464310603940774
+    second: MapLabel_18
+  - first:
+      213: 7944563494533953488
+    second: MapLabel_19
+  - first:
+      213: -4477362750813198334
+    second: MapLabel_20
+  - first:
+      213: 5654298858382876678
+    second: MapLabel_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapLabel_00
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1960
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f7b47253965260800000000000000
+      internalID: 7086013046068867993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_01
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1908
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0db677f6cb9e690800000000000000
+      internalID: -7572314111515832094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_02
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1856
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f30b1be4f82c060800000000000000
+      internalID: 6972292741274287988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_03
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1804
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e82b0f7316eb00800000000000000
+      internalID: 857394215429661723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_04
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1752
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158ff753acea17f0800000000000000
+      internalID: -640939810646686434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_05
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1700
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e646ee01c4b130800000000000000
+      internalID: 3581699873403496424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_06
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1648
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf636b726aa73fd0800000000000000
+      internalID: -2362232139578904647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_07
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1596
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee1107f72001450800000000000000
+      internalID: 6057344245177642507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_08
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1544
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf71c09f0067e680800000000000000
+      internalID: -8725900133037670482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_09
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1492
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc725aa5da964d50800000000000000
+      internalID: 6721229736373288143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b406fd7be3f4b0800000000000000
+      internalID: -5407719801310891569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1388
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c485d88d577ec80800000000000000
+      internalID: -8293530615834719090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1336
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b9ac3912b4b3a0800000000000000
+      internalID: -6650494928257699457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1284
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9322ba0af3e4df10800000000000000
+      internalID: 2293708773299200927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1232
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc167328480fa70800000000000000
+      internalID: 8858726161847537029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1180
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91020eccbb345d0800000000000000
+      internalID: -3079411231583364667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eef520f3fc20ba60800000000000000
+      internalID: 7687693990139133672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1076
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1a4aafbe9bef0e0800000000000000
+      internalID: -2234143941955640872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1024
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38be6607cd53820800000000000000
+      internalID: 2897464310603940774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 972
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77b3bf762c04e60800000000000000
+      internalID: 7944563494533953488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 920
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a63bdc463dd1c0800000000000000
+      internalID: -4477362750813198334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapLabel_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 868
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600eecb9ada187e40800000000000000
+      internalID: 5654298858382876678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a0ab6ff8f800b184ea9178df17c1e562
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,181 @@
+﻿{
+  "LabelName": "Daemo",
+  "LabelName_K": "대모산",
+  "LabelName_E": "Daemosan",
+  "LabelName_C": "大母山",
+  "LabelName_J": "大母山",
+  "Korean": "높이293m. 할미산으로 불리우다\r\n태종의 헌릉을 모신 후, 어명으로\r\n대모산으로 고쳐졌다. 주민들의\r\n휴식공간으로 아침운동이나 가벼운\r\n산책을 즐기려는 사람들이 이용하고\r\n있다.",
+  "English": "Daemosan Mt is 293m high. It\r\nwas called Halmisan Mt., but\r\nwas changed to Daemosan Mt.\r\nby the royal command after King\r\nTaejong's  Heolleung was\r\nenshrined. As a resting place for\r\nresidents, it is used by people\r\nwho want to enjoy morning\r\nexercise.",
+  "Chinese": "高293m, 被称为“奶奶山”, 供奉太宗的献陵后, 御名改为“大母山”。作为居民的休息空间, 喜欢晨练或轻松散步的人们会经常来到这里。",
+  "Japanese": "高さ293m。ハルミ山とも呼ばれ太宗の獻陵を祀った後、勅命により大母山と改められた。地域住民の憩いの場として朝の運動や軽い散策を楽しもうとする人々に利用されている。"
+} {
+  "LabelName": "MasicIsland",
+  "LabelName_K": "매직아일랜드",
+  "LabelName_E": "Lotte World Magic Island",
+  "LabelName_C": "神奇岛",
+  "LabelName_J": "マジックアイランド",
+  "Korean": "석촌호수공원 서호에 있는 인공섬이다. 롯데월드의 일부로, 섬 내부에 롯데월드의 놀이기구들이 있다.",
+  "English": "It is an artificial island located in\r\nthe West Lake of Seokchonhosu\r\nLake Park.As part of Lotte World,\r\nthere are Lotte World.",
+  "Chinese": "这是位于石村湖水公园西湖的人工岛。作为乐天世界的一部分, 岛内有乐天世界的游乐设施。",
+  "Japanese": "石村湖公園の西湖にある人工島だ。ロッテワールドの一部であり、島の内部にロッテワールドのアトラクションなどがある"
+} {
+  "LabelName": "Lake",
+  "LabelName_K": "석촌호수",
+  "LabelName_E": "Seokchonhosu",
+  "LabelName_C": "石村湖",
+  "LabelName_J": "石村湖",
+  "Korean": "석촌호수는 송파대로를 기준으로\r\n동호와 서호로 나뉘어 있으며, 동호는\r\n새벽 조깅 코스와 주변 시민들의\r\n휴식처, 산책로로 이용되고, 서호는\r\n롯데월드의 매직아일랜드가 있다.\r\n옛 송파강과 송파나루, 송파장 등이\r\n있던 곳이다.",
+  "English": "Seokchonhosu Lake is divided into East Lake and West Lake\r\nbased on Songpa-daero, and\r\nEast Lake is used as a jogging\r\ncourse in the early morning,\r\na resting place for nearby\r\ncitizens, and a walking trail, and\r\nthe West Lake is home to Magic\r\nIsland of Lotte World. It is the\r\nsite nof the old Songpagang\r\nRiver, Songpanaru, and\r\nSongpajang Market.",
+  "Chinese": "石村湖以松坡大路为基准分为东湖和西湖, 东湖被用作凌晨慢跑路线和周边市民的休息处、散步路, 西湖有乐天世界的魔法岛。这里曾是松坡江、松坡渡口、松坡场等的所在地。",
+  "Japanese": "石村湖は松坡大路を基点に東湖と西湖に分かれており、東湖は早朝のジョギングコースと周辺市民の憩いの場、遊歩道として利用されており、西湖はロッテワールドのマジックアイランドがある。旧松坡江と松坡ナル、松坡場などがあったところだ。"
+} {
+  "LabelName": "Lotte",
+  "LabelName_K": "롯데월드",
+  "LabelName_E": "Lotteworld",
+  "LabelName_C": "乐天世界(冒险)",
+  "LabelName_J": "ロッテワール",
+  "Korean": "모험과 신비의 나라 롯데월드.\r\n국내 최초, 최대 실내테마파크로\r\n민속박물관, 아이스링크, 백화점, 마트,\r\n호텔 등이 포함된다.",
+  "English": "Lotte World, a land of adventure and mystery. It is the first and\r\nlargest indoor theme park in\r\nKorea, and includes a folk\r\nmuseum, an ice rink,\r\na department store, a mart,\r\nand a hotel.",
+  "Chinese": "冒险和神秘之国-乐天世界。这里有国内最早、最大的室内主题公园、民俗博物馆、滑冰场、百货商店、超市、酒店等。",
+  "Japanese": "冒険と神秘の国、ロッテワールド。国内初、最大の室内テーマパークであり、民俗博物館、アイスリンク、デパート、マート、ホテルなどが入っている。"
+} {
+  "LabelName": "Art",
+  "LabelName_K": "예술의전당",
+  "LabelName_E": "Seoul Arts Center",
+  "LabelName_C": "艺术的殿堂",
+  "LabelName_J": "芸術の殿堂",
+  "Korean": "한국 최대의 복합문화 시설로\r\n서울특별시 서초구에 위치해있다.\r\n오페라하우스, 미술관, 극장 등의 실내공간과 분수와 연못등으로 조성된 야외공간에서 다양한 문화생활을 즐길 수 있다.",
+  "English": "It is the largest complex cultural facility in Korea and is located in Seocho-gu, Seoul. You can\r\nenjoy a variety of cultural life in\r\nindoor spaces such as the opera\r\nhouse, art museum, and theater,\r\nand in outdoor spaces such as\r\nfountains and ponds.",
+  "Chinese": "是韩国最大的综合文化设施, 位于首尔特别市瑞草区。在歌剧院、美术馆、剧场等室内空间和喷泉及莲花池等组成的户外空间里, 可以享受多样的文化生活。",
+  "Japanese": "韓国最大の複合文化施設であり、ソウル特別市瑞草区にある。オペラハウス、美術館、劇場などの室内空間と、噴水や池などからなる野外空間があり、さまざまな文化生活を楽しむことができる。"
+} {
+  "LabelName": "Cemetery",
+  "LabelName_K": "국립 현충원",
+  "LabelName_E": "Seoul National Cemetery",
+  "LabelName_C": "国立首尔显忠院",
+  "LabelName_J": "国立ソウル顕忠院",
+  "Korean": "나라를 위해 목숨을 바친 애국지사와 국가 유공자 등 호국영령들을 모신\r\n국립묘지이다. 매년 6월6일 현충일에\r\n기념식이 열린다. 묘지이지만 공원처럼 꾸며져 있어 산책 및 학생들이 견학하기에 좋은 장소이다. ",
+  "English": "It is a national cemetery that\r\nenshrines the patriots who gave\r\ntheir lives for the country and\r\nthose of national merit.\r\nA memorial service is held on\r\nMemorial Day on June 6 every\r\nyear. Although it is a cemetery, it\r\nis decorated like a park, making\r\nit a good place for walks and for\r\nstudents to tour.",
+  "Chinese": "这里是供奉为国捐躯的爱国志士和国家有功者等护国英灵的国立墓地。每年6月6日显忠日都会举行纪念仪式。虽然是墓地, 但被布置得像公园一样, 非常适合散步和学生们参观。",
+  "Japanese": "国のために命を捧げた愛国志士と国家有功者など護国英霊を祀った国立墓地だ。毎年6月6日、顕忠日に記念式が行われる。墓地でありながら、公園のように美しく造営されており、散策したり生徒たちが社会見学するのに良い場所だ。"
+} {
+  "LabelName": "Tombs",
+  "LabelName_K": "선릉과 정릉",
+  "LabelName_E": "Seolleung and Jeongneung",
+  "LabelName_C": "宣陵和靖陵",
+  "LabelName_J": "宣陵と貞陵",
+  "Korean": "조선 9대 임금 성종과 계비 정현왕후 윤씨의 무덤인 선릉, 11대 임금 중종의 무덤인 정릉이 있다. 선릉과 정릉을\r\n합쳐 선정릉이라 하는데, 선릉으로 더\r\n많이 알려져 있다. 사적 제199호이고,\r\n2009년 6월 30일에 유네스코\r\n세계유산으로 등재되었다.",
+  "English": "Seolleung has the tombs of King Seongjong, the 9th king and his wife Queen Jeonghyeon, and\r\nthe 11th king of Joseon,\r\nJungjong is in Jeongneung.\r\nSeolleung and Jeongneung are\r\ncollectively called\r\nSeonjeongneung, but it is more\r\ncommonly known as Seolleung.\r\nIt is Historic Site No.199 and was\r\nregistered as a UNESCO World\r\nHeritage Site on June 30, 2009.",
+  "Chinese": "这里有朝鲜第9代国王成宗和继妃贞显王后尹氏的坟墓-宣陵和第11代国王中宗的坟墓-贞陵。宣陵和靖陵合称为宣政陵, 以宣陵更闻名。史迹第199号, 2009年6月30日被列入联合国教科文组织世界遗产名录。",
+  "Japanese": "朝鮮王朝9代王の成宗と継妃の貞顕王后尹氏の墓である宣陵と、11代王の中宗の墓である貞陵がある。宣陵と貞陵を合わせて宣靖陵というが、宣陵としてより多く知られている。史跡第199号であり、2009年6月30日にユネスコ世界遺産に登録された。"
+} {
+  "LabelName": "Coex",
+  "LabelName_K": "코엑스",
+  "LabelName_E": "Coex",
+  "LabelName_C": "Coex",
+  "LabelName_J": "Coex",
+  "Korean": "코엑스는 다양한 전시와 회의 ,공연\r\n등이 열리는 국제무역과 문화교류의\r\n중심지다. 1979년 3월 종합전시시설\r\n(KOEX)로 개관 후, 1998년 7월\r\nCOEX로 개명하였다. 주변에는 외국인 카지노를 비롯해 호텔, 백화점 등의 편의시설과 지상에는 공연장인 코엑스 아티움이 있다.",
+  "English": "COEX is the center of\r\ninternational trade and cultural\r\nexchange where various\r\nexhibitions, conferences, and\r\nperformances are held. After\r\nopening as a general exhibition\r\nfacility (KOEX) in March 1979,\r\nit was renamed COEX in July\r\n1998. Nearby, there are\r\nconvenience facilities such as\r\ncasinos for foreigners, hotels,\r\nand department stores, and the\r\nCoex Artium, a performance hall,\r\non the ground.",
+  "Chinese": "COEX是举办多种展示、会议、演出等的国际贸易和文化交流中心。1979年3月作为综合展示设施(KOEX)开馆后, 于1998年7月更名为COEX。周边有外国人赌场、酒店、百货商店等便利设施, 地上有演出场-COEX ARTIUM。",
+  "Japanese": "COEXはさまざまな展示と会議、公演などが開かれる国際貿易と文化交流の中心地だ。1979年3月に総合展示施設(KOEX)としてオープンした後、1998年7月にCOEXと改名した。周辺には外国人用カジノをはじめ、ホテル、デパートなどの公共施設と、地上には公演会場であるCOEXアティウムがある。"
+} {
+  "LabelName": "Banpo",
+  "LabelName_K": "반포대교",
+  "LabelName_E": "Banpodaegyo",
+  "LabelName_C": "盘浦大桥",
+  "LabelName_J": "盤浦大橋",
+  "Korean": "서울특별시 용산구 서빙고동과 서초구 반포동을 이어주는 한강의 다리로 한국 최초의 2층 교량인 반포대교는 화려한 야경과 분수로 인해 다리 이상의 의미를 가지는 한국의 상징적인 명소이다.",
+  "English": "As a bridge over the Hangang\r\nRiver that connects Seobinggo\r\n-dong, Yongsan-gu and Banpo\r\n-dong, Seocho-gu, Seoul,\r\nBanpodaegyo Bridge, the first\r\ntwo-story bridge in Korea, is a\r\nsymbolic landmark in Korea that\r\nhas more meaning than a bridge\r\ndue to its splendid night view\r\nand fountain.",
+  "Chinese": "连接首尔特别市龙山区西冰库洞和瑞草区盘浦洞的汉江大桥, 作为韩国最早的2层桥梁的盘浦大桥, 因其华丽的夜景和喷泉使其具备了桥梁以上的意义, 是韩国的象征性名所。",
+  "Japanese": "ソウル特別市龍山区西氷庫洞と瑞草区盤浦洞を結ぶ漢江の橋であり、韓国初の2階建て橋梁である盤浦大橋は華やかな夜景と噴水により、単なる橋以上の意味を持つ韓国の象徴的な名所だ。"
+} {
+  "LabelName": "Stadium",
+  "LabelName_K": "잠실종합운동장",
+  "LabelName_E": "Seoul Sports Complex",
+  "LabelName_C": "蚕室综合运动场",
+  "LabelName_J": "蚕室総合運動場",
+  "Korean": "스포츠시설단지로 1984년 9월 완공되었으며, 1986년 아시안게임과\r\n1988년 하계 올림픽을 개최하기 위해\r\n건설되었다. 2025년까지 리모델링이\r\n진행될 예정이다.",
+  "English": "It was completed in September\r\n1984 as a sports facility complex\r\nand was built to host the 1986\r\nAsian Games and the 1988\r\nSummer Olympics. It is going to\r\nbe remodeled until 2025.",
+  "Chinese": "体育设施园区, 于1984年9月竣工, 为举办1986年亚运会和1988年夏季奥运会而建成。预计截至2025年将进行重新装修。",
+  "Japanese": "スポーツ施設団地として1984年9月に完工し、1986年のアジア大会と1988年の夏季オリンピックを開催にあわせて建設された。2025年までにリモデリングされる予定になっている。"
+} {
+  "LabelName": "JamsilPark",
+  "LabelName_K": "잠실한강공원",
+  "LabelName_E": "Parks in Hangang River",
+  "LabelName_C": "蚕室汉江公园",
+  "LabelName_J": "蚕室漢江公園",
+  "Korean": "잠실철교에서 영동대교 사이 강변\r\n남단에 위치해 있으며,잠실종합운동\r\n장, 롯데월드, 올림픽공원이 인접해 있어 어느 지역보다 생활체육시설 및 문화시설을 함께 이용하기 편리하다.",
+  "English": "It is located at the southern end of the riverside between\r\nJamsilcheolgyo Railroad Bridge\r\nand Yeongdongdaegyo Bridge,\r\nand is adjacent to Seoul Sports\r\nComplex, Lotte World, and\r\nOlympic Park, making it more\r\nconvenient to use sports and\r\ncultural facilities than anywhere\r\nelse.",
+  "Chinese": "位于蚕室铁桥至永东大桥之间的江边南端, 与蚕室综合运动场、乐天世界、奥林匹克公园相邻, 比任何地区都便于同时利用生活体育设施和文化设施。",
+  "Japanese": "蚕室鉄橋から永東大橋間の川辺南端にあり、蚕室総合運動場、ロッテワールド、オリンピック公園が隣接しており、どの地域よりも生活体育施設および文化施設を共に利用するのに便利だ。"
+} {
+  "LabelName": "HanR",
+  "LabelName_K": "한강",
+  "LabelName_E": "Hangang",
+  "LabelName_C": "汉江",
+  "LabelName_J": "漢江",
+  "Korean": "대한민국의 국가 1급 하천이다. 한강이라는 명칭은 우리말 '한가람'에서 비롯하였다. 옛말에서 '한'은 '큰'을 뜻하는 말이며, '가람'은 강을 가리킨다.",
+  "English": "Hangang is a national first-class river in Korea. The name\r\nHangang comes from the Korean\r\nword 'Hangaram'. In the old\r\nsaying, 'han' means 'big', and\r\n'garam' refers to a river.",
+  "Chinese": "这是韩国的国家一级河流。汉江的名称源于韩语\"汉伽蓝\"。古语中, \"汉\"是指\"大\"的意思, 而\"伽蓝\"是指江。",
+  "Japanese": "大韓民国の国家1級河川だ。漢江という名称は韓国語の「漢伽藍(ハンガラム)」に由来する。昔の言葉で「漢」は「大きな」を意味する言葉であり、「伽藍」は川を指す。"
+} {
+  "LabelName": "ChungDam",
+  "LabelName_K": "청담대교",
+  "LabelName_E": "Cheongdamdaegyo",
+  "LabelName_C": "清潭大桥",
+  "LabelName_J": "清潭大橋",
+  "Korean": "서울특별시 광진구 자양동과 강남구\r\n청담동 사이를 연결하는 한강의 복층\r\n교량이다.",
+  "English": "It is a double-decker bridge over\r\nthe Hangang River that connects\r\nJayang-dong, Gwangjin-gu, and\r\nCheongdam-dong,\r\nGangnam-gu, Seoul.",
+  "Chinese": "是连接首尔特别市广津区紫阳洞和江南区清潭洞之间的汉江双层桥梁.",
+  "Japanese": "ソウル特別市広津区紫陽洞と江南区清潭洞の間を結ぶ漢江の複層橋梁だ。"
+} {
+  "LabelName": "YoungDong",
+  "LabelName_K": "영동대교",
+  "LabelName_E": "Yeongdongdaegyo",
+  "LabelName_C": "永东大桥",
+  "LabelName_J": "永東大橋",
+  "Korean": "서울특별시 광진구 자양동과 강남구\r\n청담동을 연결하는 다리이다.",
+  "English": "This bridge connects Jayang\r\n-dong, Gwangjin-gu, and\r\nCheongdam-dong,\r\nGangnam-gu, Seoul.",
+  "Chinese": "是连接首尔特别市广津区紫阳洞和江南区清潭洞的桥梁",
+  "Japanese": "ソウル特別市広津区紫陽洞と江南区清潭洞を結ぶ橋だ。"
+} {
+  "LabelName": "SungSu",
+  "LabelName_K": "성수대교",
+  "LabelName_E": "Seongsudaegyo",
+  "LabelName_C": "圣水大桥",
+  "LabelName_J": "聖水大橋",
+  "Korean": "서울특별시 성동구 성수동과 강남구\r\n압구정동을 연결하는 8차선 다리이다.\r\n1994년 10월21일 붕괴사고\r\n발생하였다. 붕괴사고 이후 1997년\r\n7월 3일에 새롭게 복구되어\r\n차량통행이 재개되었다.",
+  "English": "It is an 8-lane bridge connecting\r\nSeongsu-dong, Seongdong-gu\r\nand Apgujeong-dong, Gangnam\r\n-gu, Seoul. On October 21, 1994,\r\na collapse accident occurred.\r\nAfter the collapse, on July 3,\r\n1997, it was newly restored and\r\nvehicular traffic resumed.",
+  "Chinese": "这是连接首尔特别市城东区圣水洞和江南区狎鸥亭洞的8车道桥梁。1994年10月21日发生坍塌事故。坍塌事故发生以后, 1997年7月3日被重新修复后恢复了车辆通行。",
+  "Japanese": "ソウル特別市城東区聖水洞と江南区狎鴎亭洞を結ぶ8車線の橋だ。1994年10月21日に崩落事故が発生した。崩落事故以後、1997年7月3日に新たに復旧し、現在は車両通行が再開されている。"
+} {
+  "LabelName": "NTower",
+  "LabelName_K": "남산타워",
+  "LabelName_E": "N Seoul Tower",
+  "LabelName_C": "南山N塔",
+  "LabelName_J": "南山Nタワー",
+  "Korean": "서울특별시 용산구에 위치한 전망대로 많은 관광객들이 방문하는 대한민국의 관광 명소이다. 서울을 한눈에 내려다 볼 수 있는 곳으로 관광객에게\r\n여러가지 볼거리와 편의시설을\r\n제공하는 한국의 랜드마크다.",
+  "English": "It is an observatory located in\r\nYongsan-gu, Seoul, and is a\r\ntourist attraction in Korea visited\r\nby many tourists. It is a place\r\nwhere you can overlook Seoul at\r\na glance, and it is a Korean\r\nlandmark that provides tourists\r\nwith various attractions and\r\nconvenient facilities.",
+  "Chinese": "位于首尔特别市龙山区的展望台是众多游客访问的韩国旅游胜地。在这里可以一览首尔, 是为游客提供各种景观和便利设施的韩国地标。",
+  "Japanese": "ソウル特別市龍山区にある展望台であり、多くの観光客が訪れる大韓民国の観光名所だ。ソウルを一望できる場所であり、観光客に様々な見どころと公共施設を提供する韓国のランドマークだ。"
+} {
+  "LabelName": "Park",
+  "LabelName_K": "남한산성도립공원",
+  "LabelName_E": "Namhansanseong Park",
+  "LabelName_C": "南汉山城",
+  "LabelName_J": "南漢山城道立公園（方面）",
+  "Korean": "남한산성 도립공원은 경기도의\r\n대표적인 도립공원으로 서울과\r\n성남시민들이 가장 '많이' 이용하는\r\n근린자연공원이다. 유네스코\r\n세계문화유산으로 등재된 곳으로\r\n역사적 관광지로 널리 알려진 곳이다. ",
+  "English": "Namhansanseong Provincial\r\nPark is a representative\r\nprovincial park in Gyeonggi-do\r\nand is a neighborhood natural\r\npark most 'used' by citizens of\r\nSeoul and Seongnam. It is listed\r\nas a UNESCO World Heritage\r\nSite and is widely known as a\r\nhistorical tourist destination.",
+  "Chinese": "南汉山城道立公园是京畿道的代表性道立公园, 是首尔和城南市民们最常\"光顾\"的近邻自然公园。这里被联合国教科文组织列入世界文化遗产名录, 作为历史旅游胜地广为人知。",
+  "Japanese": "南漢山城の道立公園は京畿道の代表的な道立公園であり、ソウルと城南市民が最も‛多く’利用する近隣自然公園だ。ユネスコ世界文化遺産に登録された場所であり、歴史的な観光地として広く知られている。."
+} {
+  "LabelName": "Olympic",
+  "LabelName_K": "올림픽공원",
+  "LabelName_E": "Olympic Park",
+  "LabelName_C": "奥林匹克公园",
+  "LabelName_J": "オリンピック公園",
+  "Korean": "몽촌토성의 발굴과 올림픽\r\n보조경기장의 건설로 세워진\r\n시민공원으로 역사유적을 함께 돌아볼\r\n수 있는 공원이다. 올림픽공원은 야외\r\n조각공원을 비롯하여 88놀이마당,\r\n음악 분수 등과 같은 휴식 공간이\r\n조성되어 있다.",
+  "English": "It is a public park built with the\r\nexcavation of Mongchontoseong\r\nFortress and the construction of\r\nthe Seoul Sports Complex\r\nAuxiliary Stadium. Olympic Park\r\nhas rest areas such as an\r\noutdoor sculpture park,\r\n88 Playground, and a musical\r\nfountain.",
+  "Chinese": "通过挖掘梦村土城和建设奥运会辅助竞技场而建成的市民公园, 是可以同时游览历史遗迹的公园。奥林匹克公园包括户外雕刻公园、88游乐园、音乐喷泉等休息空间。",
+  "Japanese": "夢村土城の発掘とオリンピック補助競技場の建設により造設された市民公園であり、歴史的遺跡を共に見学できる公園だ。オリンピック公園は野外彫刻公園をはじめ88の遊び場、音楽噴水などの休息空間が造成されている。"
+}

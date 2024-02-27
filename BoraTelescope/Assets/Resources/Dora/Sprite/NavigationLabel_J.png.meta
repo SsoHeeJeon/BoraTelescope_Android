@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: 76a22c412455b7741aa168b98ed72882
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6062912862603430697
+    second: NavigationLabel_J_00
+  - first:
+      213: -3186117176526120535
+    second: NavigationLabel_J_23
+  - first:
+      213: -7703333835957928526
+    second: NavigationLabel_J_01
+  - first:
+      213: 5674852174551906057
+    second: NavigationLabel_J_22
+  - first:
+      213: 4219110794291702257
+    second: NavigationLabel_J_02
+  - first:
+      213: -238015576919336425
+    second: NavigationLabel_J_24
+  - first:
+      213: -191599899874206339
+    second: NavigationLabel_J_04
+  - first:
+      213: -4923407322528526204
+    second: NavigationLabel_J_26
+  - first:
+      213: 6365094512416263171
+    second: NavigationLabel_J_05
+  - first:
+      213: 7845370954231341002
+    second: NavigationLabel_J_27
+  - first:
+      213: -8725174717052723425
+    second: NavigationLabel_J_06
+  - first:
+      213: 8660621922993877443
+    second: NavigationLabel_J_28
+  - first:
+      213: -8101263135053829550
+    second: NavigationLabel_J_07
+  - first:
+      213: 9217607456669572333
+    second: NavigationLabel_J_29
+  - first:
+      213: -6132906444912398116
+    second: NavigationLabel_J_08
+  - first:
+      213: -8326451431201797610
+    second: NavigationLabel_J_30
+  - first:
+      213: 8089225651137553136
+    second: NavigationLabel_J_10
+  - first:
+      213: 1136451280424879945
+    second: NavigationLabel_J_32
+  - first:
+      213: -954869235614082492
+    second: NavigationLabel_J_12
+  - first:
+      213: -3648540911557393706
+    second: NavigationLabel_J_33
+  - first:
+      213: 1450133436472503548
+    second: NavigationLabel_J_11
+  - first:
+      213: -1907217429321930792
+    second: NavigationLabel_J_34
+  - first:
+      213: 8922369759252282887
+    second: NavigationLabel_J_13
+  - first:
+      213: 8574616885748064361
+    second: NavigationLabel_J_35
+  - first:
+      213: -2970280329399427600
+    second: NavigationLabel_J_14
+  - first:
+      213: 2737488232747347681
+    second: NavigationLabel_J_36
+  - first:
+      213: -3749507969993517481
+    second: NavigationLabel_J_15
+  - first:
+      213: 3798483451046497144
+    second: NavigationLabel_J_37
+  - first:
+      213: -1569174127182231170
+    second: NavigationLabel_J_16
+  - first:
+      213: -6375473821116324876
+    second: NavigationLabel_J_38
+  - first:
+      213: 3615566450383627869
+    second: NavigationLabel_J_17
+  - first:
+      213: -9115099700619145060
+    second: NavigationLabel_J_39
+  - first:
+      213: 1682838303685025666
+    second: NavigationLabel_J_18
+  - first:
+      213: 2321911518148809176
+    second: NavigationLabel_J_19
+  - first:
+      213: -4308862760138890030
+    second: NavigationLabel_J_20
+  - first:
+      213: -1297960448150030624
+    second: NavigationLabel_J_21
+  - first:
+      213: 681114821197751523
+    second: NavigationLabel_J_03
+  - first:
+      213: -2238947417431901186
+    second: NavigationLabel_J_09
+  - first:
+      213: -8273184276661350659
+    second: NavigationLabel_J_25
+  - first:
+      213: -3739152579257751442
+    second: NavigationLabel_J_31
+  - first:
+      213: 3920349747325633288
+    second: NavigationLabel_J_42
+  - first:
+      213: -2910504499626149122
+    second: NavigationLabel_J_43
+  - first:
+      213: 8571296814244555457
+    second: NavigationLabel_J_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NavigationLabel_J_00
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1798
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bcf97302bc32450800000000000000
+      internalID: 6062912862603430697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_01
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1709
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdfa71b0b2481590800000000000000
+      internalID: -7703333835957928526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1709
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907f4017cff11ce40800000000000000
+      internalID: 5674852174551906057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_02
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1620
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e5c1e9ea4d8a30800000000000000
+      internalID: 4219110794291702257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1620
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a96b6081662bcf0800000000000000
+      internalID: -238015576919336425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_04
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1531
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5ffcf7ec475df0800000000000000
+      internalID: -191599899874206339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_26
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1531
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4805120202b8cabb0800000000000000
+      internalID: -4923407322528526204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_05
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1442
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c0c5e3cbb555850800000000000000
+      internalID: 6365094512416263171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_27
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1442
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf502af05b50ec60800000000000000
+      internalID: 7845370954231341002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_06
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1353
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f5ad2a2d3f9e680800000000000000
+      internalID: -8725174717052723425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1353
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b206c0c5b03870800000000000000
+      internalID: 8660621922993877443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_07
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1264
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a262bd918829f80800000000000000
+      internalID: -8101263135053829550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1264
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec18c515258bef70800000000000000
+      internalID: 9217607456669572333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_08
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1175
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0fa46f41a83eaa0800000000000000
+      internalID: -6132906444912398116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_30
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1175
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8cabe980827c80800000000000000
+      internalID: -8326451431201797610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1086
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f228040fd3b24070800000000000000
+      internalID: 8089225651137553136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1086
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947434a1b6c75cf00800000000000000
+      internalID: 1136451280424879945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 997
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a16444d7f9fb2f0800000000000000
+      internalID: -954869235614082492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_33
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 997
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2442a2f57cd5dc0800000000000000
+      internalID: -3648540911557393706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 908
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc2cd56da8ef1410800000000000000
+      internalID: 1450133436472503548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_34
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 908
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d725d75ad33885e0800000000000000
+      internalID: -1907217429321930792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 819
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7be6f500a2db70800000000000000
+      internalID: 8922369759252282887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_35
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 819
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960641890a82ff670800000000000000
+      internalID: 8574616885748064361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 730
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd11d217c177c6d0800000000000000
+      internalID: -2970280329399427600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_36
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 730
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eea7b93b038df520800000000000000
+      internalID: 2737488232747347681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 641
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565a06fd5217fbc0800000000000000
+      internalID: -3749507969993517481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_37
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 641
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b83d0d29ce6b430800000000000000
+      internalID: 3798483451046497144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 552
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79c196f17c293ae0800000000000000
+      internalID: -1569174127182231170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 552
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f32f81a654c587a0800000000000000
+      internalID: -6375473821116324876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 463
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56afe0d7821d2230800000000000000
+      internalID: 3615566450383627869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_39
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 463
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90935cbd19a08180800000000000000
+      internalID: -9115099700619145060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 374
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f11996584aa5710800000000000000
+      internalID: 1682838303685025666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 285
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d5274936193020800000000000000
+      internalID: 2321911518148809176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 196
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d423042628d334c0800000000000000
+      internalID: -4308862760138890030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 107
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b28b69d7bcfde0800000000000000
+      internalID: -1297960448150030624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_03
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 107
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4eeb8325ec37900800000000000000
+      internalID: 681114821197751523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_09
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 285
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb7131bf29ade0e0800000000000000
+      internalID: -2238947417431901186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 374
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d3680f43a8c3d0800000000000000
+      internalID: -3186117176526120535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 18
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec04ccbbebf2d80800000000000000
+      internalID: -8273184276661350659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NavigationLabel_J_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 196
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682b504a8cdb1cc0800000000000000
+      internalID: -3739152579257751442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 205048a48dbd2dd419ffb5a437778472
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 0516b36f29514384fbb86076b2f52d8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7040946954664025707
+    second: Bora UI_BEXCO_Label_7
+  - first:
+      213: 2488415538303122131
+    second: Bora UI_BEXCO_Label_8
+  - first:
+      213: 2434755390433940188
+    second: Bora UI_BEXCO_Label_9
+  - first:
+      213: -5244405060629454925
+    second: Bora UI_BEXCO_Label_10
+  - first:
+      213: -387643034372623230
+    second: Bora UI_BEXCO_Label_11
+  - first:
+      213: -6638388465895653819
+    second: Bora UI_BEXCO_Label_12
+  - first:
+      213: 4480424707400990391
+    second: Bora UI_BEXCO_Label_13
+  - first:
+      213: 2845866902359314617
+    second: Bora UI_BEXCO_Label_14
+  - first:
+      213: -4803606322987117433
+    second: Bora UI_BEXCO_Label_16
+  - first:
+      213: 9069189557098110371
+    second: Bora UI_BEXCO_Label_17
+  - first:
+      213: -1100773279030478746
+    second: Bora UI_BEXCO_Label_18
+  - first:
+      213: 8985445485473325754
+    second: Bora UI_BEXCO_Label_19
+  - first:
+      213: 3974653026346107713
+    second: Bora UI_BEXCO_Label_20
+  - first:
+      213: -1839929792486664144
+    second: Bora UI_BEXCO_Label_21
+  - first:
+      213: 1290865447203434245
+    second: Bora UI_BEXCO_Label_22
+  - first:
+      213: -3419010256961238154
+    second: Bora UI_BEXCO_Label_29
+  - first:
+      213: 8715763750341008638
+    second: Bora UI_BEXCO_Label_30
+  - first:
+      213: 876569174613665561
+    second: Bora UI_BEXCO_Label_31
+  - first:
+      213: -7220535967387886075
+    second: Bora UI_BEXCO_Label_32
+  - first:
+      213: -6475802385791724741
+    second: Bora UI_BEXCO_Label_33
+  - first:
+      213: -1217815257273847810
+    second: Bora UI_BEXCO_Label_34
+  - first:
+      213: -887328922404811910
+    second: Bora UI_BEXCO_Label_35
+  - first:
+      213: 3099269335355483065
+    second: Bora UI_BEXCO_Label_38
+  - first:
+      213: 7038265073260886886
+    second: Bora UI_BEXCO_Label_39
+  - first:
+      213: -7768294298644153823
+    second: Bora UI_BEXCO_Label_40
+  - first:
+      213: 4995750436718216888
+    second: Bora UI_BEXCO_Label_41
+  - first:
+      213: 4805342018466478198
+    second: Bora UI_BEXCO_Label_42
+  - first:
+      213: -2108384201836835761
+    second: Bora UI_BEXCO_Label_43
+  - first:
+      213: -9105829083037503757
+    second: Bora UI_BEXCO_Label_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 909
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e1e1363f776b160800000000000000
+      internalID: 7040946954664025707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 909
+        width: 206
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dabe167fb0a88220800000000000000
+      internalID: 2488415538303122131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 909
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd258c1b02df9c120800000000000000
+      internalID: 2434755390433940188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_10
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 909
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf9be622612837b0800000000000000
+      internalID: -5244405060629454925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_11
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 909
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b09cc6b0de9af0800000000000000
+      internalID: -387643034372623230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 909
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3d39acd4bfd3a0800000000000000
+      internalID: -6638388465895653819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 909
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef487788aad2e30800000000000000
+      internalID: 4480424707400990391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_14
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 923
+        width: 362
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01b21aedc8e7720800000000000000
+      internalID: 2845866902359314617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 734
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845885ff79265db0800000000000000
+      internalID: -4803606322987117433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 721
+        width: 166
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add38ff9db3cdd70800000000000000
+      internalID: 9069189557098110371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_18
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 734
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668752de88449b0f0800000000000000
+      internalID: -1100773279030478746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_19
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 734
+        width: 206
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab26646ef07b2bc70800000000000000
+      internalID: 8985445485473325754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_20
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 734
+        width: 206
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438acc6eddc82730800000000000000
+      internalID: 3974653026346107713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_21
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 721
+        width: 174
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0389c232a914776e0800000000000000
+      internalID: -1839929792486664144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_22
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 721
+        width: 174
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe261f8431ae110800000000000000
+      internalID: 1290865447203434245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 549
+        width: 162
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8866394c3d80d0800000000000000
+      internalID: -3419010256961238154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 549
+        width: 206
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc5d4de3fc94f870800000000000000
+      internalID: 8715763750341008638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_31
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 549
+        width: 162
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a7e125033a2c00800000000000000
+      internalID: 876569174613665561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_32
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 549
+        width: 162
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed9ef2bc08bcb90800000000000000
+      internalID: -7220535967387886075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_33
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 549
+        width: 162
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d1475a045126a0800000000000000
+      internalID: -6475802385791724741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_34
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 549
+        width: 162
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff242cc973791fe0800000000000000
+      internalID: -1217815257273847810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_35
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 549
+        width: 162
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b812ddb039fa3f0800000000000000
+      internalID: -887328922404811910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 439
+        width: 162
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ef153a01d20b20800000000000000
+      internalID: 3099269335355483065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_39
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 431
+        width: 166
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf0c63bc0fca160800000000000000
+      internalID: 7038265073260886886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 439
+        width: 162
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7f9a5e79713490800000000000000
+      internalID: -7768294298644153823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_41
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 439
+        width: 206
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b68717bd88745540800000000000000
+      internalID: 4995750436718216888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_42
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 439
+        width: 206
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f3f22b1100b240800000000000000
+      internalID: 4805342018466478198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_43
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 431
+        width: 174
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c48773db38db2e0800000000000000
+      internalID: -2108384201836835761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bora UI_BEXCO_Label_44
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 431
+        width: 174
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee02891b891a180800000000000000
+      internalID: -9105829083037503757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a9dbbfb279a6324b99b58ea3bfe8926
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

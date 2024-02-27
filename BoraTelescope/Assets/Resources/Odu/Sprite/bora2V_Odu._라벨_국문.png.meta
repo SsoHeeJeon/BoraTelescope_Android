@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: f4d40038ef72610448261bba23389130
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6416463401763964328
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_0"
+  - first:
+      213: -6234329919648213781
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_1"
+  - first:
+      213: 5829894511042794321
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_2"
+  - first:
+      213: -3470745240472434039
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_3"
+  - first:
+      213: 7292977108586686600
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_4"
+  - first:
+      213: -2797073048966880795
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_5"
+  - first:
+      213: 8198345211805821911
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_6"
+  - first:
+      213: -3195701425720479621
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_7"
+  - first:
+      213: 398726871464767101
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_8"
+  - first:
+      213: -6630162700203880690
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_9"
+  - first:
+      213: -8984790236676746450
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_10"
+  - first:
+      213: 2476165164921976006
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_11"
+  - first:
+      213: 245501954142333781
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_12"
+  - first:
+      213: -6777077802922943531
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_13"
+  - first:
+      213: 2163373271948160010
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_14"
+  - first:
+      213: -4702672962375123019
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_15"
+  - first:
+      213: 8412036070660848062
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_16"
+  - first:
+      213: -881411721473208544
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_17"
+  - first:
+      213: 4501590325950792454
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_18"
+  - first:
+      213: -9148727913112975316
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_19"
+  - first:
+      213: 5076119675615103187
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_20"
+  - first:
+      213: -7094766112216581399
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_21"
+  - first:
+      213: -5468063791084289025
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_22"
+  - first:
+      213: 7534400131611581220
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_23"
+  - first:
+      213: 6107596334560190918
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_24"
+  - first:
+      213: 8692913748334722939
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_25"
+  - first:
+      213: 4967324628882309473
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_26"
+  - first:
+      213: -757077970021345222
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_27"
+  - first:
+      213: -4924684918610916207
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_28"
+  - first:
+      213: 6519766191070788973
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_29"
+  - first:
+      213: -1539092406512777975
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_30"
+  - first:
+      213: 8332104944222244415
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_31"
+  - first:
+      213: -7483309964365416244
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_32"
+  - first:
+      213: 8325935175957378509
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_33"
+  - first:
+      213: 5421934557211734050
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_34"
+  - first:
+      213: 5779365993398604247
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_35"
+  - first:
+      213: -2331804176629791569
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_36"
+  - first:
+      213: -3768253255194423031
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_37"
+  - first:
+      213: 4797412049574222698
+    second: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_38"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_0"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 881
+        width: 212
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a709f288424f6a0800000000000000
+      internalID: -6416463401763964328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_1"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 881
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be457ce08f53b79a0800000000000000
+      internalID: -6234329919648213781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_2"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 881
+        width: 194
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15394b07b22f7e050800000000000000
+      internalID: 5829894511042794321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_3"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 881
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a43c3b79f65dfc0800000000000000
+      internalID: -3470745240472434039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_4"
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 881
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886d585a0cd53560800000000000000
+      internalID: 7292977108586686600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_5"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 881
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a289a1ecce29d0800000000000000
+      internalID: -2797073048966880795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_6"
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 881
+        width: 186
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe5bf888f56c170800000000000000
+      internalID: 8198345211805821911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_7"
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 881
+        width: 186
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b8bf1c7696a3d0800000000000000
+      internalID: -3195701425720479621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_8"
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 881
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6f002aff888500800000000000000
+      internalID: 398726871464767101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_9"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 743
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8d4bf62eecf3a0800000000000000
+      internalID: -6630162700203880690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_10"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 743
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231c7912ec9f4380800000000000000
+      internalID: -8984790236676746450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_11"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 743
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4fe54291b1d5220800000000000000
+      internalID: 2476165164921976006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_12"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 743
+        width: 186
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b61500ab2386300800000000000000
+      internalID: 245501954142333781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_13"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 743
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd79d05abf2f1a0800000000000000
+      internalID: -6777077802922943531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_14"
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 744
+        width: 159
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c6b0f5788d50e10800000000000000
+      internalID: 2163373271948160010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_15"
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 743
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffbc64bdfbcbeb0800000000000000
+      internalID: -4702672962375123019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_16"
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 743
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93385cc3e8db470800000000000000
+      internalID: 8412036070660848062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_17"
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 743
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f49b095b894c3f0800000000000000
+      internalID: -881411721473208544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_18"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 605
+        width: 161
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c1ae0d8cd87e30800000000000000
+      internalID: 4501590325950792454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_19"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 605
+        width: 160
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2843306f60390180800000000000000
+      internalID: -9148727913112975316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_20"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 605
+        width: 161
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c86653fff17640800000000000000
+      internalID: 5076119675615103187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_21"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 605
+        width: 160
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf9d48fc35a8d90800000000000000
+      internalID: -7094766112216581399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_22"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 605
+        width: 212
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ce3bf3f88d14b0800000000000000
+      internalID: -5468063791084289025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_23"
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 605
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b5d5030019f8860800000000000000
+      internalID: 7534400131611581220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_24"
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 605
+        width: 212
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c120f0c18a82c450800000000000000
+      internalID: 6107596334560190918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_25"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb9904ffe63a870800000000000000
+      internalID: 8692913748334722939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_26"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16144949e6b7fe440800000000000000
+      internalID: 4967324628882309473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_27"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a389a91f8915e75f0800000000000000
+      internalID: -757077970021345222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_28"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c097b982108abb0800000000000000
+      internalID: -4924684918610916207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_29"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d306dbeccda7a50800000000000000
+      internalID: 6519766191070788973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_30"
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9050e495c9b04aae0800000000000000
+      internalID: -1539092406512777975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_31"
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e84a72d4591a370800000000000000
+      internalID: 8332104944222244415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_32"
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8bbd55c31f52890800000000000000
+      internalID: -7483309964365416244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_33"
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 467
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc57ed90ee9ab8370800000000000000
+      internalID: 8325935175957378509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_34"
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 467
+        width: 186
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220350ec0c49e3b40800000000000000
+      internalID: 5421934557211734050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_35"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 329
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d11f7720ce643050800000000000000
+      internalID: 5779365993398604247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_36"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 329
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4853ea474c3afd0800000000000000
+      internalID: -2331804176629791569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_37"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 329
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9015d6421a974bbc0800000000000000
+      internalID: -3768253255194423031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora2V_Odu._\uB77C\uBCA8_\uAD6D\uBB38_38"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 329
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bdc0067d4d39240800000000000000
+      internalID: 4797412049574222698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34c5bed678d2e844e945934ce4144903
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
