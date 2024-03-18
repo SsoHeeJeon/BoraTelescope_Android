@@ -135,7 +135,7 @@ TextureImporter:
       213: -5166032504728852671
     second: user icon_ver2 (1)_43
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -156,6 +156,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -194,12 +195,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -211,7 +213,31 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -220,10 +246,34 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -832,6 +882,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      user icon_ver2 (1)_0: -8736604657695010055
+      user icon_ver2 (1)_1: -5790622098814149060
+      user icon_ver2 (1)_10: 7958825208599956181
+      user icon_ver2 (1)_11: 323198700308327959
+      user icon_ver2 (1)_12: 2834189934639819613
+      user icon_ver2 (1)_13: 2532380128225059545
+      user icon_ver2 (1)_14: 6447252997233432274
+      user icon_ver2 (1)_15: -4032186202672749462
+      user icon_ver2 (1)_16: -3545971297874928911
+      user icon_ver2 (1)_17: -2598958825191949114
+      user icon_ver2 (1)_18: -7862381837964768491
+      user icon_ver2 (1)_19: 5466325055254219898
+      user icon_ver2 (1)_2: 5260289094577704016
+      user icon_ver2 (1)_20: 8867478929601750205
+      user icon_ver2 (1)_21: -7488149566532825078
+      user icon_ver2 (1)_22: 883975134281170509
+      user icon_ver2 (1)_23: -8098196274338840044
+      user icon_ver2 (1)_24: 3934957151357071821
+      user icon_ver2 (1)_25: -1140182071717202140
+      user icon_ver2 (1)_26: 8489576791393572800
+      user icon_ver2 (1)_27: -5188380282057701816
+      user icon_ver2 (1)_3: -7370730448210238430
+      user icon_ver2 (1)_4: -8694529214724474442
+      user icon_ver2 (1)_5: 4692273501241654762
+      user icon_ver2 (1)_6: -1521452199584203797
+      user icon_ver2 (1)_7: 821259403387401452
+      user icon_ver2 (1)_8: 5994958148603376285
+      user icon_ver2 (1)_9: -8792712938381238276
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

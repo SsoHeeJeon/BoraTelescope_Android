@@ -204,7 +204,7 @@ TextureImporter:
       213: -5975048191317707217
     second: NavigationLabel_K_73
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -225,6 +225,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -263,12 +264,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -280,24 +282,24 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -305,6 +307,42 @@ TextureImporter:
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -352,7 +390,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 431732f6a0d73c190800000000000000
-      internalID: -7943367833983684300
+      internalID: -1292314357753909128
       vertices: []
       indices: 
       edges: []
@@ -373,7 +411,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 436f8e0ffe0d53790800000000000000
-      internalID: -7550899471259208140
+      internalID: -1442930498587726076
       vertices: []
       indices: 
       edges: []
@@ -478,7 +516,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b64f7f94928340e20800000000000000
-      internalID: 3315836975637329003
+      internalID: -6768469933856587179
       vertices: []
       indices: 
       edges: []
@@ -661,6 +699,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      NavigationLabel_K_13: -5475504258295102096
+      NavigationLabel_K_17: -1292314357753909128
+      NavigationLabel_K_21: -1442930498587726076
+      NavigationLabel_K_25: 5633034192233852382
+      NavigationLabel_K_29: 6717677382182157585
+      NavigationLabel_K_33: -1870646986675385693
+      NavigationLabel_K_37: -8564442375436989293
+      NavigationLabel_K_41: -6768469933856587179
+      NavigationLabel_K_45: 1038669211296505554
+      NavigationLabel_K_49: 8649983269632517298
+      NavigationLabel_K_53: 9006735409098634034
+      NavigationLabel_K_57: 256307079040450884
+      NavigationLabel_K_61: -6374244135831816209
+      NavigationLabel_K_65: 4911406738453988038
+      NavigationLabel_K_69: 1320167089226565900
+      NavigationLabel_K_73: -5975048191317707217
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

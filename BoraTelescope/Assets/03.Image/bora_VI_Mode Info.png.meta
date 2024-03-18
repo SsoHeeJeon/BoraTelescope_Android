@@ -147,7 +147,7 @@ TextureImporter:
       213: -3543010537417278898
     second: bora_VI_Mode Info_47
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -206,12 +207,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -223,12 +225,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -247,7 +249,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -1276,6 +1314,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bora_VI_Mode Info_0: -4267760501729552140
+      bora_VI_Mode Info_1: -1514775504373697948
+      bora_VI_Mode Info_10: 8709860234326391965
+      bora_VI_Mode Info_11: 8066716314685046660
+      bora_VI_Mode Info_12: -2519032460196294042
+      bora_VI_Mode Info_13: 4046442991187774519
+      bora_VI_Mode Info_14: 6698543015543175288
+      bora_VI_Mode Info_15: 2162482824046693037
+      bora_VI_Mode Info_16: 99229245404795300
+      bora_VI_Mode Info_17: -4656210644582056257
+      bora_VI_Mode Info_18: -8434368637940434259
+      bora_VI_Mode Info_19: 8435450920678869400
+      bora_VI_Mode Info_2: -8613527173322889133
+      bora_VI_Mode Info_20: 2219564490110270304
+      bora_VI_Mode Info_21: -9199409856448788461
+      bora_VI_Mode Info_22: 4710279494340829803
+      bora_VI_Mode Info_23: -7434111039907367716
+      bora_VI_Mode Info_24: 4340378034915493297
+      bora_VI_Mode Info_25: 4199273358255873626
+      bora_VI_Mode Info_26: 3188370186886146566
+      bora_VI_Mode Info_27: 8189975537686153027
+      bora_VI_Mode Info_28: 4750912805958343670
+      bora_VI_Mode Info_29: 645754241387918694
+      bora_VI_Mode Info_3: 8043447625865554594
+      bora_VI_Mode Info_30: -4834382290119732903
+      bora_VI_Mode Info_31: 7046645143159305870
+      bora_VI_Mode Info_32: -257000500767701777
+      bora_VI_Mode Info_33: -6021590536409228116
+      bora_VI_Mode Info_34: 8192336288962923429
+      bora_VI_Mode Info_35: 7100346425332925141
+      bora_VI_Mode Info_36: -1716274723257066631
+      bora_VI_Mode Info_37: -3958013570462585983
+      bora_VI_Mode Info_38: 989309120416503741
+      bora_VI_Mode Info_39: -1708955872284534506
+      bora_VI_Mode Info_4: 6608653543610097621
+      bora_VI_Mode Info_40: 862979176226645862
+      bora_VI_Mode Info_41: -4496489394537026123
+      bora_VI_Mode Info_42: -5874250595406592547
+      bora_VI_Mode Info_43: 7376308538055702383
+      bora_VI_Mode Info_44: -8400902873252316363
+      bora_VI_Mode Info_45: 5679511168067526525
+      bora_VI_Mode Info_46: 1381763651035581909
+      bora_VI_Mode Info_47: -3543010537417278898
+      bora_VI_Mode Info_5: -251641228560743239
+      bora_VI_Mode Info_6: 25616546419193143
+      bora_VI_Mode Info_7: 8119641146133065418
+      bora_VI_Mode Info_8: -67917641605408113
+      bora_VI_Mode Info_9: -5588736102529303752
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

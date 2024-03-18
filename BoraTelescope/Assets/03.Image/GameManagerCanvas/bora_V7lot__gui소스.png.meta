@@ -417,7 +417,7 @@ TextureImporter:
       213: -6983957120776536156
     second: "bora_V7lot__gui\uC18C\uC2A4_137"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -438,6 +438,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -476,12 +477,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -493,12 +495,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -517,7 +519,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -2491,6 +2529,100 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "bora_V7lot__gui\uC18C\uC2A4_0": 4744493753570522986
+      "bora_V7lot__gui\uC18C\uC2A4_1": 2694392647273077385
+      "bora_V7lot__gui\uC18C\uC2A4_10": -6322090600919892944
+      "bora_V7lot__gui\uC18C\uC2A4_100": -3794470773041703077
+      "bora_V7lot__gui\uC18C\uC2A4_101": 7966765813173856389
+      "bora_V7lot__gui\uC18C\uC2A4_102": 2237703142722306003
+      "bora_V7lot__gui\uC18C\uC2A4_103": -4864848932524018442
+      "bora_V7lot__gui\uC18C\uC2A4_104": 9193772739690513541
+      "bora_V7lot__gui\uC18C\uC2A4_105": -4190731228310342558
+      "bora_V7lot__gui\uC18C\uC2A4_106": 2452153180531425150
+      "bora_V7lot__gui\uC18C\uC2A4_107": 5290982906266911555
+      "bora_V7lot__gui\uC18C\uC2A4_108": -6125640556415460497
+      "bora_V7lot__gui\uC18C\uC2A4_11": -5514950074762064388
+      "bora_V7lot__gui\uC18C\uC2A4_111": -1078781715778834198
+      "bora_V7lot__gui\uC18C\uC2A4_12": -5426552392382577075
+      "bora_V7lot__gui\uC18C\uC2A4_13": 5389569554801681053
+      "bora_V7lot__gui\uC18C\uC2A4_130": 4308639383968209492
+      "bora_V7lot__gui\uC18C\uC2A4_131": -7723516815076347876
+      "bora_V7lot__gui\uC18C\uC2A4_132": -3495089367822494361
+      "bora_V7lot__gui\uC18C\uC2A4_133": -7372837158853936523
+      "bora_V7lot__gui\uC18C\uC2A4_134": 5860359080143724446
+      "bora_V7lot__gui\uC18C\uC2A4_135": 15418775417987267
+      "bora_V7lot__gui\uC18C\uC2A4_136": 4825502584384320115
+      "bora_V7lot__gui\uC18C\uC2A4_137": -6983957120776536156
+      "bora_V7lot__gui\uC18C\uC2A4_14": 2662086527296144866
+      "bora_V7lot__gui\uC18C\uC2A4_17": -2303541564946749443
+      "bora_V7lot__gui\uC18C\uC2A4_18": 8584579896649286166
+      "bora_V7lot__gui\uC18C\uC2A4_19": -3291166485244663620
+      "bora_V7lot__gui\uC18C\uC2A4_2": -876469817122083416
+      "bora_V7lot__gui\uC18C\uC2A4_20": -7267102371092865569
+      "bora_V7lot__gui\uC18C\uC2A4_21": 7557906980790388051
+      "bora_V7lot__gui\uC18C\uC2A4_22": 6591326096408163386
+      "bora_V7lot__gui\uC18C\uC2A4_23": 3794279821195062638
+      "bora_V7lot__gui\uC18C\uC2A4_24": -4054804160687352334
+      "bora_V7lot__gui\uC18C\uC2A4_25": -4929265310032731483
+      "bora_V7lot__gui\uC18C\uC2A4_26": 3430044863821536181
+      "bora_V7lot__gui\uC18C\uC2A4_27": 8306293240598358632
+      "bora_V7lot__gui\uC18C\uC2A4_28": 5253164353280544047
+      "bora_V7lot__gui\uC18C\uC2A4_29": -6349845215760903744
+      "bora_V7lot__gui\uC18C\uC2A4_3": 4519687443732797133
+      "bora_V7lot__gui\uC18C\uC2A4_30": 3690695275896687393
+      "bora_V7lot__gui\uC18C\uC2A4_31": 1501822454952972355
+      "bora_V7lot__gui\uC18C\uC2A4_4": -7593226279558641431
+      "bora_V7lot__gui\uC18C\uC2A4_43": -6341290462157745867
+      "bora_V7lot__gui\uC18C\uC2A4_44": -2078495979403248684
+      "bora_V7lot__gui\uC18C\uC2A4_45": 858535075243228955
+      "bora_V7lot__gui\uC18C\uC2A4_46": 2982428404894227183
+      "bora_V7lot__gui\uC18C\uC2A4_47": -8190662547194259822
+      "bora_V7lot__gui\uC18C\uC2A4_48": 651314975812116430
+      "bora_V7lot__gui\uC18C\uC2A4_49": 3887483806385775056
+      "bora_V7lot__gui\uC18C\uC2A4_5": 4384913053347556282
+      "bora_V7lot__gui\uC18C\uC2A4_50": -2849437877014141580
+      "bora_V7lot__gui\uC18C\uC2A4_51": 2528093965922725257
+      "bora_V7lot__gui\uC18C\uC2A4_52": 6723075198822536744
+      "bora_V7lot__gui\uC18C\uC2A4_53": -5402854162328716568
+      "bora_V7lot__gui\uC18C\uC2A4_54": -7570985994348167798
+      "bora_V7lot__gui\uC18C\uC2A4_55": -4152899077858326820
+      "bora_V7lot__gui\uC18C\uC2A4_56": -4729303701031840173
+      "bora_V7lot__gui\uC18C\uC2A4_6": 6431360943596469491
+      "bora_V7lot__gui\uC18C\uC2A4_61": 3038951939938009662
+      "bora_V7lot__gui\uC18C\uC2A4_62": 8784309142250835219
+      "bora_V7lot__gui\uC18C\uC2A4_63": 3135187742141317261
+      "bora_V7lot__gui\uC18C\uC2A4_64": -3349611208225955735
+      "bora_V7lot__gui\uC18C\uC2A4_65": 7627770652189848140
+      "bora_V7lot__gui\uC18C\uC2A4_66": 3723961260679550497
+      "bora_V7lot__gui\uC18C\uC2A4_67": 4703136690485641379
+      "bora_V7lot__gui\uC18C\uC2A4_68": 333278744655720204
+      "bora_V7lot__gui\uC18C\uC2A4_69": 9210099761648898970
+      "bora_V7lot__gui\uC18C\uC2A4_7": -8829516539615925293
+      "bora_V7lot__gui\uC18C\uC2A4_70": -9042846643834624146
+      "bora_V7lot__gui\uC18C\uC2A4_71": 2577471810099518781
+      "bora_V7lot__gui\uC18C\uC2A4_72": -2521555800600956099
+      "bora_V7lot__gui\uC18C\uC2A4_77": -529520201526487693
+      "bora_V7lot__gui\uC18C\uC2A4_78": -1633227718419472099
+      "bora_V7lot__gui\uC18C\uC2A4_79": -6480825941015859990
+      "bora_V7lot__gui\uC18C\uC2A4_8": 4820361522415242178
+      "bora_V7lot__gui\uC18C\uC2A4_80": -6579112756351306896
+      "bora_V7lot__gui\uC18C\uC2A4_81": -4418329234063901261
+      "bora_V7lot__gui\uC18C\uC2A4_82": 8402929095973993206
+      "bora_V7lot__gui\uC18C\uC2A4_83": -4980684016122586571
+      "bora_V7lot__gui\uC18C\uC2A4_84": -9179046780708234935
+      "bora_V7lot__gui\uC18C\uC2A4_85": -4720894710588408444
+      "bora_V7lot__gui\uC18C\uC2A4_86": 2722740467178077608
+      "bora_V7lot__gui\uC18C\uC2A4_87": 2061747143967332267
+      "bora_V7lot__gui\uC18C\uC2A4_88": -5405358475580390976
+      "bora_V7lot__gui\uC18C\uC2A4_89": 7240779089617446908
+      "bora_V7lot__gui\uC18C\uC2A4_9": -4640704260077124450
+      "bora_V7lot__gui\uC18C\uC2A4_90": -659076646370106356
+      "bora_V7lot__gui\uC18C\uC2A4_95": 3372264232419458979
+      "bora_V7lot__gui\uC18C\uC2A4_96": -4267780869538776378
+      "bora_V7lot__gui\uC18C\uC2A4_97": 6770051874063109927
+      "bora_V7lot__gui\uC18C\uC2A4_98": -4055540526821426387
+      "bora_V7lot__gui\uC18C\uC2A4_99": -2943322062229934289
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

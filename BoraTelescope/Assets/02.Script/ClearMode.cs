@@ -118,7 +118,7 @@ public class ClearMode : MonoBehaviour
         gamemanager.MiniMap_Background.gameObject.SetActive(true);
         gamemanager.modeonoff.NamsanHout();
 
-        for (int i=0; i< gamemanager.LanguageBar.GetComponent<LangageObj>().LangList.Count; i++)
+        for (int i = 0; i < gamemanager.LanguageBar.GetComponent<LangageObj>().LangList.Count; i++)
         {
             gamemanager.LanguageBar.GetComponent<LangageObj>().LangList[i].SetActive(true);
         }
@@ -183,7 +183,7 @@ public class ClearMode : MonoBehaviour
             case "Aegibong":
                 MaxZoomIn = 1851;
                 MaxZoomOut = -100;
-                MinZoomValue = 1; 
+                MinZoomValue = 1;
                 MaxZoomValue = 0.035f;
                 gamemanager.GetComponent<LabelMake>().ReadytoStart();
                 gamemanager.GetComponent<LabelMake>().MapLabel();
@@ -271,7 +271,7 @@ public class ClearMode : MonoBehaviour
         zoommove_t += Time.deltaTime * 4;
         zoom_int = ((Main.transform.parent.gameObject.transform.position.z - MaxZoomIn) / -522) + 1.2f;
 
-        if(touchcount_int==0 || touchcount_int == 1)
+        if (touchcount_int == 0 || touchcount_int == 1)
         {
             touchcount_int = Input.touchCount;
         }
@@ -286,7 +286,7 @@ public class ClearMode : MonoBehaviour
             }
             catch
             {
-                touchcount_int= 0;
+                touchcount_int = 0;
             }
         }
 
@@ -325,9 +325,9 @@ public class ClearMode : MonoBehaviour
         }
         MiniMap();
 
-        if(SceneManager.GetActiveScene().name.Contains("Lotte"))
+        if (SceneManager.GetActiveScene().name.Contains("Lotte"))
         {
-            if(Clear360Obj.activeSelf)
+            if (Clear360Obj.activeSelf)
             {
                 min_x360 = -36790.24f;
                 max_x360 = 77640;
@@ -351,17 +351,17 @@ public class ClearMode : MonoBehaviour
 
     public void MiniMap()
     {
-        if(minimapbuttonstate==MiniMapButtonState.None)
+        if (minimapbuttonstate == MiniMapButtonState.None)
         {
             float value = (Main.transform.localPosition.x - min_x) / (max_x - min_x);
-            gamemanager.MiniMap_Camera.transform.localPosition = new Vector3((800 * value)-400, 0, 0);
+            gamemanager.MiniMap_Camera.transform.localPosition = new Vector3((800 * value) - 400, 0, 0);
         }
-        else if(minimapbuttonstate == MiniMapButtonState.Click)
+        else if (minimapbuttonstate == MiniMapButtonState.Click)
         {
-            if(Input.touchCount == 1)
+            if (Input.touchCount == 1)
             {
                 float xvalue = Input.GetTouch(0).position.x - 1000;
-                xvalue= Mathf.Clamp(xvalue, -400, 400);
+                xvalue = Mathf.Clamp(xvalue, -400, 400);
                 gamemanager.MiniMap_Camera.transform.localPosition = new Vector3(xvalue, gamemanager.MiniMap_Camera.transform.localPosition.y, gamemanager.MiniMap_Camera.transform.localPosition.z);
                 float value = (gamemanager.MiniMap_Camera.transform.localPosition.x + 400) / 8;
                 Main.transform.localPosition = new Vector3(min_x + (((max_x - min_x) / 100) * value), Main.transform.localPosition.y, Main.transform.localPosition.z);
@@ -397,7 +397,7 @@ public class ClearMode : MonoBehaviour
                 beforepos = Vector3.zero;
             }
         }
-        else if(touchcount_int == 2)
+        else if (touchcount_int == 2)
         {
             PinchZoom();
         }
@@ -405,14 +405,14 @@ public class ClearMode : MonoBehaviour
 
     public void touchmovecamera()
     {
-        if(SceneManager.GetActiveScene().name.Contains("Lotte"))
+        if (SceneManager.GetActiveScene().name.Contains("Lotte"))
         {
-            if(Clear120Obj.activeSelf)
+            if (Clear120Obj.activeSelf)
             {
                 Main.transform.position = new Vector3(Main.transform.position.x + fx, Main.transform.position.y + fy, Main.transform.position.z);
                 Main.transform.position = new Vector3(Mathf.Clamp(Main.transform.position.x, min_x, max_x), Mathf.Clamp(Main.transform.position.y, min_y, max_y), Main.transform.position.z);
             }
-            else if(Clear360Obj.activeSelf)
+            else if (Clear360Obj.activeSelf)
             {
                 Main.transform.position = new Vector3(Main.transform.position.x + fx, Main.transform.position.y + fy, Main.transform.position.z);
                 Main.transform.position = new Vector3(Mathf.Clamp(Main.transform.position.x, min_x360, max_x360), Mathf.Clamp(Main.transform.position.y, min_y360, max_y360), Main.transform.position.z);
@@ -434,7 +434,7 @@ public class ClearMode : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
         {
-            //°¡»óÄ«¸Þ¶ó ÀÓ°èÁ¡¼³Á¤
+            //ï¿½ï¿½ï¿½ï¿½Ä«ï¿½Þ¶ï¿½ ï¿½Ó°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
             full_x = (int)TestImage.rectTransform.rect.width;
             full_y = (int)TestImage.rectTransform.rect.height;
 
@@ -482,9 +482,9 @@ public class ClearMode : MonoBehaviour
                     gamemanager.clearMode.AllMapLabels.transform.GetChild(i).localScale = new Vector3(MinZoomValue + (MaxZoomValue * value), MinZoomValue + (MaxZoomValue * value), MinZoomValue + (MaxZoomValue * value));
                 }
 
-                if(SceneManager.GetActiveScene().name.Contains("Aegibong"))
+                if (SceneManager.GetActiveScene().name.Contains("Aegibong"))
                 {
-                    for(int i=0; i<disablelabel.HiddenObj_s.Length; i++)
+                    for (int i = 0; i < disablelabel.HiddenObj_s.Length; i++)
                     {
                         disablelabel.HiddenObj_s[i].transform.localScale = new Vector3(MinZoomValue + (MaxZoomValue * value), MinZoomValue + (MaxZoomValue * value), MinZoomValue + (MaxZoomValue * value));
                     }
@@ -492,8 +492,8 @@ public class ClearMode : MonoBehaviour
 
                 float x = ClickLabel.transform.position.x;
                 float y = ClickLabel.transform.position.y;
-                Main.transform.position = Vector3.Lerp(Main.transform.position, new Vector3(x, y, Main.transform.position.z), Time.deltaTime*4);
-                if (Math.Abs(x - Main.transform.position.x) < 1 && Math.Abs(y - Main.transform.position.y) < 1 && Math.Abs(Main.transform.parent.localPosition.z - changeZoom.z)<10)
+                Main.transform.position = Vector3.Lerp(Main.transform.position, new Vector3(x, y, Main.transform.position.z), Time.deltaTime * 4);
+                if (Math.Abs(x - Main.transform.position.x) < 1 && Math.Abs(y - Main.transform.position.y) < 1 && Math.Abs(Main.transform.parent.localPosition.z - changeZoom.z) < 10)
                 {
                     labelmovestate = LabelMoveState.None;
                     if (ClickLabel.name != "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%EA%B3%A0%EB%93%A0%EB%9E%A8%EC%A7%80%EB%B2%84%EA%B1%B0+%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90")
@@ -526,7 +526,7 @@ public class ClearMode : MonoBehaviour
                 {
                     gamemanager.ad.Stop();
                 }
-                if(Contentsinfo.ContentsName =="Lotte")
+                if (Contentsinfo.ContentsName == "Lotte")
                 {
                     for (int i = 0; i < explainmode.obj.Length; i++)
                     {
@@ -560,7 +560,7 @@ public class ClearMode : MonoBehaviour
             }
         }
 
-        if(Contentsinfo.ContentsName == "Odu")
+        if (Contentsinfo.ContentsName == "Odu")
         {
             switch (GameManager.langstate)
             {
@@ -629,7 +629,7 @@ public class ClearMode : MonoBehaviour
             }
         }
 
-        if(ClickLabel.name == "Spoonbill")
+        if (ClickLabel.name == "Spoonbill")
         {
             spoonbill.SelectSpoonbill();
         }
@@ -645,12 +645,13 @@ public class ClearMode : MonoBehaviour
             DetailImage.transform.GetChild(0).GetComponent<VideoPlayer>().clip = DetailImage.transform.GetChild(0).GetComponent<DetailVideo>().SouthKoreanFlag;
             DetailImage.transform.GetChild(0).gameObject.SetActive(true);
         }
-        else*/ if(ClickLabel.name == "Banpo")
+        else*/
+        if (ClickLabel.name == "Banpo")
         {
             DetailImage.transform.GetChild(0).GetComponent<VideoPlayer>().clip = DetailImage.transform.GetChild(0).GetComponent<DetailVideo>().Banpo;
             DetailImage.transform.GetChild(0).gameObject.SetActive(true);
         }
-        else if(ClickLabel.name =="NTower")
+        else if (ClickLabel.name == "NTower")
         {
             DetailImage.transform.GetChild(0).GetComponent<VideoPlayer>().clip = DetailImage.transform.GetChild(0).GetComponent<DetailVideo>().NTower;
             DetailImage.transform.GetChild(0).gameObject.SetActive(true);
@@ -686,11 +687,12 @@ public class ClearMode : MonoBehaviour
             DetailImage.transform.GetChild(0).GetComponent<VideoPlayer>().clip = DetailImage.transform.GetChild(0).GetComponent<DetailVideo>().SouthKoreanFlag;
             DetailImage.transform.GetChild(0).gameObject.SetActive(true);
         }
-        else if(SceneManager.GetActiveScene().name.Contains("Aegibong") || SceneManager.GetActiveScene().name.Contains("Lotte") || SceneManager.GetActiveScene().name.Contains("XRMode"))
+        else if (SceneManager.GetActiveScene().name.Contains("Aegibong") || SceneManager.GetActiveScene().name.Contains("Lotte") || SceneManager.GetActiveScene().name.Contains("XRMode"))
         {
             DetailImage.transform.GetChild(0).gameObject.SetActive(false);
         }
-        else if(SceneManager.GetActiveScene().name.Contains("Odu"))
+        else if (SceneManager.GetActiveScene().name.Contains("Odu"))
+
         {
             DetailImage.transform.GetChild(5).gameObject.SetActive(false);
         }
@@ -701,7 +703,7 @@ public class ClearMode : MonoBehaviour
 
     void LabelDetailSizeSetting()
     {
-        if (ClickLabel.name == "Coex" || (ClickLabel.name == "Stadium"&& SceneManager.GetActiveScene().name.Contains("Lotte")) || ClickLabel.name == "Art")
+        if (ClickLabel.name == "Coex" || (ClickLabel.name == "Stadium" && SceneManager.GetActiveScene().name.Contains("Lotte")) || ClickLabel.name == "Art")
         {
             Btn_Explain.SetActive(true);
             Btn_WebView.SetActive(true);
@@ -713,7 +715,7 @@ public class ClearMode : MonoBehaviour
         }
         else
         {
-            if(Contentsinfo.ContentsName == "Lotte")
+            if (Contentsinfo.ContentsName == "Lotte")
             {
                 Btn_Explain.SetActive(false);
                 Btn_WebView.SetActive(false);
@@ -744,9 +746,9 @@ public class ClearMode : MonoBehaviour
 
     public void MoveZoomOut()
     {
-        if(SceneManager.GetActiveScene().name.Contains("Lotte"))
+        if (SceneManager.GetActiveScene().name.Contains("Lotte"))
         {
-            if(Clear120Obj.activeSelf)
+            if (Clear120Obj.activeSelf)
             {
                 if (Main.transform.localPosition.x <= min_x)
                 {
@@ -794,7 +796,7 @@ public class ClearMode : MonoBehaviour
                     }
                 }
             }
-            else if(Clear360Obj.activeSelf)
+            else if (Clear360Obj.activeSelf)
             {
                 if (Main.transform.localPosition.x <= min_x360)
                 {
@@ -935,7 +937,7 @@ public class ClearMode : MonoBehaviour
         switch (Contentsinfo.ContentsName)
         {
             case "Lotte":
-                if(Clear120Obj.activeSelf)
+                if (Clear120Obj.activeSelf)
                 {
                     Main.transform.parent.transform.localPosition = new Vector3(0, 0, 956);
                     Main.transform.localPosition = new Vector3(-19435, 5115, -1631);
@@ -1024,7 +1026,7 @@ public class ClearMode : MonoBehaviour
         btn360.enabled = false;
         Invoke("Invoke360", 0.5f);
 
-        labelmovestate= LabelMoveState.None;
+        labelmovestate = LabelMoveState.None;
         labeldetailstate = LabelDetailState.Closing;
 
         if (Clear120Obj.activeSelf)
@@ -1063,7 +1065,7 @@ public class ClearMode : MonoBehaviour
 
     public void OnClickDetailSoundBtn(GameObject btn)
     {
-        if(btn.transform.GetChild(0).gameObject.activeSelf)
+        if (btn.transform.GetChild(0).gameObject.activeSelf)
         {
             btn.transform.GetChild(0).gameObject.SetActive(false);
             gamemanager.ad.Stop();

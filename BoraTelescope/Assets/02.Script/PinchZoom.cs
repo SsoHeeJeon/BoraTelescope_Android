@@ -5,7 +5,6 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System;
 using UnityEditor;
-using UnityEditor.UIElements;
 
 public class PinchZoom : MonoBehaviour
 {

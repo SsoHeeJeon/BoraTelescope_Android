@@ -171,7 +171,7 @@ TextureImporter:
       213: -1223579807754920722
     second: "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_69"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -192,6 +192,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -230,12 +231,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -247,12 +249,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -271,7 +273,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -1468,6 +1506,63 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_10": 9057094476489403761
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_11": -7721731640023252498
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_12": -3195608938629328401
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_13": 1461299305237235230
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_17": -4515082483049822661
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_18": -6069778783800761277
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_19": 5313883512904823854
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_20": 5413299277180765479
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_21": -1078704706276652597
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_22": -6663600879443934390
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_23": -3699407153136136301
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_24": -7051261992244450094
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_25": -1486424229361297398
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_26": -7772852841342492137
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_27": -753700461714567776
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_28": -4541104524983949555
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_29": 5437599645352697959
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_30": -3255118739828518554
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_31": -6671796950346610904
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_32": -2478905429137675404
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_33": 3342135931052065906
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_34": 4751148309602728577
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_35": -7207083075542301313
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_36": -4694626951832238597
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_37": 1583144098567535982
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_38": 5163729067113849019
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_39": 1495772547911717908
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_43": 71021642563192888
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_44": -1017040127760256018
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_45": -8605998585546516560
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_46": -3004642378534743325
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_47": -112745230038402978
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_48": -4411702277987368406
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_49": -4164298317429391566
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_5": 4637355312351948636
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_50": 5576262659250128405
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_51": 7837796446089328031
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_52": -8306620096429139895
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_53": -5865155757125350573
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_54": -6291209114479681808
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_55": -212466280764001233
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_56": 1090019560934105618
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_57": 4385559685533856205
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_58": -8292961743811986769
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_6": 8974051347696206950
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_62": 1458566370919495869
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_63": 3528011848640634444
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_64": -8628017553113272133
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_65": -4113669131821403159
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_66": 1452587048827682664
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_67": 7428529706031098791
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_68": 4254502441499974625
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_69": -1223579807754920722
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_7": 5467034497716110654
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_8": -7098228939252995593
+      "bora_V7lot_\uB77C\uBCA8_360\uBAA8\uB4DC_\uC601\uC5B4_9": 8354760328458128785
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

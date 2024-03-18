@@ -75,7 +75,7 @@ TextureImporter:
       213: 5204313606492792215
     second: "bora_V.ltebc_\uB77C\uBCA8_12"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -134,12 +135,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -151,12 +153,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -175,7 +177,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -574,6 +612,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "bora_V.ltebc_\uB77C\uBCA8_0": -6637633656221634332
+      "bora_V.ltebc_\uB77C\uBCA8_1": 9164467323012162361
+      "bora_V.ltebc_\uB77C\uBCA8_10": -3755661088334154088
+      "bora_V.ltebc_\uB77C\uBCA8_11": -884615994376098935
+      "bora_V.ltebc_\uB77C\uBCA8_12": 5204313606492792215
+      "bora_V.ltebc_\uB77C\uBCA8_13": 4250178385616251077
+      "bora_V.ltebc_\uB77C\uBCA8_14": 7147553151186431757
+      "bora_V.ltebc_\uB77C\uBCA8_15": -4315873510163497733
+      "bora_V.ltebc_\uB77C\uBCA8_16": 6378666349888000712
+      "bora_V.ltebc_\uB77C\uBCA8_17": 3467679072583035270
+      "bora_V.ltebc_\uB77C\uBCA8_2": 2136890396734854380
+      "bora_V.ltebc_\uB77C\uBCA8_3": -525630938175015587
+      "bora_V.ltebc_\uB77C\uBCA8_4": -3445949137523906582
+      "bora_V.ltebc_\uB77C\uBCA8_5": 462076936836451041
+      "bora_V.ltebc_\uB77C\uBCA8_6": -4755933893824225455
+      "bora_V.ltebc_\uB77C\uBCA8_7": 5443955202593313605
+      "bora_V.ltebc_\uB77C\uBCA8_8": -8363717811731785381
+      "bora_V.ltebc_\uB77C\uBCA8_9": 1081430787962178620
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

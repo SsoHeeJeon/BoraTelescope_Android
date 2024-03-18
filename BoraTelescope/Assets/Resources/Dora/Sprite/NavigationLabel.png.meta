@@ -360,7 +360,7 @@ TextureImporter:
       213: 3282070394467387593
     second: NavigationLabel_80
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -381,6 +381,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -419,12 +420,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -436,7 +438,31 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -445,10 +471,34 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -2170,6 +2220,88 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      NavigationLabel_0: -3927660608520130595
+      NavigationLabel_1: 8885476736063808410
+      NavigationLabel_10: -4089044165396096971
+      NavigationLabel_11: -7346805973843734784
+      NavigationLabel_12: -5060052388159003123
+      NavigationLabel_13: -5515103572266601821
+      NavigationLabel_14: 6350575529240047645
+      NavigationLabel_15: -3843491643246648736
+      NavigationLabel_16: -1046739618404873652
+      NavigationLabel_17: -2881301743336193394
+      NavigationLabel_18: -8896983774724805655
+      NavigationLabel_19: -1470686446455111387
+      NavigationLabel_2: -513432529943635620
+      NavigationLabel_20: -8349376266441858676
+      NavigationLabel_21: -3617490760677535769
+      NavigationLabel_22: 1805670305735206486
+      NavigationLabel_23: 8239775213570725304
+      NavigationLabel_24: -923158628133034563
+      NavigationLabel_25: -7900783298461988836
+      NavigationLabel_26: -8571491190957900461
+      NavigationLabel_27: 5793209133010730978
+      NavigationLabel_28: 6353809325146365831
+      NavigationLabel_29: 3383437472695881945
+      NavigationLabel_3: 6428442061037043226
+      NavigationLabel_30: 5316593475021685288
+      NavigationLabel_31: -3019831122911475297
+      NavigationLabel_32: -2166763823690284850
+      NavigationLabel_33: 7841090598622000298
+      NavigationLabel_34: 3786437478478771013
+      NavigationLabel_35: -8379709167367207404
+      NavigationLabel_36: 3721492238069446429
+      NavigationLabel_37: -5579078193262216912
+      NavigationLabel_38: -5745183730692488972
+      NavigationLabel_39: 5564041065060187854
+      NavigationLabel_4: 7639947720977232951
+      NavigationLabel_40: -2867402928909134845
+      NavigationLabel_41: -778949016514201592
+      NavigationLabel_42: 8642866086002709441
+      NavigationLabel_43: 5382324995479118149
+      NavigationLabel_44: -5066465336093652621
+      NavigationLabel_45: -92009625864523588
+      NavigationLabel_46: -6861941942613213562
+      NavigationLabel_47: 1185313392055131902
+      NavigationLabel_48: -2424323569123226492
+      NavigationLabel_49: -5892528236513887408
+      NavigationLabel_5: -7867262764122509241
+      NavigationLabel_50: 3095050734947402893
+      NavigationLabel_51: -3453439225415478907
+      NavigationLabel_52: -3220178207975741011
+      NavigationLabel_53: -3043860353292745688
+      NavigationLabel_54: 751759973740300403
+      NavigationLabel_55: -5699186391879049452
+      NavigationLabel_56: -3236596885738518769
+      NavigationLabel_57: -5802786069314140167
+      NavigationLabel_58: 2353623766757695946
+      NavigationLabel_59: 8209825553309670788
+      NavigationLabel_6: -1174499133438584552
+      NavigationLabel_60: -4747031866517213466
+      NavigationLabel_61: -5244944380920073526
+      NavigationLabel_62: -3350264797883407434
+      NavigationLabel_63: 8788438294510512089
+      NavigationLabel_64: 5212575785175307562
+      NavigationLabel_65: 1925756590687646349
+      NavigationLabel_66: -401087452341431006
+      NavigationLabel_67: 2161099009706207400
+      NavigationLabel_68: -8657654369981930261
+      NavigationLabel_69: -5935909209918572795
+      NavigationLabel_7: 7332586484725379906
+      NavigationLabel_70: -2974381063463826858
+      NavigationLabel_71: 694513867671725194
+      NavigationLabel_72: 2868161236078933948
+      NavigationLabel_73: 3529214029057993938
+      NavigationLabel_74: 6333816285142844320
+      NavigationLabel_75: 4416655871100312115
+      NavigationLabel_76: -7575050953930891604
+      NavigationLabel_77: -3218467585097440943
+      NavigationLabel_78: -5710991617389908754
+      NavigationLabel_79: -2188248153493922078
+      NavigationLabel_8: -2523738125860128310
+      NavigationLabel_80: 3282070394467387593
+      NavigationLabel_9: -1950370681888416229
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

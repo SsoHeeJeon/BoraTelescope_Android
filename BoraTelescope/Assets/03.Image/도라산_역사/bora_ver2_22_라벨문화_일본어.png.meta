@@ -51,7 +51,7 @@ TextureImporter:
       213: -4988180562300693643
     second: "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_15"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -110,12 +111,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -127,7 +129,31 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -136,10 +162,34 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -496,6 +546,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_0": -7212207957334589996
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_1": 8018019859534307872
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_10": -8345357798843958277
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_11": -551059058281812448
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_12": 7390802919270676152
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_13": 7640428585822255996
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_14": 2718709453367377971
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_15": -4988180562300693643
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_2": 1104043608103834568
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_3": -5889552779603956674
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_4": -3097834904683893366
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_5": -3580073728355507761
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_6": 9047479329282532851
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_7": 8827047935372436527
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_8": 8774058518697448787
+      "bora_ver2_22_\uB77C\uBCA8\uBB38\uD654_\uC77C\uBCF8\uC5B4_9": -7647337489437247549
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

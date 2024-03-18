@@ -187,7 +187,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6051235727880290763, guid: ab892059dfbf82a47ace6ce74a2b4beb, type: 3}
+  m_Sprite: {fileID: -6051235727880290763, guid: ab892059dfbf82a47ace6ce74a2b4beb,
+    type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -516,7 +517,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3286574632236627116, guid: d106fb1f569dbb445a344b4412adcf8f, type: 3}
+  m_Sprite: {fileID: 3286574632236627116, guid: d106fb1f569dbb445a344b4412adcf8f,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -666,7 +668,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -9033938239934708833, guid: 6d5db3b81ea3ce54c86998b8518aa0f4, type: 3}
+  m_Sprite: {fileID: -9033938239934708833, guid: 6d5db3b81ea3ce54c86998b8518aa0f4,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -732,12 +735,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -964,8 +967,10 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: -8213308637052815573, guid: d106fb1f569dbb445a344b4412adcf8f, type: 3}
-    m_PressedSprite: {fileID: -8213308637052815573, guid: d106fb1f569dbb445a344b4412adcf8f, type: 3}
+    m_HighlightedSprite: {fileID: -8213308637052815573, guid: d106fb1f569dbb445a344b4412adcf8f,
+      type: 3}
+    m_PressedSprite: {fileID: -8213308637052815573, guid: d106fb1f569dbb445a344b4412adcf8f,
+      type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -1199,7 +1204,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &789008266
 Canvas:
   m_ObjectHideFlags: 0
@@ -1280,7 +1285,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &816003061
 Canvas:
   m_ObjectHideFlags: 0
@@ -1517,7 +1522,8 @@ MonoBehaviour:
   PancilSkatch: {fileID: 2100000, guid: 756de4f72a7574348ba5ca1d5700615d, type: 2}
   OilMaterial: {fileID: 2100000, guid: 5c509b21704f6694395b73c31114c853, type: 2}
   SharpenMaterial: {fileID: 2100000, guid: 0a09bcade907fc948b2240bc3072ea18, type: 2}
-  GaussianBlurMaterial: {fileID: 2100000, guid: e17c30ef5cc52674cbd00d96e7c3a1b9, type: 2}
+  GaussianBlurMaterial: {fileID: 2100000, guid: e17c30ef5cc52674cbd00d96e7c3a1b9,
+    type: 2}
   TestImageMaterial: {fileID: 2100000, guid: e1eb60f54f65f6b4aac3c82bc332ce34, type: 2}
   SoftLightMaterial: {fileID: 2100000, guid: e6a03e6443ab7a8468484bb0f99318ab, type: 2}
   SpringMaterial: {fileID: 2100000, guid: 6c53560a930e1ad4888562183c333208, type: 2}
@@ -1592,7 +1598,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6046867734233978193, guid: d106fb1f569dbb445a344b4412adcf8f, type: 3}
+  m_Sprite: {fileID: 6046867734233978193, guid: d106fb1f569dbb445a344b4412adcf8f,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2406,7 +2413,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8874286388904547498, guid: 155c50d7a7f2d79489cb6c4e23251772, type: 3}
+  m_Sprite: {fileID: -8874286388904547498, guid: 155c50d7a7f2d79489cb6c4e23251772,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2569,7 +2577,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6542516067565186906, guid: fbb1816cb6064f34d8e389cfc8e1e44b, type: 3}
+  m_Sprite: {fileID: 6542516067565186906, guid: fbb1816cb6064f34d8e389cfc8e1e44b,
+    type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2780,7 +2789,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1617357343
 Canvas:
   m_ObjectHideFlags: 0
@@ -3060,7 +3069,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8584325329478216251, guid: fbb1816cb6064f34d8e389cfc8e1e44b, type: 3}
+  m_Sprite: {fileID: 8584325329478216251, guid: fbb1816cb6064f34d8e389cfc8e1e44b,
+    type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3289,7 +3299,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -5504387172561317903, guid: 7f05a0a994f88374fa31f83ccb2b0809, type: 3}
+  m_Sprite: {fileID: -5504387172561317903, guid: 7f05a0a994f88374fa31f83ccb2b0809,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3799,7 +3810,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1311233288771001444, guid: fbb1816cb6064f34d8e389cfc8e1e44b, type: 3}
+  m_Sprite: {fileID: -1311233288771001444, guid: fbb1816cb6064f34d8e389cfc8e1e44b,
+    type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3962,7 +3974,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3782707599312184465, guid: fbb1816cb6064f34d8e389cfc8e1e44b, type: 3}
+  m_Sprite: {fileID: 3782707599312184465, guid: fbb1816cb6064f34d8e389cfc8e1e44b,
+    type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4106,7 +4119,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3860140345488070231, guid: d106fb1f569dbb445a344b4412adcf8f, type: 3}
+  m_Sprite: {fileID: -3860140345488070231, guid: d106fb1f569dbb445a344b4412adcf8f,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

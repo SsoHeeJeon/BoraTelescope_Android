@@ -156,7 +156,7 @@ TextureImporter:
       213: 5144761160261228006
     second: DetailText_K_25
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -177,6 +177,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -215,12 +216,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -232,7 +234,31 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -241,10 +267,34 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -1105,6 +1155,47 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      DetailText_K_00: -6867164859756996831
+      DetailText_K_01: 6022285647694264817
+      DetailText_K_02: -8718883282537545068
+      DetailText_K_03: 3757469595829583713
+      DetailText_K_04: -7253971594343409410
+      DetailText_K_05: -7885352840612621124
+      DetailText_K_06: -2337624284288781767
+      DetailText_K_07: -8363052445740507361
+      DetailText_K_08: -8388450352584785359
+      DetailText_K_09: 6536665682234862809
+      DetailText_K_10: -905327281729349454
+      DetailText_K_11: -2986642679143580883
+      DetailText_K_12: 1905317863931584479
+      DetailText_K_13: 5219077192591857359
+      DetailText_K_14: -3676624780710466167
+      DetailText_K_15: 1186598128953817436
+      DetailText_K_16: -4426545374280496379
+      DetailText_K_17: -7449931347850521180
+      DetailText_K_18: -7388556974170502977
+      DetailText_K_19: 3515705918462451038
+      DetailText_K_20: -6069250367424734232
+      DetailText_K_21: -2784437965653105886
+      DetailText_K_22: -7645207422956095021
+      DetailText_K_23: -9141111682152766184
+      DetailText_K_24: -8451965393362409808
+      DetailText_K_25: 5144761160261228006
+      DetailText_K_26: 6297584700779679845
+      DetailText_K_27: -3196462495564336555
+      DetailText_K_28: -4400746954096432903
+      DetailText_K_29: 2050623521541984799
+      DetailText_K_30: 893271289265453127
+      DetailText_K_31: 1699331455009166288
+      DetailText_K_32: 311689770005532555
+      DetailText_K_33: -1629524899692684215
+      DetailText_K_34: 2791207682561017562
+      DetailText_K_35: 4256269081307622034
+      DetailText_K_36: -1820355747919887013
+      DetailText_K_37: -554665132171803061
+      DetailText_K_38: 8573126709489319278
+      DetailText_K_39: -931096204618894384
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

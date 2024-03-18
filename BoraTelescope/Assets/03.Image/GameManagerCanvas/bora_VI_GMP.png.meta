@@ -42,7 +42,7 @@ TextureImporter:
       213: 3906383846236874890
     second: bora_VI_GMP_111
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -101,12 +102,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -118,12 +120,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -142,7 +144,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -2662,6 +2700,126 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bora_VI_GMP_0: 3549283099279893074
+      bora_VI_GMP_1: 3097067498119433586
+      bora_VI_GMP_10: 2597318676014200887
+      bora_VI_GMP_100: 3433134480166795186
+      bora_VI_GMP_101: 2246374843363432690
+      bora_VI_GMP_102: 4705604016144635636
+      bora_VI_GMP_103: 6106487118692046281
+      bora_VI_GMP_104: 6491925078068125057
+      bora_VI_GMP_105: 8973476549880977804
+      bora_VI_GMP_106: -4490987941943149580
+      bora_VI_GMP_107: -6544203419268623207
+      bora_VI_GMP_108: 8801490595138605342
+      bora_VI_GMP_109: 3430125748489032183
+      bora_VI_GMP_11: 4291687627168797745
+      bora_VI_GMP_110: -899899042864446878
+      bora_VI_GMP_111: 3906383846236874890
+      bora_VI_GMP_118: -2152425345905883775
+      bora_VI_GMP_12: 679877779762131564
+      bora_VI_GMP_123: 2542102436826899594
+      bora_VI_GMP_129: -1970731201542122136
+      bora_VI_GMP_13: 3709059375851598959
+      bora_VI_GMP_14: 5987851525789100283
+      bora_VI_GMP_145: -8704353189818714311
+      bora_VI_GMP_146: -673065755502690985
+      bora_VI_GMP_15: 655216106111487416
+      bora_VI_GMP_16: 5846986027388411875
+      bora_VI_GMP_160: -1100938092664083811
+      bora_VI_GMP_161: -3957900599469079599
+      bora_VI_GMP_17: 4927947509174286030
+      bora_VI_GMP_18: 4563457350797730943
+      bora_VI_GMP_19: -4067354544133836910
+      bora_VI_GMP_2: -5012270769521548981
+      bora_VI_GMP_20: -357877983552601042
+      bora_VI_GMP_21: -4271187520484067909
+      bora_VI_GMP_22: -502896375592084326
+      bora_VI_GMP_23: -8964058843221842726
+      bora_VI_GMP_24: 7280937360058626978
+      bora_VI_GMP_25: -9217748015066322238
+      bora_VI_GMP_26: 6029759083621225174
+      bora_VI_GMP_27: 617232012678786976
+      bora_VI_GMP_28: 4572551811599251014
+      bora_VI_GMP_29: 8696976360866318676
+      bora_VI_GMP_3: -5142802085894936278
+      bora_VI_GMP_30: -2602255216263057650
+      bora_VI_GMP_31: 4818943339469789716
+      bora_VI_GMP_32: -1479389411550296492
+      bora_VI_GMP_33: -7497395856824541534
+      bora_VI_GMP_34: -4481349139497514792
+      bora_VI_GMP_35: 9133679622815151981
+      bora_VI_GMP_36: 2342254368086835478
+      bora_VI_GMP_37: 6793649156634103007
+      bora_VI_GMP_38: -974518795198706213
+      bora_VI_GMP_39: 9142366195896667426
+      bora_VI_GMP_4: -6947073181933661839
+      bora_VI_GMP_40: -1124978690580431125
+      bora_VI_GMP_41: 346834151928320859
+      bora_VI_GMP_42: 5679668621834388996
+      bora_VI_GMP_43: -187644486653811420
+      bora_VI_GMP_44: -6198716147808226896
+      bora_VI_GMP_45: 948100635982375468
+      bora_VI_GMP_46: -4502826418793112793
+      bora_VI_GMP_47: -6485276674238524845
+      bora_VI_GMP_48: 1566747701097093666
+      bora_VI_GMP_49: 1273549722239270869
+      bora_VI_GMP_5: -8598382364314345149
+      bora_VI_GMP_50: 8343131096864338008
+      bora_VI_GMP_51: 8768664394517031802
+      bora_VI_GMP_52: 1783914357281819523
+      bora_VI_GMP_53: -8991974563268413481
+      bora_VI_GMP_54: 5473077049362237906
+      bora_VI_GMP_55: 4227252060253419239
+      bora_VI_GMP_56: -2557736614999297407
+      bora_VI_GMP_57: -6215265549897182865
+      bora_VI_GMP_58: 4999289889054250303
+      bora_VI_GMP_59: 2009584492184373220
+      bora_VI_GMP_6: -6791774708163041865
+      bora_VI_GMP_60: 1300350410422271195
+      bora_VI_GMP_61: -6700309260439549628
+      bora_VI_GMP_62: 3171413751282411831
+      bora_VI_GMP_63: 8859796760119298160
+      bora_VI_GMP_64: -8201637633251628125
+      bora_VI_GMP_65: -4705555781139567172
+      bora_VI_GMP_66: -2825482120219176744
+      bora_VI_GMP_67: -1664895237830247065
+      bora_VI_GMP_68: 4812187402525738597
+      bora_VI_GMP_69: -1995406370337153705
+      bora_VI_GMP_7: 3606891080145708120
+      bora_VI_GMP_70: 7461594829792902483
+      bora_VI_GMP_71: -6854397159297348125
+      bora_VI_GMP_72: 2000629961233517097
+      bora_VI_GMP_73: -3194182895709074499
+      bora_VI_GMP_74: 6707161062710930194
+      bora_VI_GMP_75: -7960352992539144996
+      bora_VI_GMP_76: 7621771524317990592
+      bora_VI_GMP_77: -3843709788422701427
+      bora_VI_GMP_78: 4719495260235608550
+      bora_VI_GMP_79: -4076947386271572999
+      bora_VI_GMP_8: 2923355105969428082
+      bora_VI_GMP_80: 2471554670269037856
+      bora_VI_GMP_81: -2160707514879700033
+      bora_VI_GMP_82: 991221138153487362
+      bora_VI_GMP_83: 8360203428781494910
+      bora_VI_GMP_84: 9093342791290575754
+      bora_VI_GMP_85: -7217489532595313304
+      bora_VI_GMP_86: -3614442671258467086
+      bora_VI_GMP_87: 4279129878532735318
+      bora_VI_GMP_88: 4473901045339456086
+      bora_VI_GMP_89: 5673767212160281711
+      bora_VI_GMP_9: -5147401017563727164
+      bora_VI_GMP_90: -3968693695017296354
+      bora_VI_GMP_91: -3022420463842273730
+      bora_VI_GMP_92: -3153013572753905373
+      bora_VI_GMP_93: -7162672454025484853
+      bora_VI_GMP_94: 9090236499629468265
+      bora_VI_GMP_95: 759183352442985282
+      bora_VI_GMP_96: -1731277574097531947
+      bora_VI_GMP_97: 29738582337364001
+      bora_VI_GMP_98: -3721230828357129954
+      bora_VI_GMP_99: 908076544631785776
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

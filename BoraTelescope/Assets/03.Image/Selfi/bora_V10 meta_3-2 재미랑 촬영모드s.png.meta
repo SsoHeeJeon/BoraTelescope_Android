@@ -33,7 +33,7 @@ TextureImporter:
       213: -2649091223459768041
     second: "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_9"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -54,6 +54,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -92,12 +93,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -109,12 +111,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -133,7 +135,19 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -142,10 +156,22 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: WebGL
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -376,6 +402,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_0": 4990658684259101416
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_1": -7840626362466973115
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_2": 3616507818436731379
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_3": 9219159695223110267
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_4": -5581997519201086967
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_5": -8870965005672285344
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_6": 4270347866024772629
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_7": -8960952848363230587
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_8": -2989515251050384729
+      "bora_V10 meta_3-2 \uC7AC\uBBF8\uB791 \uCD2C\uC601\uBAA8\uB4DCs_9": -2649091223459768041
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

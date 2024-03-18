@@ -297,7 +297,7 @@ TextureImporter:
       213: -1392349987927608570
     second: NamSanH_112
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -318,6 +318,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -356,12 +357,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -373,12 +375,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -397,7 +399,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -3169,6 +3207,138 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      NamSanH_0: -5497968116012191626
+      NamSanH_1: -7038769745043291703
+      NamSanH_10: 5577762535440897070
+      NamSanH_100: 7666057055662457194
+      NamSanH_101: -3852589185126995990
+      NamSanH_102: -3594769897112352324
+      NamSanH_103: -5290622509044350628
+      NamSanH_104: 3036178150384950504
+      NamSanH_105: -1695759338205430359
+      NamSanH_106: 1715458480496005600
+      NamSanH_107: -322931460072564708
+      NamSanH_108: -2444117722661719002
+      NamSanH_109: -6619240546545339149
+      NamSanH_11: -4763069756532681042
+      NamSanH_110: -7780251353099279664
+      NamSanH_111: 8619420553452961494
+      NamSanH_112: -1392349987927608570
+      NamSanH_113: -6578523880520382872
+      NamSanH_114: 4770139171903403546
+      NamSanH_115: 1991597352933567844
+      NamSanH_116: -2872310391073333110
+      NamSanH_117: 5594339482545747462
+      NamSanH_118: 2381619586225419383
+      NamSanH_119: -7696758303558278454
+      NamSanH_12: -5625356306255153181
+      NamSanH_120: 7625378295754802276
+      NamSanH_121: -3477251259951610571
+      NamSanH_122: 7434524411063253658
+      NamSanH_123: 8371346902852385310
+      NamSanH_124: 7795317699906672754
+      NamSanH_125: 1742219603492497756
+      NamSanH_126: -3086422987186414651
+      NamSanH_127: 7098445166731894555
+      NamSanH_128: 4835019457957037730
+      NamSanH_129: 6230086584586006354
+      NamSanH_13: 5501348980731122057
+      NamSanH_130: 7664654360683404968
+      NamSanH_14: -1783292333381163328
+      NamSanH_15: -938076727282599898
+      NamSanH_16: -5170223102724485087
+      NamSanH_17: -3185324661498611016
+      NamSanH_18: -4393170955471874452
+      NamSanH_19: 8045096070451149627
+      NamSanH_2: 1742005412537216609
+      NamSanH_20: 5818958755661760925
+      NamSanH_21: -6106368940319905613
+      NamSanH_22: 915795330054835932
+      NamSanH_23: 4435477174547672719
+      NamSanH_24: 8205731968478159583
+      NamSanH_25: -7712759300247547644
+      NamSanH_26: 4153078798608261880
+      NamSanH_27: -21271932574152860
+      NamSanH_28: 4394188088495591315
+      NamSanH_29: 8226904618231900609
+      NamSanH_3: -1932241584793429099
+      NamSanH_30: 3143683913398374841
+      NamSanH_31: 963602473144092254
+      NamSanH_32: -7996797794188660100
+      NamSanH_33: -3577232179426078053
+      NamSanH_34: 8594878586066408004
+      NamSanH_35: 666360898175949971
+      NamSanH_36: -3149144882033924545
+      NamSanH_37: 8387837839761753075
+      NamSanH_38: 5206941148768606674
+      NamSanH_39: -7742788388547690369
+      NamSanH_4: 9011926113298530857
+      NamSanH_40: 2730181654586378520
+      NamSanH_41: -8007051857900116687
+      NamSanH_42: 3642963171979520639
+      NamSanH_43: -6437894071644874673
+      NamSanH_44: -3807472784948402640
+      NamSanH_45: 3968602980034090388
+      NamSanH_46: 3128318246193172691
+      NamSanH_47: -1031459199913809764
+      NamSanH_48: 4493538555802219244
+      NamSanH_49: -1563071381638614665
+      NamSanH_5: -1043723006423862761
+      NamSanH_50: -5043083663415821504
+      NamSanH_51: -2322144588639675424
+      NamSanH_52: -3286787943938823315
+      NamSanH_53: 2409977193188284614
+      NamSanH_54: 2067267306729728438
+      NamSanH_55: 7845770560419291708
+      NamSanH_56: -5375560780907932146
+      NamSanH_57: -8308885515547876790
+      NamSanH_58: -4762215485418254522
+      NamSanH_59: -5598045456225742099
+      NamSanH_6: -1600793134675179227
+      NamSanH_60: 4799376551192869085
+      NamSanH_61: -7632734947038591022
+      NamSanH_62: -4029220833461141583
+      NamSanH_63: -71772729533898384
+      NamSanH_64: 5220237013041735380
+      NamSanH_65: -2869621376960221867
+      NamSanH_66: 6070905525632083086
+      NamSanH_67: -6576639835294469716
+      NamSanH_68: -4332218289846803579
+      NamSanH_69: 3307638566759052520
+      NamSanH_7: -5790840179300251430
+      NamSanH_70: -3085675515137745048
+      NamSanH_71: -6852805207580757291
+      NamSanH_72: -8222151523939863833
+      NamSanH_73: -1437664980499117112
+      NamSanH_74: 6995135419356371835
+      NamSanH_75: -6702765372527120030
+      NamSanH_76: -36940674363503739
+      NamSanH_77: -3437933542185423513
+      NamSanH_78: 4489827685857845264
+      NamSanH_79: 5538807405955524233
+      NamSanH_8: -7066929213291879675
+      NamSanH_80: 3145996844019952919
+      NamSanH_81: 6829127288972150704
+      NamSanH_82: 1854681865090193562
+      NamSanH_83: 9143961467209210548
+      NamSanH_84: -8942557956891773111
+      NamSanH_85: 6479702370167859539
+      NamSanH_86: 3169740424744042131
+      NamSanH_87: -7160296466218010253
+      NamSanH_88: -451023672020039813
+      NamSanH_89: -2652176008110546524
+      NamSanH_9: -1335156942634877752
+      NamSanH_90: -7120413398986430451
+      NamSanH_91: 6041360488635100433
+      NamSanH_92: -1678299595821768774
+      NamSanH_93: 7219326286474854269
+      NamSanH_94: 3883198375071510136
+      NamSanH_95: 4827581186085364992
+      NamSanH_96: -4762897043471222683
+      NamSanH_97: 1325466452145674895
+      NamSanH_98: -7458655083827340845
+      NamSanH_99: 4114577512831918251
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

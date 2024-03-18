@@ -14,7 +14,7 @@ public class Visitinfo : MonoBehaviour
     public List<string> Mar = new List<string>();
     public List<string> Ap = new List<string>();
     public List<string> May = new List<string>();
-    public List<string> Jun= new List<string>();
+    public List<string> Jun = new List<string>();
     public List<string> Jul = new List<string>();
     public List<string> Au = new List<string>();
     public List<string> S = new List<string>();
@@ -53,7 +53,7 @@ public class Visitinfo : MonoBehaviour
 
     void info(string month)
     {
-        if(int.Parse(month)<10)
+        if (int.Parse(month) < 10)
         {
             month = "0" + month;
         }

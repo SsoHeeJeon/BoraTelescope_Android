@@ -9,6 +9,7 @@ using UnityEngine.Video;
 public class See360Lotte : MonoBehaviour
 {
     public GameManager gamemanager;
+    public GameObject GameObject;
     public GameObject obj360;
     public GameObject obj360_Dis;
     public Material obj360_m;
@@ -86,11 +87,12 @@ public class See360Lotte : MonoBehaviour
                 {
                     OffLabel[index].color = new Color(1, 1, 1, OffLabel[index].color.a - 0.008f);
                 }
-            } else if(OffLabel[0].color.a == 0)
+            }
+            else if (OffLabel[0].color.a == 0)
             {
                 OffLabel[0].gameObject.transform.parent.gameObject.SetActive(false);
 
-                if(OnLabel[0].color.a == 1)
+                if (OnLabel[0].color.a == 1)
                 {
                     PastModeLabelOn = false;
                 }
@@ -131,7 +133,8 @@ public class See360Lotte : MonoBehaviour
                     {
                         obj360_m.SetTexture("_MainTex", Past70.texture);
                     }
-                } else if (!obj360.transform.parent.gameObject.activeSelf)
+                }
+                else if (!obj360.transform.parent.gameObject.activeSelf)
                 {
                     obj360_m.SetTexture("_MainTex", Past70.texture);
                 }
@@ -222,7 +225,8 @@ public class See360Lotte : MonoBehaviour
                 firsttouchmove = Vector3.zero;
                 secondtouchmove = Vector3.zero;
             }
-        } else if (Input.touchCount == 0)
+        }
+        else if (Input.touchCount == 0)
         {
             obj360_Dis.SetActive(true);
             fx = 0;
@@ -549,7 +553,7 @@ public class See360Lotte : MonoBehaviour
         //}
         currentmode = "Current";
         ChangeImage(currentmode);
-        for(int i=0; i< Label70.transform.childCount; i++)
+        for (int i = 0; i < Label70.transform.childCount; i++)
         {
             Label70.transform.GetChild(i).GetComponent<Image>().color = new Color(1, 1, 1, 0);
         }
@@ -564,7 +568,7 @@ public class See360Lotte : MonoBehaviour
             LabelCur.transform.GetChild(i).GetComponent<Image>().color = new Color(1, 1, 1, 1);
         }
 
-        for(int i=0; i< moveTime.transform.GetChild(0).childCount; i++)
+        for (int i = 0; i < moveTime.transform.GetChild(0).childCount; i++)
         {
             moveTime.transform.GetChild(0).GetChild(i).GetChild(0).gameObject.SetActive(false);
             moveTime.transform.GetChild(0).GetChild(i).GetComponent<Button>().enabled = true;

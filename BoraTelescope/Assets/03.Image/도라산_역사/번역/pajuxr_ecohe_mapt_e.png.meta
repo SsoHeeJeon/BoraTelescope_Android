@@ -63,7 +63,7 @@ TextureImporter:
       213: 3282593579588098580
     second: pajuxr_ecohe_mapt_e_10
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,6 +83,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -91,12 +93,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -114,16 +116,20 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -135,7 +141,31 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -144,10 +174,34 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -174,7 +228,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3cc988e0b3a1dc340800000000000000
-      internalID: 4885590011716082883
+      internalID: -1815999691500227421
       vertices: []
       indices: 
       edges: []
@@ -195,7 +249,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e43577bf6026a6e60800000000000000
-      internalID: 7956279473831629646
+      internalID: -6837287700705514645
       vertices: []
       indices: 
       edges: []
@@ -216,7 +270,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f8fa79b25a7e231f0800000000000000
-      internalID: -1066535465146404977
+      internalID: -8735809102289791885
       vertices: []
       indices: 
       edges: []
@@ -237,7 +291,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 482796492141d2be0800000000000000
-      internalID: -1500521030812601724
+      internalID: -640105895181053510
       vertices: []
       indices: 
       edges: []
@@ -258,7 +312,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d1249d7a215f99590800000000000000
-      internalID: -7666827430147309027
+      internalID: 5565788910705054711
       vertices: []
       indices: 
       edges: []
@@ -279,7 +333,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2cacd5a9032636220800000000000000
-      internalID: 2477932180871695042
+      internalID: -8749047205173367448
       vertices: []
       indices: 
       edges: []
@@ -300,7 +354,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d8294a4f3b3163dc0800000000000000
-      internalID: -3659715983567449459
+      internalID: -7119122789141539435
       vertices: []
       indices: 
       edges: []
@@ -321,7 +375,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aec7fb72cb50099a0800000000000000
-      internalID: -6228471978974544662
+      internalID: 8967070400819009874
       vertices: []
       indices: 
       edges: []
@@ -342,7 +396,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 343fd8eeba9e31b80800000000000000
-      internalID: -8425133553229106365
+      internalID: 9211780234651441479
       vertices: []
       indices: 
       edges: []
@@ -399,6 +453,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pajuxr_ecohe_mapt_e_0: -1815999691500227421
+      pajuxr_ecohe_mapt_e_1: -6837287700705514645
+      pajuxr_ecohe_mapt_e_10: 3282593579588098580
+      pajuxr_ecohe_mapt_e_2: -8735809102289791885
+      pajuxr_ecohe_mapt_e_3: -640105895181053510
+      pajuxr_ecohe_mapt_e_4: 5565788910705054711
+      pajuxr_ecohe_mapt_e_5: -8749047205173367448
+      pajuxr_ecohe_mapt_e_6: -7119122789141539435
+      pajuxr_ecohe_mapt_e_7: 8967070400819009874
+      pajuxr_ecohe_mapt_e_8: 9211780234651441479
+      pajuxr_ecohe_mapt_e_9: -6938040149136051280
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -74,7 +74,7 @@ public class GameManager : Contentsinfo
 {
     private static GameManager instance;
 
-    //½ºÅ©¸³Æ®
+    //ï¿½ï¿½Å©ï¿½ï¿½Æ®
     public Loading loading;
     public ClearMode clearMode;
     public BoraJoyStickLotte joystick;
@@ -88,7 +88,7 @@ public class GameManager : Contentsinfo
     public TourismMode tourismode;
     public EndIsland_Tour endisland_tour;
 
-    //°øÅë UI
+    //ï¿½ï¿½ï¿½ï¿½ UI
     public GameObject UI_All;
     public GameObject MenuBar;
     public GameObject NavigationBar;
@@ -118,11 +118,11 @@ public class GameManager : Contentsinfo
     public GameObject GM;
     public GameObject Manager;
 
-    // ¿Àµð¿À
+    // ï¿½ï¿½ï¿½ï¿½ï¿½
     public AudioSource ButtonEffect;
     public AudioClip ButtonSound;
 
-    // ³×ºñ°ÔÀÌ¼ÇÃ¢, ¾ð¾î¼±ÅÃÃ¢ On/Off
+    // ï¿½×ºï¿½ï¿½ï¿½Ì¼ï¿½Ã¢, ï¿½ï¿½î¼±ï¿½ï¿½Ã¢ On/Off
     public string MoveDir;
     public float navi_t;
     public float langnavi_t;
@@ -252,31 +252,31 @@ public class GameManager : Contentsinfo
             Destroy(gameObject);
         }
         ChangeLang(langstate);
-        Screen.SetResolution(1920, 1080, true);   
+        Screen.SetResolution(1920, 1080, true);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.touchCount>=1 || Input.GetMouseButtonDown(0))
+        if (Input.touchCount >= 1 || Input.GetMouseButtonDown(0))
         {
             touchtime = 0;
         }
         else
         {
-            if(!SceneManager.GetActiveScene().name.Contains("WaitingMode"))
+            if (!SceneManager.GetActiveScene().name.Contains("WaitingMode"))
             {
                 //touchtime += Time.deltaTime;
             }
         }
 
-        if(touchtime>60)
+        if (touchtime > 60)
         {
-            if(!Tip_Obj.activeSelf)
+            if (!Tip_Obj.activeSelf)
             {
                 OnClickHomeBtn();
             }
-            if(touchtime>120)
+            if (touchtime > 120)
             {
                 UI_All.SetActive(false);
                 SceneManager.LoadScene("WaitingMode");
@@ -291,16 +291,20 @@ public class GameManager : Contentsinfo
 
     public void Menu(GameObject btn)
     {
-        if(Tip_Obj.activeSelf)  
+        see360.GameObject.transform.parent = see360.gameObject.transform;
+        see360.GameObject.transform.localPosition = Vector3.zero;
+        see360.GameObject.SetActive(false);
+
+        if (Tip_Obj.activeSelf)
         {
             Tip_Obj.SetActive(false);
             modeonoff.TipMode.transform.GetChild(0).gameObject.SetActive(false);
         }
         else
         {
-            if(!(btn.name == "Tip" || btn.name== "Language" || btn.name == "Etc"))
+            if (!(btn.name == "Tip" || btn.name == "Language" || btn.name == "Etc"))
             {
-                for(int i =0; i<modeonoff.ModeList.Count; i++)
+                for (int i = 0; i < modeonoff.ModeList.Count; i++)
                 {
                     modeonoff.ModeList[i].transform.GetChild(0).gameObject.SetActive(false);
                 }
@@ -315,10 +319,10 @@ public class GameManager : Contentsinfo
             }
             switch (btn.name)
             {
-                case "LiveMode":            
+                case "LiveMode":
                     ErrorMessage.gameObject.SetActive(true);
                     modeonoff.LiveMode.transform.GetChild(0).gameObject.SetActive(false);
-                    modeonoff.ClearMode.transform.GetChild(0).gameObject.SetActive(true);        
+                    modeonoff.ClearMode.transform.GetChild(0).gameObject.SetActive(true);
                     break;
                 case "XRMode":
                     ErrorMessage.gameObject.SetActive(true);
@@ -326,22 +330,22 @@ public class GameManager : Contentsinfo
                 case "ClearMode":
                     if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
                     {
-                        if(Contentsinfo.ContentsName == "Lotte")
+                        if (Contentsinfo.ContentsName == "Lotte")
                         {
-                            if(clearMode.Clear120Obj.activeSelf)
+                            if (clearMode.Clear120Obj.activeSelf)
                             {
                                 if (see360.obj360.transform.parent.gameObject.activeSelf)
                                 {
                                     see360.Close360();
                                 }
 
-                                if(navibarstate == NavibarState.Close || navibarstate == NavibarState.Closing)
+                                if (navibarstate == NavibarState.Close || navibarstate == NavibarState.Closing)
                                 {
                                     navibarstate = NavibarState.Opening;
                                     etcbarstate = EtcBarState.Closing;
                                     langbarstate = LangBarState.Closing;
                                 }
-                                else if(navibarstate == NavibarState.Open || navibarstate == NavibarState.Opening)
+                                else if (navibarstate == NavibarState.Open || navibarstate == NavibarState.Opening)
                                 {
                                     navibarstate = NavibarState.Closing;
                                 }
@@ -368,12 +372,12 @@ public class GameManager : Contentsinfo
                             see360.Close360();
                         }
 
-                        if(startstate == StartState.Lotte)
+                        if (startstate == StartState.Lotte)
                         {
                             //Loading.nextScene = "ClearModeLotte";
                             OnClickLotte();
                         }
-                        else if(startstate == StartState.Odu)
+                        else if (startstate == StartState.Odu)
                         {
                             Loading.nextScene = "ClearModeOdu";
                         }
@@ -383,55 +387,59 @@ public class GameManager : Contentsinfo
                 case "PastMode":
                     if (!see360.obj360.transform.parent.gameObject.activeSelf)
                     {
-                        //if(SceneManager.GetActiveScene().name.Contains("ClearMode"))
-                        //{
-                        //    if(startstate == StartState.Lotte)
-                        //    {
-                        //        langbarstate = LangBarState.Closing;
-                        //        etcbarstate = EtcBarState.Closing;
-                        //        navibarstate = NavibarState.Closing;
-                        //        ResetList();
-                        //        ContentsName = "Lotte";
-                        //        TelescopeInfo(ContentsName);
-                        //        GetComponent<ReadJsonFile>().Readfile();
-                        //        Tip_Obj.GetComponent<Langague>().sp[0] = Tip_K;
-                        //        Tip_Obj.GetComponent<Langague>().sp[1] = Tip_E;
-                        //        Tip_Obj.GetComponent<Langague>().sp[2] = Tip_C;
-                        //        Tip_Obj.GetComponent<Langague>().sp[3] = Tip_J;
-                        //        Pastcheck = true;
-                        //        Loading.nextScene = "XRMode";
-                        //        SceneManager.LoadSceneAsync("Loading");
-                        //    }
-                        //    else if(startstate == StartState.Odu)
-                        //    {
-                        //        langbarstate = LangBarState.Closing;
-                        //        etcbarstate = EtcBarState.Closing;
-                        //        navibarstate = NavibarState.Closing;
-                        //        ResetList();
-                        //        ContentsName = "Odu";
-                        //        TelescopeInfo(ContentsName);
-                        //        GetComponent<ReadJsonFile>().Readfile();
-                        //        Tip_Obj.GetComponent<Langague>().sp[0] = Tip_K;
-                        //        Tip_Obj.GetComponent<Langague>().sp[1] = Tip_E;
-                        //        Tip_Obj.GetComponent<Langague>().sp[2] = Tip_C;
-                        //        Tip_Obj.GetComponent<Langague>().sp[3] = Tip_J;
-                        //        Pastcheck = true;
-                        //        Loading.nextScene = "XRMode";
-                        //        SceneManager.LoadSceneAsync("Loading");
-                        //    }
+                        if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
+                        {
+                            if (startstate == StartState.Lotte)
+                            {
+                                langbarstate = LangBarState.Closing;
+                                etcbarstate = EtcBarState.Closing;
+                                navibarstate = NavibarState.Closing;
+                                ResetList();
+                                ContentsName = "Lotte";
+                                TelescopeInfo(ContentsName);
+                                GetComponent<ReadJsonFile>().Readfile();
+                                Tip_Obj.GetComponent<Langague>().sp[0] = Tip_K;
+                                Tip_Obj.GetComponent<Langague>().sp[1] = Tip_E;
+                                Tip_Obj.GetComponent<Langague>().sp[2] = Tip_C;
+                                Tip_Obj.GetComponent<Langague>().sp[3] = Tip_J;
+                                // Pastcheck = true;
+                                // Loading.nextScene = "XRMode";
+                                // SceneManager.LoadSceneAsync("Loading");
+                            }
+                            else if (startstate == StartState.Odu)
+                            {
+                                langbarstate = LangBarState.Closing;
+                                etcbarstate = EtcBarState.Closing;
+                                navibarstate = NavibarState.Closing;
+                                ResetList();
+                                ContentsName = "Odu";
+                                TelescopeInfo(ContentsName);
+                                GetComponent<ReadJsonFile>().Readfile();
+                                Tip_Obj.GetComponent<Langague>().sp[0] = Tip_K;
+                                Tip_Obj.GetComponent<Langague>().sp[1] = Tip_E;
+                                Tip_Obj.GetComponent<Langague>().sp[2] = Tip_C;
+                                Tip_Obj.GetComponent<Langague>().sp[3] = Tip_J;
+                                // Pastcheck = true;
+                                // Loading.nextScene = "XRMode";
+                                // SceneManager.LoadSceneAsync("Loading");
+                            }
 
-                        //}
-                        //else
+                            see360.GameObject.SetActive(true);
+                            see360.GameObject.transform.parent = Camera.main.transform;
+                            see360.GameObject.transform.localPosition = Vector3.zero;
+                            see360.obj360.transform.GetChild(0).transform.position = new Vector3(0, 0, 0);
+                        }
+                        else
                         {
                             ErrorMessage.SetActive(true);
                         }
                     }
-                        break;
+                    break;
                 case "GuideMode":
                     if (see360.obj360.transform.parent.gameObject.activeSelf)
                     {
                         see360.Close360();
-                        if(state == State.NoDemo)
+                        if (state == State.NoDemo)
                         {
                             GameObject obj = new GameObject();
                             obj.name = "ClearMode";
@@ -444,9 +452,9 @@ public class GameManager : Contentsinfo
 
                     break;
                 case "Language":
-                    if(langbarstate==LangBarState.Open || langbarstate==LangBarState.Opening)
+                    if (langbarstate == LangBarState.Open || langbarstate == LangBarState.Opening)
                     {
-                        langbarstate= LangBarState.Closing;
+                        langbarstate = LangBarState.Closing;
                     }
                     else
                     {
@@ -456,22 +464,22 @@ public class GameManager : Contentsinfo
                     }
                     break;
                 case "Tip":
-                    if (!Tip_Obj.activeSelf)        // Tip ÀÌ¹ÌÁö°¡ ºñÈ°¼ºÈ­»óÅÂ¸é È°¼ºÈ­
+                    if (!Tip_Obj.activeSelf)        // Tip ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È°ï¿½ï¿½È­ï¿½ï¿½ï¿½Â¸ï¿½ È°ï¿½ï¿½È­
                     {
                         Tip_Obj.SetActive(true);
                     }
-                    else if (Tip_Obj.activeSelf)      // Tip ÀÌ¹ÌÁö°¡ È°¼ºÈ­ »óÅÂ¸é ºñÈ°¼ºÈ­
+                    else if (Tip_Obj.activeSelf)      // Tip ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½ È°ï¿½ï¿½È­ ï¿½ï¿½ï¿½Â¸ï¿½ ï¿½ï¿½È°ï¿½ï¿½È­
                     {
                         Tip_Obj.SetActive(false);
                     }
                     break;
                 case "Etc":
                     EtcBar.SetActive(true);
-                    if(etcbarstate == EtcBarState.Open || etcbarstate == EtcBarState.Opening)
+                    if (etcbarstate == EtcBarState.Open || etcbarstate == EtcBarState.Opening)
                     {
                         etcbarstate = EtcBarState.Closing;
                     }
-                    else if(etcbarstate == EtcBarState.Closing || etcbarstate == EtcBarState.Close)
+                    else if (etcbarstate == EtcBarState.Closing || etcbarstate == EtcBarState.Close)
                     {
                         etcbarstate = EtcBarState.Opening;
                         navibarstate = NavibarState.Closing;
@@ -491,30 +499,30 @@ public class GameManager : Contentsinfo
                 case "Setting":
 
                     break;
-                case "Navi_Close":      // ³×ºñ°ÔÀÌ¼Ç Ã¢¿¡ x ¹öÆ° ¼±ÅÃÇÏ¸é ³×ºñ°ÔÀÌ¼ÇÃ¢ ºñÈ°¼ºÈ­
+                case "Navi_Close":      // ï¿½×ºï¿½ï¿½ï¿½Ì¼ï¿½ Ã¢ï¿½ï¿½ x ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½×ºï¿½ï¿½ï¿½Ì¼ï¿½Ã¢ ï¿½ï¿½È°ï¿½ï¿½È­
                     navibarstate = NavibarState.Closing;
-                    if(SceneManager.GetActiveScene().name.Contains("ClearMode"))
+                    if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
                     {
                         modeonoff.ClearMode.transform.GetChild(0).gameObject.SetActive(true);
                     }
                     break;
-                case "LangNavi_Close":      // ¾ð¾î¼±ÅÃ Ã¢¿¡ x ¹öÆ° ¼±ÅÃÇÏ¸é ¾ð¾î¼±ÅÃ ºñÈ°¼ºÈ­
-                    langbarstate= LangBarState.Closing;
+                case "LangNavi_Close":      // ï¿½ï¿½î¼±ï¿½ï¿½ Ã¢ï¿½ï¿½ x ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½î¼±ï¿½ï¿½ ï¿½ï¿½È°ï¿½ï¿½È­
+                    langbarstate = LangBarState.Closing;
                     if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
                     {
                         modeonoff.ClearMode.transform.GetChild(0).gameObject.SetActive(true);
                     }
                     //MenuBar.transform.GetChild(3).gameObject.transform.GetChild(0).gameObject.SetActive(false);
                     break;
-                case "Etc_Close":      // ¾ð¾î¼±ÅÃ Ã¢¿¡ x ¹öÆ° ¼±ÅÃÇÏ¸é ¾ð¾î¼±ÅÃ ºñÈ°¼ºÈ­
-                    etcbarstate= EtcBarState.Closing;
+                case "Etc_Close":      // ï¿½ï¿½î¼±ï¿½ï¿½ Ã¢ï¿½ï¿½ x ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½î¼±ï¿½ï¿½ ï¿½ï¿½È°ï¿½ï¿½È­
+                    etcbarstate = EtcBarState.Closing;
                     if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
                     {
                         modeonoff.ClearMode.transform.GetChild(0).gameObject.SetActive(true);
                     }
                     break;
                 case "Visit":
-                    if(!SceneManager.GetActiveScene().name.Contains("VisitMode"))
+                    if (!SceneManager.GetActiveScene().name.Contains("VisitMode"))
                     {
                         if (see360.obj360.transform.parent.gameObject.activeSelf)
                         {
@@ -536,7 +544,7 @@ public class GameManager : Contentsinfo
                     {
                         navibarstate = NavibarState.Closing;
                     }
-                    else if(navibarstate == NavibarState.Close || navibarstate == NavibarState.Closing)
+                    else if (navibarstate == NavibarState.Close || navibarstate == NavibarState.Closing)
                     {
                         navibarstate = NavibarState.Opening;
                     }
@@ -547,37 +555,37 @@ public class GameManager : Contentsinfo
 
     public void NaviArr_set()
     {
-        if(NaviRect == null)
+        if (NaviRect == null)
         {
             NaviRect = NavigationBar.GetComponent<RectTransform>();
         }
-        if(navibarstate == NavibarState.Opening)
+        if (navibarstate == NavibarState.Opening)
         {
             Arrow.SetActive(false);
             if (NaviRect.sizeDelta.x < barOpen)
             {
-                NaviRect.sizeDelta = Vector2.Lerp(NaviRect.sizeDelta, new Vector2(barOpen + 5f, 1080), Time.deltaTime*5);
+                NaviRect.sizeDelta = Vector2.Lerp(NaviRect.sizeDelta, new Vector2(barOpen + 5f, 1080), Time.deltaTime * 5);
                 NaviBackground.fillAmount += 0.5f * Time.deltaTime;
-                if(NaviRect.sizeDelta.x > barOpen-5)
+                if (NaviRect.sizeDelta.x > barOpen - 5)
                 {
                     NaviRect.sizeDelta = new Vector2(barOpen + 5f, 1080);
                     navibarstate = NavibarState.Open;
                 }
             }
         }
-        else if(navibarstate == NavibarState.Closing)
+        else if (navibarstate == NavibarState.Closing)
         {
             if (NaviRect.sizeDelta.x > barClose)
             {
-                NaviRect.sizeDelta = Vector2.Lerp(NaviRect.sizeDelta, new Vector2(barClose - 5f, 1080), Time.deltaTime*3);
+                NaviRect.sizeDelta = Vector2.Lerp(NaviRect.sizeDelta, new Vector2(barClose - 5f, 1080), Time.deltaTime * 3);
                 NaviBackground.fillAmount -= 0.5f * Time.deltaTime;
                 if (NaviRect.sizeDelta.x < barClose + 10)
                 {
                     if (etcbarstate == EtcBarState.Close && langbarstate == LangBarState.Close)
                     {
-                        if(!(ContentsName=="NamsanH"||ContentsName=="Dora"))
+                        if (!(ContentsName == "NamsanH" || ContentsName == "Dora"))
                         {
-                            if(!SceneManager.GetActiveScene().name.Contains("VisitMode"))
+                            if (!SceneManager.GetActiveScene().name.Contains("VisitMode"))
                             {
                                 Arrow.SetActive(true);
                             }
@@ -622,7 +630,7 @@ public class GameManager : Contentsinfo
                 LangBackground.fillAmount -= 0.5f * Time.deltaTime;
                 if (LangRect.sizeDelta.x < barClose + 10)
                 {
-                    if(navibarstate == NavibarState.Close && etcbarstate == EtcBarState.Close)
+                    if (navibarstate == NavibarState.Close && etcbarstate == EtcBarState.Close)
                     {
                         if (!(ContentsName == "NamsanH" || ContentsName == "Dora" || ContentsName == "EndIsland"))
                         {
@@ -632,7 +640,7 @@ public class GameManager : Contentsinfo
                             }
                         }
                     }
-                    if(see360.obj360.transform.parent.gameObject.activeSelf)
+                    if (see360.obj360.transform.parent.gameObject.activeSelf)
                     {
                         Arrow.SetActive(false);
                     }
@@ -701,12 +709,12 @@ public class GameManager : Contentsinfo
 
     public void MinimapMoveStart()
     {
-        if(SceneManager.GetActiveScene().name.Contains("ClearMode"))
+        if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
         {
             clearMode.minimapbuttonstate = ClearMode.MiniMapButtonState.Click;
         }
     }
-    
+
     public void MinimapMoveEnd()
     {
         if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
@@ -740,7 +748,7 @@ public class GameManager : Contentsinfo
 
     public void ChangeLangage(GameObject obj)
     {
-        switch(obj.name)
+        switch (obj.name)
         {
             case "Korea":
                 langstate = LangState.Korea;
@@ -756,13 +764,13 @@ public class GameManager : Contentsinfo
                 break;
         }
         ChangeLang(langstate);
-        if(ContentsName == "Aegibong" || ContentsName == "Apsan")
+        if (ContentsName == "Aegibong" || ContentsName == "Apsan")
         {
             GetComponent<LabelMake>().MapLabel();
         }
-        else if(ContentsName == "EndIsland")
+        else if (ContentsName == "EndIsland")
         {
-            if(endisland_tour.ClickObj!=null)
+            if (endisland_tour.ClickObj != null)
             {
                 tourismode.SelectLabel(endisland_tour.ClickObj.name);
             }
@@ -772,7 +780,7 @@ public class GameManager : Contentsinfo
 
     public void ChangeLang(LangState Lang)
     {
-        for(int i=0; i< NaviLabelList.Count; i++)
+        for (int i = 0; i < NaviLabelList.Count; i++)
         {
             Destroy(NaviLabelList[i].gameObject);
         }
@@ -809,16 +817,16 @@ public class GameManager : Contentsinfo
                 NaviLabelContent.GetComponent<RectTransform>().sizeDelta = new Vector2(0, +12 + 62 * (Label_total.Count) + 27 * (Label_total.Count));
                 break;
         }
-         if(SceneManager.GetActiveScene().name.Contains("ClearMode"))
+        if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
         {
             clearMode.labeldetailstate = ClearMode.LabelDetailState.Closing;
         }
-        else if(SceneManager.GetActiveScene().name.Contains("NamsanH"))
+        else if (SceneManager.GetActiveScene().name.Contains("NamsanH"))
         {
             namsanhmode.OnClickHomeBtn();
         }
 
-        if(Contentsinfo.ContentsName == "Apsan" || ContentsName == "Aegibong")
+        if (Contentsinfo.ContentsName == "Apsan" || ContentsName == "Aegibong")
         {
             //switch(Lang)
             //{
@@ -856,7 +864,7 @@ public class GameManager : Contentsinfo
     {
         GetComponent<LabelMake>().Navilabel_Icon.Clear();
         GetComponent<LabelMake>().Navilabel_Text.Clear();
-        for (int i=0; i<obj.transform.parent.childCount; i++)
+        for (int i = 0; i < obj.transform.parent.childCount; i++)
         {
             if (obj.transform.parent.GetChild(i).name == obj.name)
             {
@@ -881,18 +889,18 @@ public class GameManager : Contentsinfo
                 switch (langstate)
                 {
                     case LangState.Korea:
-                    for (int i = 0; i < Label_total.Count; i++)
-                    {
-                        for(int k =0; k< Label_Cate_1.Count; k++)
+                        for (int i = 0; i < Label_total.Count; i++)
                         {
-                            if (Label_total[i] == Label_Cate_1[k])
+                            for (int k = 0; k < Label_Cate_1.Count; k++)
                             {
-                                LabelData(Label_Cate_1[k], NaviLabel_K[i], k, i);
+                                if (Label_total[i] == Label_Cate_1[k])
+                                {
+                                    LabelData(Label_Cate_1[k], NaviLabel_K[i], k, i);
+                                }
                             }
                         }
-                    }
-                    NaviLabelContent.GetComponent<RectTransform>().sizeDelta = new Vector2(0, +12 + 62 * (Label_Cate_1.Count) + 27 * (Label_Cate_1.Count));
-                    break;
+                        NaviLabelContent.GetComponent<RectTransform>().sizeDelta = new Vector2(0, +12 + 62 * (Label_Cate_1.Count) + 27 * (Label_Cate_1.Count));
+                        break;
                     case LangState.English:
                         for (int i = 0; i < Label_total.Count; i++)
                         {
@@ -1004,15 +1012,15 @@ public class GameManager : Contentsinfo
     public void OnClickHomeBtn()
     {
         langbarstate = LangBarState.Closing;
-        navibarstate= NavibarState.Closing;
+        navibarstate = NavibarState.Closing;
         etcbarstate = EtcBarState.Closing;
 
-        if(see360.obj360.transform.parent.gameObject.activeSelf)
+        if (see360.obj360.transform.parent.gameObject.activeSelf)
         {
             see360.Close360();
         }
 
-        if(guidevideo.transform.parent.gameObject.activeSelf)
+        if (guidevideo.transform.parent.gameObject.activeSelf)
         {
             guidevideo.OnClickYes();
         }
@@ -1022,17 +1030,17 @@ public class GameManager : Contentsinfo
         }
 
 
-        if(SceneManager.GetActiveScene().name.Contains("ClearMode"))
+        if (SceneManager.GetActiveScene().name.Contains("ClearMode"))
         {
             clearMode.OnClickHomeBtn();
             modeonoff.ClearMode.transform.GetChild(0).gameObject.SetActive(true);
         }
-        else if(SceneManager.GetActiveScene().name.Contains("VisitMode"))
+        else if (SceneManager.GetActiveScene().name.Contains("VisitMode"))
         {
             Tip_Obj.gameObject.SetActive(false);
             visitmanager.OnClickHomeBtn();
         }
-        else if(SceneManager.GetActiveScene().name.Contains("NamsanHMode"))
+        else if (SceneManager.GetActiveScene().name.Contains("NamsanHMode"))
         {
             namsanhmode.OnClickHomeBtn();
         }
@@ -1124,7 +1132,7 @@ public class GameManager : Contentsinfo
             Loading.nextScene = "ClearModeOdu";
             SceneManager.LoadSceneAsync("Loading");
         }
-        else if(startstate == StartState.Odu)
+        else if (startstate == StartState.Odu)
         {
             langbarstate = LangBarState.Closing;
             etcbarstate = EtcBarState.Closing;
@@ -1196,6 +1204,27 @@ public class GameManager : Contentsinfo
         ResetList();
         ContentsName = "EndIsland";
         Loading.nextScene = "TourismMode_EndIsland";
+        SceneManager.LoadSceneAsync("Loading");
+        GetComponent<ReadJsonFile>().Readfile();
+        TelescopeInfo(ContentsName);
+        Tip_Obj.GetComponent<Langague>().sp[0] = Tip_K;
+        Tip_Obj.GetComponent<Langague>().sp[1] = Tip_E;
+        Tip_Obj.GetComponent<Langague>().sp[2] = Tip_C;
+        Tip_Obj.GetComponent<Langague>().sp[3] = Tip_J;
+    }
+
+    public void OnCLickGoldSunset()
+    {
+        if (see360.obj360.transform.parent.gameObject.activeSelf)
+        {
+            see360.Close360();
+        }
+        langbarstate = LangBarState.Closing;
+        etcbarstate = EtcBarState.Closing;
+        navibarstate = NavibarState.Closing;
+        ResetList();
+        ContentsName = "GoldSunset";
+        Loading.nextScene = "TourismMode_GoldSunset";
         SceneManager.LoadSceneAsync("Loading");
         GetComponent<ReadJsonFile>().Readfile();
         TelescopeInfo(ContentsName);
@@ -1296,7 +1325,7 @@ public class GameManager : Contentsinfo
         navibarstate = NavibarState.Closing;
         etcbarstate = EtcBarState.Closing;
         langbarstate = LangBarState.Closing;
-         ErrorMessage.SetActive(true);
+        ErrorMessage.SetActive(true);
     }
 
     public void OnClickSelfiBtn()
@@ -1309,7 +1338,7 @@ public class GameManager : Contentsinfo
 
     public void CaptureSelfiCamera()
     {
-         ErrorMessage.SetActive(true);       
+        ErrorMessage.SetActive(true);
     }
 
 
@@ -1317,10 +1346,10 @@ public class GameManager : Contentsinfo
     public void OnclickManagerBtn()
     {
         ManagerCount++;
-        if(ManagerCount == 3)
+        if (ManagerCount == 3)
         {
             ManagerCount = 0;
-            if(Manager.activeSelf)
+            if (Manager.activeSelf)
             {
                 Manager.SetActive(false);
             }

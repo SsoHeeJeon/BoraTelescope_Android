@@ -138,7 +138,7 @@ TextureImporter:
       213: -799369631555610663
     second: "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_46"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -159,6 +159,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -197,12 +198,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -214,12 +216,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -238,7 +240,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -868,6 +906,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_10": 3428180882993188411
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_11": 1803853951148979871
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_12": 5695256978879208392
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_13": 477573915890557211
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_14": 7886563584351697799
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_15": 4799863683163925203
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_16": -2711821932318655580
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_17": 6627041182641858512
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_26": 3081504210961007819
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_27": -4163812894394664535
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_28": 5075894700104572249
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_29": -6279506194772507813
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_30": -130938156021232240
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_31": -2131180422089793944
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_32": -9116170846627744665
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_33": 7130631774377111830
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_36": -9168705419439280444
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_37": -8997958989935779609
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_38": -1463210323458747729
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_39": 1492452796946147185
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_40": -876737846208224594
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_41": 2258762196153985533
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_42": 2706802916413782007
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_43": -8746102739704576931
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_44": 4779105119423247287
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_45": -7766971201042192600
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_46": -799369631555610663
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_8": -6388556266690500409
+      "bora_V7lot_\uB77C\uBCA8_\uD0C0\uC784\uBA38\uC2E0_\uC911\uAD6D\uC5B4_9": -1838384870312238343
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

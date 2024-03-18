@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using Vuplex.WebView;
 
 public class WebViewController : MonoBehaviour
 {
@@ -21,7 +20,7 @@ public class WebViewController : MonoBehaviour
 
     public void OnClickBtn(GameObject name)
     {
-        if(gamemanager.state == GameManager.State.NoDemo)
+        if (gamemanager.state == GameManager.State.NoDemo)
         {
             gamemanager.ErrorMessage.gameObject.SetActive(true);
         }
@@ -29,7 +28,7 @@ public class WebViewController : MonoBehaviour
 
     public void CloseWebView()
     {
-        if(CurrentWebview != null)
+        if (CurrentWebview != null)
         {
             BackGround.SetActive(false);
             gamemanager.UI_All.SetActive(true);

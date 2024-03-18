@@ -13,7 +13,7 @@ public class Langague : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        switch(GameManager.langstate)
+        switch (GameManager.langstate)
         {
             case GameManager.LangState.Korea:
                 obj.sprite = sp[0];
@@ -28,6 +28,6 @@ public class Langague : MonoBehaviour
                 obj.sprite = sp[3];
                 break;
         }
-        obj.SetNativeSize();
+        // obj.SetNativeSize();
     }
 }

@@ -72,13 +72,13 @@ public class Contentsinfo : MonoBehaviour
     private void Awake()
     {
         ResetList();
-        if(ContentsName == null)
+        if (ContentsName == null)
         {
-            if(startstate == StartState.Odu)
+            if (startstate == StartState.Odu)
             {
                 ContentsName = "Odu";
             }
-            else if(startstate == StartState.Lotte)
+            else if (startstate == StartState.Lotte)
             {
                 ContentsName = "Lotte";
             }
@@ -88,7 +88,7 @@ public class Contentsinfo : MonoBehaviour
 
     public void ResetList()
     {
-        for(int i=0; i< NaviLabelList.Count; i++)
+        for (int i = 0; i < NaviLabelList.Count; i++)
         {
             Destroy(NaviLabelList[i].gameObject);
         }
@@ -112,7 +112,7 @@ public class Contentsinfo : MonoBehaviour
         DetailText_J.Clear();
         LabelName_K.Clear();
         LabelName_E.Clear();
-        LabelName_C.Clear();   
+        LabelName_C.Clear();
         LabelName_J.Clear();
         Array.Clear(MapLabel, 0, MapLabel.Length);
         Array.Clear(Narration_K, 0, Narration_K.Length);
@@ -185,7 +185,7 @@ public class Contentsinfo : MonoBehaviour
                 Tip_C = Resources.Load<Sprite>("Odu/Sprite/Tip_C");
                 Tip_J = Resources.Load<Sprite>("Odu/Sprite/Tip_J");
 
-                
+
                 RNaviLabelPrefab = NaviLabelPrefab;
                 break;
             case "BEXCO":
@@ -322,7 +322,7 @@ public class Contentsinfo : MonoBehaviour
                 break;
         }
 
-        if(!(ContentsName=="Dora" || ContentsName == "EndIsland"))
+        if (!(ContentsName == "Dora" || ContentsName == "EndIsland"))
         {
             for (int i = 0; i < Label_total.Count; i++)
             {
@@ -338,9 +338,9 @@ public class Contentsinfo : MonoBehaviour
         obj.SetActive(true);
         obj.transform.parent = NaviLabelContent;
         obj.name = Name;
-        if(ContentsName == "Apsan" || ContentsName == "Aegibong")
+        if (ContentsName == "Apsan" || ContentsName == "Aegibong")
         {
-            switch(GameManager.langstate)
+            switch (GameManager.langstate)
             {
                 case GameManager.LangState.Korea:
                     obj.transform.GetChild(0).gameObject.GetComponent<Text>().text = LabelName_K[k];
@@ -363,7 +363,7 @@ public class Contentsinfo : MonoBehaviour
         else
         {
             obj.GetComponent<Image>().sprite = sp;
-            if(ContentsName == "NamsanH")
+            if (ContentsName == "NamsanH")
             {
                 obj.transform.GetChild(0).gameObject.SetActive(false);
                 obj.transform.GetChild(1).gameObject.SetActive(false);
@@ -428,7 +428,17 @@ public class Contentsinfo : MonoBehaviour
         See360Lotte.Past70 = Resources.Load<Sprite>("Lotte/Sprite/360/Past70");
         See360Lotte.Past80 = Resources.Load<Sprite>("Lotte/Sprite/360/Past80");
         See360Lotte.Current = Resources.Load<Sprite>("Lotte/Sprite/360/Current");
-        See360Lotte.DisVideo = Directory.GetFiles(Application.dataPath + "/Resources/Lotte/Sprite/360/Dissolve/", "*.mp4");
+        // See360Lotte.DisVideo = Directory.GetFiles(Application.dataPath + "/Resources/Lotte/Sprite/360/Dissolve/", "*.mp4");
+        // See360Lotte.DisVideo = Directory.GetFiles(Application.streamingAssetsPath + "/Lotte/Sprite/360/Dissolve/", "*.mp4");
+        TextAsset[] loadedFiles = Resources.LoadAll<TextAsset>("Lotte/Sprite/360/Dissolve/");
+        string[] fileNames = new string[loadedFiles.Length];
+
+        for (int i = 0; i < loadedFiles.Length; i++)
+        {
+            fileNames[i] = loadedFiles[i].name;
+        }
+
+        See360Lotte.DisVideo = fileNames;
 
         for (int index = 0; index < See360Lotte.DisVideo.Length; index++)
         {
@@ -477,7 +487,7 @@ public class Contentsinfo : MonoBehaviour
 
     public void LoadLabelInfoNH()
     {
-        Label_total = new List<string> {"1991", "1996", "1998", "2003", "2013", "House1", "House2", "House3", "House4", "House5", "House6", "House7", "House8", "House9", "House10" };
+        Label_total = new List<string> { "1991", "1996", "1998", "2003", "2013", "House1", "House2", "House3", "House4", "House5", "House6", "House7", "House8", "House9", "House10" };
         Label_Cate_1 = new List<string> { "1991", "1996", "1998", "2003", "2013" };
         Label_Cate_2 = new List<string> { "House1", "House2", "House3", "House4", "House5", "House6", "House7", "House8", "House9", "House10" };
 

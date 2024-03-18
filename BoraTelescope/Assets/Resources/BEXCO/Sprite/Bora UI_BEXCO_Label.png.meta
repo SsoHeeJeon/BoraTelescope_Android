@@ -90,7 +90,7 @@ TextureImporter:
       213: -9105829083037503757
     second: Bora UI_BEXCO_Label_44
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -111,6 +111,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -149,12 +150,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -166,12 +168,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -190,7 +192,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -820,6 +858,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Bora UI_BEXCO_Label_10: -5244405060629454925
+      Bora UI_BEXCO_Label_11: -387643034372623230
+      Bora UI_BEXCO_Label_12: -6638388465895653819
+      Bora UI_BEXCO_Label_13: 4480424707400990391
+      Bora UI_BEXCO_Label_14: 2845866902359314617
+      Bora UI_BEXCO_Label_16: -4803606322987117433
+      Bora UI_BEXCO_Label_17: 9069189557098110371
+      Bora UI_BEXCO_Label_18: -1100773279030478746
+      Bora UI_BEXCO_Label_19: 8985445485473325754
+      Bora UI_BEXCO_Label_20: 3974653026346107713
+      Bora UI_BEXCO_Label_21: -1839929792486664144
+      Bora UI_BEXCO_Label_22: 1290865447203434245
+      Bora UI_BEXCO_Label_29: -3419010256961238154
+      Bora UI_BEXCO_Label_30: 8715763750341008638
+      Bora UI_BEXCO_Label_31: 876569174613665561
+      Bora UI_BEXCO_Label_32: -7220535967387886075
+      Bora UI_BEXCO_Label_33: -6475802385791724741
+      Bora UI_BEXCO_Label_34: -1217815257273847810
+      Bora UI_BEXCO_Label_35: -887328922404811910
+      Bora UI_BEXCO_Label_38: 3099269335355483065
+      Bora UI_BEXCO_Label_39: 7038265073260886886
+      Bora UI_BEXCO_Label_40: -7768294298644153823
+      Bora UI_BEXCO_Label_41: 4995750436718216888
+      Bora UI_BEXCO_Label_42: 4805342018466478198
+      Bora UI_BEXCO_Label_43: -2108384201836835761
+      Bora UI_BEXCO_Label_44: -9105829083037503757
+      Bora UI_BEXCO_Label_7: 7040946954664025707
+      Bora UI_BEXCO_Label_8: 2488415538303122131
+      Bora UI_BEXCO_Label_9: 2434755390433940188
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

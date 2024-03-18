@@ -60,7 +60,7 @@ TextureImporter:
       213: 6961187159564656326
     second: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_17"
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -81,6 +81,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -119,12 +120,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -136,12 +138,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -160,7 +162,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -601,6 +639,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_0": 8803719289711767970
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_1": 3042708338988729843
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_10": 4317724589827067543
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_11": -1241033197777953104
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_12": -7719951484958141302
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_13": 8301307355638727492
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_14": 3027944371187636727
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_15": 6151210781528543492
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_16": 9025144973011657992
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_17": 6961187159564656326
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_18": 1896758857700650962
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_2": -3091003185113615822
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_3": 4550519661136114338
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_4": 6986352189772836418
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_5": -3080135533017964154
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_6": -9069374960787167322
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_7": -8803983769175879934
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_8": 7478777746086280618
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_9": -8891610091640968896
+      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_90": 3029537510813349159
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

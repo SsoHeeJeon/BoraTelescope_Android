@@ -4,5 +4,44 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scene/Loading.unity
+    guid: 53c211c60aa52b448b9d1c68410682a0
+  - enabled: 1
+    path: Assets/01.Scene/ClearModeAegibong.unity
+    guid: 6fa7b99cddd48ef4e998a877a237367d
+  - enabled: 1
+    path: Assets/01.Scene/ClearModeApsan.unity
+    guid: dbe9bdeb559c78a49a2a11e1bfe2019f
+  - enabled: 1
+    path: Assets/01.Scene/ClearModeBEXCO.unity
+    guid: 08da3d9b98f29174da81b2ec0e82d6d7
+  - enabled: 1
+    path: Assets/01.Scene/ClearModeHigh1.unity
+    guid: 780567772020a05408fd38ae44de81f8
+  - enabled: 1
+    path: Assets/01.Scene/ClearModeLotte.unity
+    guid: 52eca0d3332323649bbd0a87286b6795
+  - enabled: 1
+    path: Assets/01.Scene/ClearModeOdu.unity
+    guid: ca0736fd6b59f7446bec5dd2b1595fbf
+  - enabled: 1
+    path: Assets/01.Scene/CultureMode_Dora.unity
+    guid: 86b5b785275004447b0f5a336bf38927
+  - enabled: 1
+    path: Assets/01.Scene/NamsanHMode.unity
+    guid: 0edf698adf5fee24185929fe567467bc
+  - enabled: 1
+    path: Assets/01.Scene/Space.unity
+    guid: 73efc5bbd05db16498d18478794c8100
+  - enabled: 1
+    path: Assets/01.Scene/TourismMode_EndIsland.unity
+    guid: a59f3d327cbc22448b6bcddc1abd0aac
+  - enabled: 1
+    path: Assets/01.Scene/VisitMode.unity
+    guid: 11c7cee196cb34d4fb2d396f6b2a4cf4
+  - enabled: 1
+    path: Assets/01.Scene/WaitingMode.unity
+    guid: 64d7cfff17037414b9d14486032cd5d7
   m_configObjects: {}

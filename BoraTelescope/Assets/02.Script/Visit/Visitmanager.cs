@@ -326,18 +326,18 @@ public class Visitmanager : MonoBehaviour
                         if (Month == DateTime.Now.ToString("MM"))
                         {
                             Directory.Delete("C:/Visit/" + Month, true);
-                            print("¿¬µµ ´Ù¸§");
+                            print("ï¿½ï¿½ï¿½ï¿½ ï¿½Ù¸ï¿½");
                             break;
                         }
                         else
                         {
-                            print("¿ù ´Ù¸§");
+                            print("ï¿½ï¿½ ï¿½Ù¸ï¿½");
                         }
 
                     }
                     else
                     {
-                        print("¿¬µµ °°À½");
+                        print("ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½");
                     }
                     Texture2D tex = new Texture2D(0, 0);
                     tex.LoadImage(byteTexture);
@@ -393,18 +393,18 @@ public class Visitmanager : MonoBehaviour
         //                if(Month == DateTime.Now.ToString("MM"))
         //                {
         //                    Directory.Delete("C:/Visit/" + Month, true);
-        //                    print("¿¬µµ ´Ù¸§");
+        //                    print("ï¿½ï¿½ï¿½ï¿½ ï¿½Ù¸ï¿½");
         //                    break;
         //                }
         //                else
         //                {
-        //                    print("¿ù ´Ù¸§");
+        //                    print("ï¿½ï¿½ ï¿½Ù¸ï¿½");
         //                }
 
         //            }
         //            else
         //            {
-        //                print("¿¬µµ °°À½");
+        //                print("ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½");
         //            }
         //            Texture2D tex = new Texture2D(0, 0);
         //            tex.LoadImage(byteTexture);
@@ -556,7 +556,7 @@ public class Visitmanager : MonoBehaviour
     GameObject Popup;
     public void OnClickHomeBtn()
     {
-        if(!VisitHome.activeSelf)
+        if (!VisitHome.activeSelf)
         {
             Popup.SetActive(true);
         }
@@ -574,7 +574,8 @@ public class Visitmanager : MonoBehaviour
             RealOut();
             ReadImage(Currentmonth);
             //NoticeWindow.NoticeWindowOpen("VisitCancel");
-        } else if (VisitHome.activeSelf)
+        }
+        else if (VisitHome.activeSelf)
         {
             try
             {
@@ -729,7 +730,7 @@ public class Visitmanager : MonoBehaviour
     GameObject Rightsp;
     [SerializeField]
     RectTransform IconMenu;
-     
+
     public void OnClickLeftRight(GameObject obj)
     {
         if (obj.name == "Right")
@@ -740,7 +741,7 @@ public class Visitmanager : MonoBehaviour
             Leftsp.transform.GetChild(0).gameObject.SetActive(false);
             Rightsp.transform.GetChild(0).gameObject.SetActive(false);
         }
-        else if(obj.name == "Left")
+        else if (obj.name == "Left")
         {
             IconMenu.anchoredPosition = new Vector2(553, 439);
             Leftsp.SetActive(false);

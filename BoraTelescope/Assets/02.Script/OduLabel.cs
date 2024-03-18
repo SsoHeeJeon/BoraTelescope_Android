@@ -63,7 +63,7 @@ public class OduLabel : MonoBehaviour
         DetailImage_K = Resources.LoadAll<Sprite>("Odu/Sprite/DetailImage_K");
         DetailImage_C = Resources.LoadAll<Sprite>("Odu/Sprite/DetailImage_C");
         DetailImage_J = Resources.LoadAll<Sprite>("Odu/Sprite/DetailImage_J");
-        
+
         Tip = Resources.Load<Sprite>("Odu/Sprite/Tip");
 
         Narration_K = Resources.LoadAll<AudioClip>("Odu/Narration/Korea");
@@ -90,7 +90,17 @@ public class OduLabel : MonoBehaviour
         See360Lotte.Past70 = Resources.Load<Sprite>("Lotte/Sprite/360/Past70");
         See360Lotte.Past80 = Resources.Load<Sprite>("Lotte/Sprite/360/Past80");
         See360Lotte.Current = Resources.Load<Sprite>("Lotte/Sprite/360/Current");
-        See360Lotte.DisVideo = Directory.GetFiles(Application.dataPath + "/Resources/Lotte/Sprite/360/Dissolve/", "*.mp4");
+        // See360Lotte.DisVideo = Directory.GetFiles(Application.dataPath + "/Resources/Lotte/Sprite/360/Dissolve/", "*.mp4");
+
+        TextAsset[] loadedFiles = Resources.LoadAll<TextAsset>("Lotte/Sprite/360/Dissolve/");
+        string[] fileNames = new string[loadedFiles.Length];
+
+        for (int i = 0; i < loadedFiles.Length; i++)
+        {
+            fileNames[i] = loadedFiles[i].name;
+        }
+
+        See360Lotte.DisVideo = fileNames;
 
         for (int index = 0; index < See360Lotte.DisVideo.Length; index++)
         {

@@ -183,7 +183,7 @@ TextureImporter:
       213: 4264588567924227120
     second: bora_V12bnd_interface s_59
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -204,6 +204,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -242,12 +243,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -259,7 +261,31 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -268,10 +294,34 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -1552,6 +1602,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bora_V12bnd_interface s_0: -2499446951434433155
+      bora_V12bnd_interface s_1: -2139697030728171058
+      bora_V12bnd_interface s_10: 6583507382278207976
+      bora_V12bnd_interface s_11: 629140375686491716
+      bora_V12bnd_interface s_12: -4032438233498725509
+      bora_V12bnd_interface s_13: -9165788901453747644
+      bora_V12bnd_interface s_14: -5163050886796074384
+      bora_V12bnd_interface s_15: 2662222442651016795
+      bora_V12bnd_interface s_16: -3284356635528083712
+      bora_V12bnd_interface s_17: -4818235946283800238
+      bora_V12bnd_interface s_18: 8255117000258119999
+      bora_V12bnd_interface s_19: 1432557288109307236
+      bora_V12bnd_interface s_2: -5074201506959591462
+      bora_V12bnd_interface s_20: -5608225029119213455
+      bora_V12bnd_interface s_21: 924960523282580450
+      bora_V12bnd_interface s_22: 738968635090196295
+      bora_V12bnd_interface s_23: -8438939843650048225
+      bora_V12bnd_interface s_24: 1257569209326798598
+      bora_V12bnd_interface s_25: 1950356193042367279
+      bora_V12bnd_interface s_26: -912535484848010418
+      bora_V12bnd_interface s_27: -7055598299254227550
+      bora_V12bnd_interface s_28: 7778377775255822122
+      bora_V12bnd_interface s_29: 7860202766330125204
+      bora_V12bnd_interface s_3: 4259583588913785700
+      bora_V12bnd_interface s_30: 4663749848634768415
+      bora_V12bnd_interface s_31: 382918344600359212
+      bora_V12bnd_interface s_32: -7211113097822980955
+      bora_V12bnd_interface s_33: 877412410533042057
+      bora_V12bnd_interface s_34: -1791299334444376159
+      bora_V12bnd_interface s_35: 5997773042329847416
+      bora_V12bnd_interface s_36: -7048989025549583015
+      bora_V12bnd_interface s_37: 5160385646303869946
+      bora_V12bnd_interface s_38: -1727471407838472287
+      bora_V12bnd_interface s_39: 6905418768887728208
+      bora_V12bnd_interface s_4: 8250865667797837017
+      bora_V12bnd_interface s_40: 5825172973631770354
+      bora_V12bnd_interface s_41: -4071670592506842182
+      bora_V12bnd_interface s_42: -8837213235266385325
+      bora_V12bnd_interface s_43: -3435019394560784882
+      bora_V12bnd_interface s_44: -5417756035420768867
+      bora_V12bnd_interface s_45: -4001926479933405669
+      bora_V12bnd_interface s_46: -6693042757043930137
+      bora_V12bnd_interface s_47: 1108177270240201876
+      bora_V12bnd_interface s_48: -1843502567456095043
+      bora_V12bnd_interface s_49: 8314921146288208274
+      bora_V12bnd_interface s_5: 6535468635364518703
+      bora_V12bnd_interface s_50: 4584067265060424641
+      bora_V12bnd_interface s_51: 4654346763543207911
+      bora_V12bnd_interface s_52: 4905275914797128022
+      bora_V12bnd_interface s_53: 6938378761520111888
+      bora_V12bnd_interface s_54: 6449982731574382097
+      bora_V12bnd_interface s_55: 3546485424800609943
+      bora_V12bnd_interface s_56: 4479713050418933001
+      bora_V12bnd_interface s_57: 6747339591842894289
+      bora_V12bnd_interface s_58: 6248981965664004536
+      bora_V12bnd_interface s_59: 4264588567924227120
+      bora_V12bnd_interface s_6: -674248824273436677
+      bora_V12bnd_interface s_7: 4704075268319093443
+      bora_V12bnd_interface s_8: 2055848314544564367
+      bora_V12bnd_interface s_9: -3266779092039869503
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

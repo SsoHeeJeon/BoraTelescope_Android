@@ -96,7 +96,7 @@ TextureImporter:
       213: 1768692991974799542
     second: bora_V12bnd_map_30
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -117,6 +117,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -155,12 +156,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -172,7 +174,31 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -181,10 +207,34 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -793,6 +843,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bora_V12bnd_map_1: 2335622242531420443
+      bora_V12bnd_map_10: 6307975040213912112
+      bora_V12bnd_map_11: -4135157619002065208
+      bora_V12bnd_map_12: -7999122775358037815
+      bora_V12bnd_map_13: 2586205157562561900
+      bora_V12bnd_map_14: -2062194164190105745
+      bora_V12bnd_map_15: -1194050448839275983
+      bora_V12bnd_map_16: -4198774202293728178
+      bora_V12bnd_map_18: -7044827788939706031
+      bora_V12bnd_map_19: -7749392642695018403
+      bora_V12bnd_map_2: 454504113313563104
+      bora_V12bnd_map_20: 3049044041466594169
+      bora_V12bnd_map_21: 3600113571015972444
+      bora_V12bnd_map_22: -3956245075891884499
+      bora_V12bnd_map_23: 5087634259687532852
+      bora_V12bnd_map_24: 6252307157779608695
+      bora_V12bnd_map_25: 3948780940607865404
+      bora_V12bnd_map_26: 5522126254341127844
+      bora_V12bnd_map_27: -2998771337702762816
+      bora_V12bnd_map_28: 4495608642619369827
+      bora_V12bnd_map_3: -7836952482442733303
+      bora_V12bnd_map_30: 1768692991974799542
+      bora_V12bnd_map_4: -5083142973299701495
+      bora_V12bnd_map_5: 6230539001918272750
+      bora_V12bnd_map_6: 4484181745373392855
+      bora_V12bnd_map_8: 6719818183919767614
+      bora_V12bnd_map_9: 7052861087226702905
+      bora_V12bnd_map_99: -2135681240213385571
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

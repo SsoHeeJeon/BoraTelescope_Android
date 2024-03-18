@@ -150,7 +150,7 @@ TextureImporter:
       213: -2707719621476646353
     second: bora_Vetc_1.selfie_s_73
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -171,6 +171,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -209,12 +210,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -226,12 +228,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -250,7 +252,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -2581,6 +2619,117 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bora_Vetc_1.selfie_s_0: -4908432961003288692
+      bora_Vetc_1.selfie_s_1: 235537220342593584
+      bora_Vetc_1.selfie_s_10: 5467768583023665787
+      bora_Vetc_1.selfie_s_102: 2516776996093998276
+      bora_Vetc_1.selfie_s_103: -8047823504796726076
+      bora_Vetc_1.selfie_s_104: -706262371274216238
+      bora_Vetc_1.selfie_s_107: 3892438955782290315
+      bora_Vetc_1.selfie_s_11: 8794741547044852449
+      bora_Vetc_1.selfie_s_115: -3929466354104553951
+      bora_Vetc_1.selfie_s_116: -5762703970616824700
+      bora_Vetc_1.selfie_s_117: -3414881624112690019
+      bora_Vetc_1.selfie_s_118: 8079794356299239572
+      bora_Vetc_1.selfie_s_119: -8568580659044996597
+      bora_Vetc_1.selfie_s_12: -5674473584421011233
+      bora_Vetc_1.selfie_s_123: -8310486054899273082
+      bora_Vetc_1.selfie_s_124: 6490034281132160779
+      bora_Vetc_1.selfie_s_13: 5515550376646599523
+      bora_Vetc_1.selfie_s_14: 560071529860577020
+      bora_Vetc_1.selfie_s_15: -3082022183820373495
+      bora_Vetc_1.selfie_s_16: -3031098897847301081
+      bora_Vetc_1.selfie_s_17: 4197320179228904926
+      bora_Vetc_1.selfie_s_18: 1836595806381864932
+      bora_Vetc_1.selfie_s_19: -99255937092466928
+      bora_Vetc_1.selfie_s_2: -1797951203247879202
+      bora_Vetc_1.selfie_s_20: -1098284711570126829
+      bora_Vetc_1.selfie_s_21: 2805229617420386885
+      bora_Vetc_1.selfie_s_212: -3432141972878643749
+      bora_Vetc_1.selfie_s_22: -6392978453166944402
+      bora_Vetc_1.selfie_s_23: -625567460610934281
+      bora_Vetc_1.selfie_s_237: 2892055161782861220
+      bora_Vetc_1.selfie_s_238: 2573989261278444964
+      bora_Vetc_1.selfie_s_239: -6549173325828526608
+      bora_Vetc_1.selfie_s_24: -7826358796561074324
+      bora_Vetc_1.selfie_s_25: -9135154840457293134
+      bora_Vetc_1.selfie_s_26: -4150036819667898450
+      bora_Vetc_1.selfie_s_266: 2254483447415939252
+      bora_Vetc_1.selfie_s_267: 6603507956820985055
+      bora_Vetc_1.selfie_s_268: 4903522688020088457
+      bora_Vetc_1.selfie_s_269: 8917352225905736295
+      bora_Vetc_1.selfie_s_27: -1785313699259862034
+      bora_Vetc_1.selfie_s_271: -3776300634553538376
+      bora_Vetc_1.selfie_s_272: 6170926369947765060
+      bora_Vetc_1.selfie_s_273: 6694737887620715127
+      bora_Vetc_1.selfie_s_28: -1565007280584772581
+      bora_Vetc_1.selfie_s_29: 5905628650983293615
+      bora_Vetc_1.selfie_s_3: -1639109970927013662
+      bora_Vetc_1.selfie_s_30: 218885193156327373
+      bora_Vetc_1.selfie_s_31: -7415725381991864904
+      bora_Vetc_1.selfie_s_32: 319420696110454614
+      bora_Vetc_1.selfie_s_33: -7184106743628578429
+      bora_Vetc_1.selfie_s_34: -1270598880623149838
+      bora_Vetc_1.selfie_s_35: 5743689518468255335
+      bora_Vetc_1.selfie_s_36: -6555353447448116151
+      bora_Vetc_1.selfie_s_37: 7562230551050909937
+      bora_Vetc_1.selfie_s_38: -2455026265518439345
+      bora_Vetc_1.selfie_s_39: -4076489157558966085
+      bora_Vetc_1.selfie_s_4: -4621077135064099621
+      bora_Vetc_1.selfie_s_40: 4081540731576335949
+      bora_Vetc_1.selfie_s_41: 759852320658864835
+      bora_Vetc_1.selfie_s_42: 6347634202788891258
+      bora_Vetc_1.selfie_s_43: 4492581636341786931
+      bora_Vetc_1.selfie_s_44: -8036808705072552716
+      bora_Vetc_1.selfie_s_45: 1867808220453077497
+      bora_Vetc_1.selfie_s_46: -6610581857443860734
+      bora_Vetc_1.selfie_s_47: 5824192477726540902
+      bora_Vetc_1.selfie_s_48: 989964784759084262
+      bora_Vetc_1.selfie_s_49: -6012714842230213047
+      bora_Vetc_1.selfie_s_5: 7618459856724937844
+      bora_Vetc_1.selfie_s_50: 5878937322686934340
+      bora_Vetc_1.selfie_s_51: 9147205900668655480
+      bora_Vetc_1.selfie_s_52: -1020214803077337127
+      bora_Vetc_1.selfie_s_53: 1241396074283575948
+      bora_Vetc_1.selfie_s_54: 2523655218126288173
+      bora_Vetc_1.selfie_s_55: 2951893135313374701
+      bora_Vetc_1.selfie_s_56: 7972030210622136449
+      bora_Vetc_1.selfie_s_57: 232996393903051406
+      bora_Vetc_1.selfie_s_58: 1157031610060493796
+      bora_Vetc_1.selfie_s_59: -2364749821896939713
+      bora_Vetc_1.selfie_s_6: 7637423714542963471
+      bora_Vetc_1.selfie_s_60: 6052017043478669120
+      bora_Vetc_1.selfie_s_61: -5361834329558943296
+      bora_Vetc_1.selfie_s_62: -1708851877565570926
+      bora_Vetc_1.selfie_s_63: 4566348092305755047
+      bora_Vetc_1.selfie_s_64: -5368852776140528296
+      bora_Vetc_1.selfie_s_65: -3955893287392228084
+      bora_Vetc_1.selfie_s_66: -9154256605703126944
+      bora_Vetc_1.selfie_s_67: 5008387548158597870
+      bora_Vetc_1.selfie_s_68: 4719324896934753735
+      bora_Vetc_1.selfie_s_69: 3105042743561430562
+      bora_Vetc_1.selfie_s_7: -9016139000001943611
+      bora_Vetc_1.selfie_s_70: -4807130412195728527
+      bora_Vetc_1.selfie_s_71: 8204488722197142929
+      bora_Vetc_1.selfie_s_72: 6330480940812426720
+      bora_Vetc_1.selfie_s_73: -2707719621476646353
+      bora_Vetc_1.selfie_s_76: -6886998711089943452
+      bora_Vetc_1.selfie_s_77: -2128941596789598660
+      bora_Vetc_1.selfie_s_78: 8503150628058647118
+      bora_Vetc_1.selfie_s_79: -1079852542494416857
+      bora_Vetc_1.selfie_s_8: -7243165775765111854
+      bora_Vetc_1.selfie_s_80: -3802781497558869196
+      bora_Vetc_1.selfie_s_81: 5765249176507871306
+      bora_Vetc_1.selfie_s_82: -6511290318786247148
+      bora_Vetc_1.selfie_s_83: -4172893475740841927
+      bora_Vetc_1.selfie_s_88: -1109697878492958991
+      bora_Vetc_1.selfie_s_89: 7344004633675185778
+      bora_Vetc_1.selfie_s_9: -6084153061395657664
+      bora_Vetc_1.selfie_s_90: 1207354070332069817
+      bora_Vetc_1.selfie_s_91: 7368015471603491717
+      bora_Vetc_1.selfie_s_92: 2700767944869802702
+      bora_Vetc_1.selfie_s_93: -9113285057470112180
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

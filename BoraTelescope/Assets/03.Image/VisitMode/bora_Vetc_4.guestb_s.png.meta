@@ -18,7 +18,7 @@ TextureImporter:
       213: 9212155979018469471
     second: bora_Vetc_4.guestb_s_17
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -39,6 +39,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -77,12 +78,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -94,12 +96,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 25
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -118,7 +120,43 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -1651,6 +1689,79 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bora_Vetc_4.guestb_s_0: 4936244421187443915
+      bora_Vetc_4.guestb_s_1: -4348662950849222256
+      bora_Vetc_4.guestb_s_10: -7104477017102508071
+      bora_Vetc_4.guestb_s_11: -2352841804649672931
+      bora_Vetc_4.guestb_s_12: 8313387221811089999
+      bora_Vetc_4.guestb_s_124: -1261792696962160005
+      bora_Vetc_4.guestb_s_125: 598517604700175691
+      bora_Vetc_4.guestb_s_126: -3631735923202718027
+      bora_Vetc_4.guestb_s_127: 6767206832506593667
+      bora_Vetc_4.guestb_s_128: 6497938227215049149
+      bora_Vetc_4.guestb_s_129: -4295115640181044936
+      bora_Vetc_4.guestb_s_13: -5019679164605662734
+      bora_Vetc_4.guestb_s_130: 402137832508554195
+      bora_Vetc_4.guestb_s_131: -1560891351279851849
+      bora_Vetc_4.guestb_s_132: -6637554542116537141
+      bora_Vetc_4.guestb_s_139: -1917558307928841353
+      bora_Vetc_4.guestb_s_14: 6110409230361263300
+      bora_Vetc_4.guestb_s_140: -871924711302404991
+      bora_Vetc_4.guestb_s_141: 6883144767421182112
+      bora_Vetc_4.guestb_s_142: -932484772620477945
+      bora_Vetc_4.guestb_s_143: 3332069374825810548
+      bora_Vetc_4.guestb_s_144: -6229381147744610114
+      bora_Vetc_4.guestb_s_145: -8236302778797492524
+      bora_Vetc_4.guestb_s_146: 8406518965085774220
+      bora_Vetc_4.guestb_s_147: 4488083540801810754
+      bora_Vetc_4.guestb_s_148: 6899408503339562637
+      bora_Vetc_4.guestb_s_15: -786293244326426422
+      bora_Vetc_4.guestb_s_158: -3986898451271022692
+      bora_Vetc_4.guestb_s_16: 5586550123185343070
+      bora_Vetc_4.guestb_s_160: 7583906970095760010
+      bora_Vetc_4.guestb_s_161: 1735393813793320786
+      bora_Vetc_4.guestb_s_162: -3398753772389386124
+      bora_Vetc_4.guestb_s_163: 4093467438196162255
+      bora_Vetc_4.guestb_s_164: -1092841139651479027
+      bora_Vetc_4.guestb_s_165: -674428550199524013
+      bora_Vetc_4.guestb_s_166: -6967165871806907419
+      bora_Vetc_4.guestb_s_167: -7038184969593735319
+      bora_Vetc_4.guestb_s_168: 5468511922979022990
+      bora_Vetc_4.guestb_s_169: 2528085065372282093
+      bora_Vetc_4.guestb_s_17: 9212155979018469471
+      bora_Vetc_4.guestb_s_170: 7434343015293615424
+      bora_Vetc_4.guestb_s_171: -881389765139666051
+      bora_Vetc_4.guestb_s_172: -1108871559164158201
+      bora_Vetc_4.guestb_s_173: 8860088821361210295
+      bora_Vetc_4.guestb_s_174: -6632848310702297971
+      bora_Vetc_4.guestb_s_175: -4903705297553080001
+      bora_Vetc_4.guestb_s_176: -545528608473028812
+      bora_Vetc_4.guestb_s_177: 3623361344294782757
+      bora_Vetc_4.guestb_s_178: -6993581603247563083
+      bora_Vetc_4.guestb_s_179: -3017078355356983795
+      bora_Vetc_4.guestb_s_180: 3130640775588231721
+      bora_Vetc_4.guestb_s_181: 6505685365292627386
+      bora_Vetc_4.guestb_s_182: -4527514868931277623
+      bora_Vetc_4.guestb_s_183: 187554893467387185
+      bora_Vetc_4.guestb_s_184: 8552133139491920518
+      bora_Vetc_4.guestb_s_2: -4780339643749716245
+      bora_Vetc_4.guestb_s_3: 4674519533921314079
+      bora_Vetc_4.guestb_s_4: -4364095157920192816
+      bora_Vetc_4.guestb_s_5: -9078840996275266664
+      bora_Vetc_4.guestb_s_6: 2307568174201879992
+      bora_Vetc_4.guestb_s_64: 3965493567787936482
+      bora_Vetc_4.guestb_s_65: 2553555571915786975
+      bora_Vetc_4.guestb_s_66: -4730882065477968989
+      bora_Vetc_4.guestb_s_67: -3733901186932982321
+      bora_Vetc_4.guestb_s_68: 7561466031679076168
+      bora_Vetc_4.guestb_s_69: -2226282811530694559
+      bora_Vetc_4.guestb_s_7: 3165828991432608267
+      bora_Vetc_4.guestb_s_70: 6994009528415861379
+      bora_Vetc_4.guestb_s_71: 3443955222867889460
+      bora_Vetc_4.guestb_s_72: 161074492991937918
+      bora_Vetc_4.guestb_s_8: -3505948596837568098
+      bora_Vetc_4.guestb_s_9: 5849384331887611857
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
