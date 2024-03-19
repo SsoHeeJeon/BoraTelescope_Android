@@ -11,19 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01.Scene/ClearModeAegibong.unity
     guid: 6fa7b99cddd48ef4e998a877a237367d
-  - enabled: 1
+  - enabled: 0
     path: Assets/01.Scene/ClearModeApsan.unity
     guid: dbe9bdeb559c78a49a2a11e1bfe2019f
-  - enabled: 1
+  - enabled: 0
     path: Assets/01.Scene/ClearModeBEXCO.unity
     guid: 08da3d9b98f29174da81b2ec0e82d6d7
-  - enabled: 1
+  - enabled: 0
     path: Assets/01.Scene/ClearModeHigh1.unity
     guid: 780567772020a05408fd38ae44de81f8
   - enabled: 1
     path: Assets/01.Scene/ClearModeLotte.unity
     guid: 52eca0d3332323649bbd0a87286b6795
-  - enabled: 1
+  - enabled: 0
     path: Assets/01.Scene/ClearModeOdu.unity
     guid: ca0736fd6b59f7446bec5dd2b1595fbf
   - enabled: 1
