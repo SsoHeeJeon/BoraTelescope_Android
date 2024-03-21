@@ -431,7 +431,9 @@ public class Contentsinfo : MonoBehaviour
         // See360Lotte.DisVideo = Directory.GetFiles(Application.dataPath + "/Resources/Lotte/Sprite/360/Dissolve/", "*.mp4");
         // See360Lotte.DisVideo = Directory.GetFiles(Application.streamingAssetsPath + "/Lotte/Sprite/360/Dissolve/", "*.mp4");
         TextAsset[] loadedFiles = Resources.LoadAll<TextAsset>("Lotte/Sprite/360/Dissolve/");
-        string[] fileNames = new string[loadedFiles.Length];
+        //string[] fileNames = new string[loadedFiles.Length];
+
+        string[] fileNames = Directory.GetFiles("Assets/Resources/Lotte/Sprite/360/Dissolve", "*.mp4*", SearchOption.AllDirectories);
 
         for (int i = 0; i < loadedFiles.Length; i++)
         {
@@ -442,29 +444,33 @@ public class Contentsinfo : MonoBehaviour
 
         for (int index = 0; index < See360Lotte.DisVideo.Length; index++)
         {
-            if (See360Lotte.DisVideo[index].Contains("CurPast70"))
+            if(!(See360Lotte.DisVideo[index].Contains("meta")))
             {
-                See360Lotte.Dis_CurPast70 = See360Lotte.DisVideo[index];
+                if (See360Lotte.DisVideo[index].Contains("CurPast70"))
+                {
+                    See360Lotte.Dis_CurPast70 = See360Lotte.DisVideo[index];
+                }
+                else if (See360Lotte.DisVideo[index].Contains("CurPast87"))
+                {
+                    See360Lotte.Dis_CurPast87 = See360Lotte.DisVideo[index];
+                }
+                else if (See360Lotte.DisVideo[index].Contains("Past87Cur"))
+                {
+                    See360Lotte.Dis_Past87Cur = See360Lotte.DisVideo[index];
+                }
+                else if (See360Lotte.DisVideo[index].Contains("Past8770"))
+                {
+                    See360Lotte.Dis_Past8770 = See360Lotte.DisVideo[index];
+                }
+                else if (See360Lotte.DisVideo[index].Contains("Past70Cur"))
+                {
+                    See360Lotte.Dis_Past70Cur = See360Lotte.DisVideo[index];
+                }
+                else if (See360Lotte.DisVideo[index].Contains("Past7087"))
+                {
+                    See360Lotte.Dis_Past7087 = See360Lotte.DisVideo[index];
             }
-            else if (See360Lotte.DisVideo[index].Contains("CurPast87"))
-            {
-                See360Lotte.Dis_CurPast87 = See360Lotte.DisVideo[index];
-            }
-            else if (See360Lotte.DisVideo[index].Contains("Past87Cur"))
-            {
-                See360Lotte.Dis_Past87Cur = See360Lotte.DisVideo[index];
-            }
-            else if (See360Lotte.DisVideo[index].Contains("Past8770"))
-            {
-                See360Lotte.Dis_Past8770 = See360Lotte.DisVideo[index];
-            }
-            else if (See360Lotte.DisVideo[index].Contains("Past70Cur"))
-            {
-                See360Lotte.Dis_Past70Cur = See360Lotte.DisVideo[index];
-            }
-            else if (See360Lotte.DisVideo[index].Contains("Past7087"))
-            {
-                See360Lotte.Dis_Past7087 = See360Lotte.DisVideo[index];
+
             }
         }
     }

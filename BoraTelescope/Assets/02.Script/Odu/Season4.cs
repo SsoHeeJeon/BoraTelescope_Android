@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Season4 : MonoBehaviour
@@ -60,6 +61,17 @@ public class Season4 : MonoBehaviour
 
     public List<GameObject> LabelList = new List<GameObject>();
 
+    [SerializeField]
+    GameObject DisLabelSpring;
+    [SerializeField]
+    GameObject DisLabelSummer;
+    [SerializeField]
+    GameObject DisLabelFall;
+    [SerializeField]
+    GameObject DisLabelWinter;
+
+    public List<GameObject> DisLabelList = new List<GameObject>();
+
 
     [SerializeField]
     ClearMode clearmode;
@@ -88,6 +100,12 @@ public class Season4 : MonoBehaviour
         LabelList.Add(LabelFall);
         LabelList.Add(LabelWinter);
 
+        DisLabelList.Add(DisLabelSpring);
+        DisLabelList.Add(DisLabelSummer);
+        DisLabelList.Add(DisLabelFall);
+        DisLabelList.Add(DisLabelWinter);
+
+
         GameObject obj = new GameObject();
         if (DateTime.Now.ToString("MM") == "12" || DateTime.Now.ToString("MM") == "01" || DateTime.Now.ToString("MM") == "02")
         {
@@ -97,7 +115,14 @@ public class Season4 : MonoBehaviour
         }
         else if (DateTime.Now.ToString("MM") == "03" || DateTime.Now.ToString("MM") == "04" || DateTime.Now.ToString("MM") == "05")
         {
-            obj.name = "Spring";
+            if(SceneManager.GetActiveScene().name.Contains("Aegibong"))
+            {
+                obj.name = "Summer";
+            }
+            else
+            {
+                obj.name = "Spring";
+            }
             OnClickSeason(obj);
         }
         else if (DateTime.Now.ToString("MM") == "06" || DateTime.Now.ToString("MM") == "07" || DateTime.Now.ToString("MM") == "08")
@@ -126,6 +151,7 @@ public class Season4 : MonoBehaviour
             XRList[i].SetActive(false);
             EffectList[i].SetActive(false);
             LabelList[i].SetActive(false);
+            DisLabelList[i].SetActive(false);
         }
 
         switch(obj.name)
@@ -135,6 +161,7 @@ public class Season4 : MonoBehaviour
                 XRList[0].SetActive(true);
                 EffectList[0].SetActive(true);
                 LabelList[0].SetActive(true);
+                DisLabelList[0].SetActive(true);
                 clearmode.AllMapLabels = LabelList[0];
                 break;
             case "Summer":
@@ -142,24 +169,29 @@ public class Season4 : MonoBehaviour
                 XRList[1].SetActive(true);
                 EffectList[1].SetActive(true);
                 LabelList[1].SetActive(true);
+                DisLabelList[1].SetActive(true);
                 clearmode.AllMapLabels = LabelList[1];
                 EffectList[1].GetComponent<Animator>().enabled = true;
                 break;
             case "Fall":
                 PanoList[2].SetActive(true);
-                XRList[2].SetActive(true);
+                XRList[1].SetActive(true);
                 EffectList[2].SetActive(true);
-                LabelList[2].SetActive(true);
-                clearmode.AllMapLabels = LabelList[2];
+                LabelList[1].SetActive(true);
+                DisLabelList[1].SetActive(true);
+                clearmode.AllMapLabels = LabelList[1];
                 break;
             case "Winter":
                 PanoList[3].SetActive(true);
-                XRList[3].SetActive(true);
+                XRList[1].SetActive(true);
                 EffectList[3].SetActive(true);
-                LabelList[3].SetActive(true);
-                clearmode.AllMapLabels = LabelList[3];
+                LabelList[1].SetActive(true);
+                DisLabelList[1].SetActive(true);
+                clearmode.AllMapLabels = LabelList[1];
                 break;
         }
+        clearmode.gamemanager.GetComponent<LabelMake>().ReadytoStart();
+        clearmode.gamemanager.GetComponent<LabelMake>().MapLabel();
     }
 
     void SeasonBar()

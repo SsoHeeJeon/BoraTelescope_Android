@@ -37,7 +37,7 @@ public class ClearMode : MonoBehaviour
     public MiniMapButtonState minimapbuttonstate = 0;
 
 
-    GameManager gamemanager;
+    public GameManager gamemanager;
     GameObject ClickLabel;
     [SerializeField]
     ExplainMode explainmode;

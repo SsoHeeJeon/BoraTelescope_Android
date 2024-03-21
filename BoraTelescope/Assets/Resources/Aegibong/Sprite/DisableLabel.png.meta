@@ -4,24 +4,45 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -4044678099092773978
-    second: DisableLabel_1
+    second: DisableLabel_00
   - first:
       213: -4817346974117773212
-    second: DisableLabel_3
+    second: DisableLabel_03
   - first:
       213: 2401789532428340817
-    second: DisableLabel_5
+    second: DisableLabel_04
   - first:
       213: -8591431368276000692
-    second: DisableLabel_7
+    second: DisableLabel_06
   - first:
       213: -3573247320938000125
     second: DisableLabel_9
   - first:
       213: 3695265608797037403
+    second: DisableLabel_10
+  - first:
+      213: 979260823687740749
+    second: DisableLabel_01
+  - first:
+      213: 751545007234004847
+    second: DisableLabel_08
+  - first:
+      213: -2234337043418107226
+    second: DisableLabel_02
+  - first:
+      213: -5042877028281491664
+    second: DisableLabel_09
+  - first:
+      213: 5815888805321769222
+    second: DisableLabel_05
+  - first:
+      213: 7181255930860627221
+    second: DisableLabel_07
+  - first:
+      213: 5451644253409037142
     second: DisableLabel_11
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -42,7 +63,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -81,13 +101,12 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -99,12 +118,12 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 25
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -123,43 +142,7 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 51
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -171,15 +154,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DisableLabel_1
+      name: DisableLabel_00
       rect:
         serializedVersion: 2
-        x: 261
+        x: 259
         y: 432
-        width: 163
+        width: 187
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 50, y: 0, z: 20, w: 0}
       outline: []
       physicsShape: []
@@ -192,15 +175,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DisableLabel_3
+      name: DisableLabel_03
       rect:
         serializedVersion: 2
-        x: 261
+        x: 20
         y: 372
         width: 163
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 50, y: 0, z: 20, w: 0}
       outline: []
       physicsShape: []
@@ -213,15 +196,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DisableLabel_5
+      name: DisableLabel_04
       rect:
         serializedVersion: 2
-        x: 261
+        x: 20
         y: 312
         width: 144
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 50, y: 0, z: 20, w: 0}
       outline: []
       physicsShape: []
@@ -234,15 +217,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DisableLabel_7
+      name: DisableLabel_06
       rect:
         serializedVersion: 2
-        x: 261
+        x: 20
         y: 252
         width: 201
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 50, y: 0, z: 20, w: 0}
       outline: []
       physicsShape: []
@@ -255,22 +238,148 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DisableLabel_9
+      name: DisableLabel_10
       rect:
         serializedVersion: 2
-        x: 261
-        y: 192
-        width: 144
+        x: 20
+        y: 132
+        width: 125
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 50, y: 0, z: 20, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 301dfd45e76496ec0800000000000000
-      internalID: -3573247320938000125
+      spriteID: b53a01b2e78384330800000000000000
+      internalID: 3695265608797037403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisableLabel_01
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 432
+        width: 163
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d3d52e788079d00800000000000000
+      internalID: 979260823687740749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisableLabel_08
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 432
+        width: 163
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b6e4c3360e6a00800000000000000
+      internalID: 751545007234004847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisableLabel_02
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 372
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2319a0c4a0ef0e0800000000000000
+      internalID: -2234337043418107226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisableLabel_09
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 312
+        width: 187
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fdd43af0a140ab0800000000000000
+      internalID: -5042877028281491664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisableLabel_05
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 252
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010066fd0036b050800000000000000
+      internalID: 5815888805321769222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisableLabel_07
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 192
+        width: 225
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5156d10a832f8a360800000000000000
+      internalID: 7181255930860627221
       vertices: []
       indices: 
       edges: []
@@ -279,19 +388,19 @@ TextureImporter:
       name: DisableLabel_11
       rect:
         serializedVersion: 2
-        x: 261
+        x: 259
         y: 132
         width: 125
         height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 50, y: 0, z: 20, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b53a01b2e78384330800000000000000
-      internalID: 3695265608797037403
+      spriteID: 65bce3e709128ab40800000000000000
+      internalID: 5451644253409037142
       vertices: []
       indices: 
       edges: []
@@ -306,13 +415,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      DisableLabel_1: -4044678099092773978
-      DisableLabel_11: 3695265608797037403
-      DisableLabel_3: -4817346974117773212
-      DisableLabel_5: 2401789532428340817
-      DisableLabel_7: -8591431368276000692
-      DisableLabel_9: -3573247320938000125
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

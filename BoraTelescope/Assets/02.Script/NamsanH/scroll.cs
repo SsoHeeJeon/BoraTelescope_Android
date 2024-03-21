@@ -426,6 +426,10 @@ public class scroll : MonoBehaviour
     public void ScrollHome()
     {
         CancelInvoke("DisObject");
+        if(Video==null)
+        {
+            Video = GetComponent<VideoPlayer>();
+        }
         Video.clip = null;
         DisText = true;
         ad.Stop();

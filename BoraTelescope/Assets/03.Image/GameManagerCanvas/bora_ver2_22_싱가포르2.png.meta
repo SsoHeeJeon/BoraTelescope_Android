@@ -59,8 +59,20 @@ TextureImporter:
   - first:
       213: 6961187159564656326
     second: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_17"
+  - first:
+      213: -6510912703863616131
+    second: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_19"
+  - first:
+      213: -4200939681363518624
+    second: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_20"
+  - first:
+      213: 2396366069756553074
+    second: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_21"
+  - first:
+      213: -5065046978079592824
+    second: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_22"
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -81,7 +93,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -120,7 +131,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -617,7 +627,7 @@ TextureImporter:
         width: 809
         height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -625,6 +635,90 @@ TextureImporter:
       bones: []
       spriteID: 2dfa2d1b124a25a10800000000000000
       internalID: 1896758857700650962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_19"
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 254
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d81a2646794a5a0800000000000000
+      internalID: -6510912703863616131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_20"
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 254
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1c790e9343b5c0800000000000000
+      internalID: -4200939681363518624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_21"
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 254
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27763a37e3a914120800000000000000
+      internalID: 2396366069756553074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_22"
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 254
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e66e4fb9655b9b0800000000000000
+      internalID: -5065046978079592824
       vertices: []
       indices: 
       edges: []
@@ -639,27 +733,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_0": 8803719289711767970
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_1": 3042708338988729843
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_10": 4317724589827067543
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_11": -1241033197777953104
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_12": -7719951484958141302
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_13": 8301307355638727492
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_14": 3027944371187636727
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_15": 6151210781528543492
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_16": 9025144973011657992
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_17": 6961187159564656326
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_18": 1896758857700650962
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_2": -3091003185113615822
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_3": 4550519661136114338
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_4": 6986352189772836418
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_5": -3080135533017964154
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_6": -9069374960787167322
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_7": -8803983769175879934
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_8": 7478777746086280618
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_9": -8891610091640968896
-      "bora_ver2_22_\uC2F1\uAC00\uD3EC\uB9742_90": 3029537510813349159
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

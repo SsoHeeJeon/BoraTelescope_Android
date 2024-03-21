@@ -23,7 +23,7 @@ public class DisableLabel : LabelName
     // xrmanager에서 라벨위치 변경가능하게하기
     public GameManager gamemanager;
 
-    public static List<string> HiddenLabelList = new List<string> { "DogogaeM", "AmsilV", "Quarry", "PromotionV", "Gwansanpo", "HanR" };
+    public static List<string> HiddenLabelList = new List<string> { "River", "DogogaeM", "Old", "AmsilV", "Quarry", "New", "PromotionV", "Dora", "Gwansanpo", "Dolgoji", "HanR", "Paju" };
     public GameObject[] HiddenObj_s;
     public static GameObject[] HiddenObj;
     public static Vector3[] HiddenLabelPosition = new Vector3[6];
@@ -47,10 +47,13 @@ public class DisableLabel : LabelName
         {
             if (DisableLabel_Obj[index].activeSelf)
             {
+                HiddenObj_s = new GameObject[DisableLabel_Obj[index].transform.childCount];
                 for (int indexs = 0; indexs < DisableLabel_Obj[index].transform.childCount; indexs++)
                 {
                     DisableLabel_text.Add(DisableLabel_Obj[index].transform.GetChild(indexs).gameObject.transform.GetChild(0).gameObject.GetComponent<Text>());
+                    HiddenObj_s[indexs] = DisableLabel_Obj[index].transform.GetChild(indexs).gameObject;
                 }
+                break;
             }
         }
 
@@ -61,7 +64,7 @@ public class DisableLabel : LabelName
                 if (DisableLabel_text[index].gameObject.transform.parent.gameObject.name == HiddenLabelList[indexs])
                 {
                     DisableLabel_text[index].gameObject.transform.parent.transform.GetComponent<RectTransform>().sizeDelta = new Vector2(156, 40);
-                    DisableLabel_text[index].gameObject.transform.GetComponent<RectTransform>().sizeDelta = new Vector2(110, 40);
+                    DisableLabel_text[index].gameObject.transform.GetComponent<RectTransform>().sizeDelta = new Vector2(110, 40); 
                     DisableLabel_text[index].gameObject.transform.GetComponent<RectTransform>().localPosition = new Vector2(-36, 40);
 
                     switch (GameManager.langstate)
