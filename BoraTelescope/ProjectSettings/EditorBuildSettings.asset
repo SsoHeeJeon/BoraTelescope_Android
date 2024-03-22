@@ -44,4 +44,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01.Scene/WaitingMode.unity
     guid: 64d7cfff17037414b9d14486032cd5d7
+  - enabled: 1
+    path: Assets/Scenes/Busan/TourismMode_GoldSunset.unity
+    guid: 3e4ca709b3b72ae449fa0c4fcdd3a0da
   m_configObjects: {}
