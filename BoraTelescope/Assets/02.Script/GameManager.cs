@@ -255,6 +255,8 @@ public class GameManager : Contentsinfo
         Screen.SetResolution(1920, 1080, true);
     }
 
+    private int ClickCount = 0;
+
     // Update is called once per frame
     void Update()
     {
@@ -287,7 +289,26 @@ public class GameManager : Contentsinfo
         NaviArr_set();
         LangArr_set();
         EtcArr_set();
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            ClickCount++;
+            if (!IsInvoking("DoubleClick"))
+                Invoke("DoubleClick", 1.0f);
+
+        }
+        else if (ClickCount >= 2)
+        {
+            CancelInvoke("DoubleClick");
+            Application.Quit();
+        }
     }
+
+    private void DoubleClick()
+    {
+        ClickCount = 0;
+    }
+
 
     public void Menu(GameObject btn)
     {

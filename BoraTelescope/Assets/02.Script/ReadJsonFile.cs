@@ -88,17 +88,17 @@ public class ReadJsonFile : MonoBehaviour
                 gamemanager.DetailText_C = DetailText_C;
                 gamemanager.DetailText_J = DetailText_J;
 
-//#if UNITY_EDITOR
-//#else
-//            filepath = Application.streamingAssetsPath +("/ARModeLabelPosition_" + "BEXCO" + ".json");
-//            UnityWebRequest www2 = UnityWebRequest.Get(filepath);
-//            www2.SendWebRequest();
-//            while(!www2.isDone)
-//            {
+                //#if UNITY_EDITOR
+                //#else
+                //            filepath = Application.streamingAssetsPath +("/ARModeLabelPosition_" + "BEXCO" + ".json");
+                //            UnityWebRequest www2 = UnityWebRequest.Get(filepath);
+                //            www2.SendWebRequest();
+                //            while(!www2.isDone)
+                //            {
 
-//            }
-//            Allstr = www2.downloadHandler.text;
-//#endif
+                //            }
+                //            Allstr = www2.downloadHandler.text;
+                //#endif
             }
         }
     }

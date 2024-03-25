@@ -430,46 +430,60 @@ public class Contentsinfo : MonoBehaviour
         See360Lotte.Current = Resources.Load<Sprite>("Lotte/Sprite/360/Current");
         // See360Lotte.DisVideo = Directory.GetFiles(Application.dataPath + "/Resources/Lotte/Sprite/360/Dissolve/", "*.mp4");
         // See360Lotte.DisVideo = Directory.GetFiles(Application.streamingAssetsPath + "/Lotte/Sprite/360/Dissolve/", "*.mp4");
-        TextAsset[] loadedFiles = Resources.LoadAll<TextAsset>("Lotte/Sprite/360/Dissolve/");
-        //string[] fileNames = new string[loadedFiles.Length];
+        VideoClip[] loadedFiles = Resources.LoadAll<VideoClip>("Lotte/Sprite/360/Dissolve/");
+        // string[] fileNames1 = new string[loadedFiles.Length];
 
-        string[] fileNames = Directory.GetFiles("Assets/Resources/Lotte/Sprite/360/Dissolve", "*.mp4*", SearchOption.AllDirectories);
+        // string[] fileNames = Directory.GetFiles("Lotte/Sprite/360/Dissolve", "*.mp4*", SearchOption.AllDirectories);
 
-        for (int i = 0; i < loadedFiles.Length; i++)
-        {
-            fileNames[i] = loadedFiles[i].name;
-        }
+        // UnityEngine.Object[] mp4Files = Resources.LoadAll("Lotte/Sprite/360/Dissolve/", typeof(UnityEngine.Video.VideoClip));
 
-        See360Lotte.DisVideo = fileNames;
+        // for (int i = 0; i < fileNames1.Length; i++)
+        // {
+        //     fileNames1[i] = $"Assets/Resources/Lotte/Sprite/360/Dissolve/{loadedFiles[i].name}.mp4";
+        // }
+
+        // for (int i = 0; i < mp4Files.Length; i++)
+        // {
+        //     // fileNames1[i] = loadedFiles[i].name;
+        //     Debug.Log(mp4Files[i].name);
+        // }
+
+        // string[] fileNames = Directory.GetFiles("Assets/Resources/Lotte/Sprite/360/Dissolve", "*.mp4*", SearchOption.AllDirectories);
+        // for (int i = 0; i < fileNames.Length; i++)
+        // {
+        //     Debug.Log(fileNames[i]);
+        // }
+
+        See360Lotte.DisVideo = loadedFiles;
 
         for (int index = 0; index < See360Lotte.DisVideo.Length; index++)
         {
-            if(!(See360Lotte.DisVideo[index].Contains("meta")))
+            if (!(See360Lotte.DisVideo[index].name.Contains("meta")))
             {
-                if (See360Lotte.DisVideo[index].Contains("CurPast70"))
+                if (See360Lotte.DisVideo[index].name.Contains("CurPast70"))
                 {
                     See360Lotte.Dis_CurPast70 = See360Lotte.DisVideo[index];
                 }
-                else if (See360Lotte.DisVideo[index].Contains("CurPast87"))
+                else if (See360Lotte.DisVideo[index].name.Contains("CurPast87"))
                 {
                     See360Lotte.Dis_CurPast87 = See360Lotte.DisVideo[index];
                 }
-                else if (See360Lotte.DisVideo[index].Contains("Past87Cur"))
+                else if (See360Lotte.DisVideo[index].name.Contains("Past87Cur"))
                 {
                     See360Lotte.Dis_Past87Cur = See360Lotte.DisVideo[index];
                 }
-                else if (See360Lotte.DisVideo[index].Contains("Past8770"))
+                else if (See360Lotte.DisVideo[index].name.Contains("Past8770"))
                 {
                     See360Lotte.Dis_Past8770 = See360Lotte.DisVideo[index];
                 }
-                else if (See360Lotte.DisVideo[index].Contains("Past70Cur"))
+                else if (See360Lotte.DisVideo[index].name.Contains("Past70Cur"))
                 {
                     See360Lotte.Dis_Past70Cur = See360Lotte.DisVideo[index];
                 }
-                else if (See360Lotte.DisVideo[index].Contains("Past7087"))
+                else if (See360Lotte.DisVideo[index].name.Contains("Past7087"))
                 {
                     See360Lotte.Dis_Past7087 = See360Lotte.DisVideo[index];
-            }
+                }
 
             }
         }

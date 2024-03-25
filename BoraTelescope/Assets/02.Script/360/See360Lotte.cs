@@ -24,13 +24,13 @@ public class See360Lotte : MonoBehaviour
     public static Sprite Past80;
     public static Sprite Current;
 
-    public static string[] DisVideo;
-    public static string Dis_Past7087;
-    public static string Dis_Past8770;
-    public static string Dis_Past70Cur;
-    public static string Dis_Past87Cur;
-    public static string Dis_CurPast70;
-    public static string Dis_CurPast87;
+    public static VideoClip[] DisVideo;
+    public static VideoClip Dis_Past7087;
+    public static VideoClip Dis_Past8770;
+    public static VideoClip Dis_Past70Cur;
+    public static VideoClip Dis_Past87Cur;
+    public static VideoClip Dis_CurPast70;
+    public static VideoClip Dis_CurPast87;
 
     public GameObject All360Label;
     public GameObject Label70;
@@ -370,7 +370,7 @@ public class See360Lotte : MonoBehaviour
                 case "Past70":
                     if (currentmode == "Current")
                     {
-                        DissolveV.url = Dis_CurPast70;
+                        DissolveV.clip = Dis_CurPast70;
                         OffLabel = new Image[LabelCur.transform.childCount];
                         for (int index = 0; index < OffLabel.Length; index++)
                         {
@@ -380,7 +380,7 @@ public class See360Lotte : MonoBehaviour
                     }
                     else if (currentmode == "Past80")
                     {
-                        DissolveV.url = Dis_Past8770;
+                        DissolveV.clip = Dis_Past8770;
 
                         OffLabel = new Image[Label80.transform.childCount];
                         for (int index = 0; index < OffLabel.Length; index++)
@@ -401,7 +401,7 @@ public class See360Lotte : MonoBehaviour
                 case "Past80":
                     if (currentmode == "Current")
                     {
-                        DissolveV.url = Dis_CurPast87;
+                        DissolveV.clip = Dis_CurPast87;
                         OffLabel = new Image[LabelCur.transform.childCount];
                         for (int index = 0; index < OffLabel.Length; index++)
                         {
@@ -411,7 +411,7 @@ public class See360Lotte : MonoBehaviour
                     }
                     else if (currentmode == "Past70")
                     {
-                        DissolveV.url = Dis_Past7087;
+                        DissolveV.clip = Dis_Past7087;
                         OffLabel = new Image[Label70.transform.childCount];
                         for (int index = 0; index < OffLabel.Length; index++)
                         {
@@ -431,7 +431,7 @@ public class See360Lotte : MonoBehaviour
                 case "Current":
                     if (currentmode == "Past70")
                     {
-                        DissolveV.url = Dis_Past70Cur;
+                        DissolveV.clip = Dis_Past70Cur;
                         OffLabel = new Image[Label70.transform.childCount];
                         for (int index = 0; index < OffLabel.Length; index++)
                         {
@@ -441,7 +441,7 @@ public class See360Lotte : MonoBehaviour
                     }
                     else if (currentmode == "Past80")
                     {
-                        DissolveV.url = Dis_Past87Cur;
+                        DissolveV.clip = Dis_Past87Cur;
                         OffLabel = new Image[Label80.transform.childCount];
                         for (int index = 0; index < OffLabel.Length; index++)
                         {
@@ -461,8 +461,10 @@ public class See360Lotte : MonoBehaviour
             }
             currentmode = btn.name;
 
-            DissolveV.time = 2f;
-            DissolveV.Play();
+            // DissolveV.Pause();
+            // DissolveV.time = 2f;
+            // DissolveV.Play();
+
             for (int index = 0; index < 3; index++)
             {
                 moveTime.transform.GetChild(0).transform.GetChild(index).gameObject.transform.GetChild(0).gameObject.SetActive(false);

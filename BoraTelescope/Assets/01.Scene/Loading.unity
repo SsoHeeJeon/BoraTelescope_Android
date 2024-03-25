@@ -772,7 +772,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1126984174}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: OnCLickEndisland
+        m_MethodName: OnCLickGoldSunset
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -22913,15 +22913,17 @@ VideoPlayer:
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 3
   m_AspectRatio: 2
-  m_DataSource: 1
+  m_DataSource: 0
   m_PlaybackSpeed: 2.2
   m_AudioOutputMode: 2
-  m_TargetAudioSources: []
-  m_DirectAudioVolumes: []
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
   m_Url: 
-  m_EnabledAudioTracks: 
-  m_DirectAudioMutes: 
-  m_ControlledAudioTrackCount: 0
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
   m_Looping: 0
@@ -43133,8 +43135,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8798445118700143322}
   m_HandleRect: {fileID: 8798445118700143323}
   m_Direction: 0
-  m_Value: 1.0000958
-  m_Size: 0.00009593648
+  m_Value: 0.9998563
+  m_Size: 0.00014365179
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -43794,7 +43796,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8798445118788882285}
   m_HandleRect: {fileID: 8798445118788882286}
   m_Direction: 2
-  m_Value: 0.99999976
+  m_Value: 1
   m_Size: 0.6440922
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -47725,7 +47727,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -0.31854248, y: -0.0000076293945}
+  m_AnchoredPosition: {x: -0.31851196, y: -0.0000076293945}
   m_SizeDelta: {x: 362, y: 65.9394}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &8798445118967262018
